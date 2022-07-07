@@ -1,4 +1,4 @@
-words = gets.split(/\W+/)
+words = gets.chomp.split(/\W+/)
 
 words.each do |w|
 	charArray = w.chars

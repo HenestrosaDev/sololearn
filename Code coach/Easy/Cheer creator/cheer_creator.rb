@@ -1,4 +1,4 @@
-yards = gets.to_i
+yards = gets.chomp.to_i
 
 if yards > 10
 	puts "High Five"

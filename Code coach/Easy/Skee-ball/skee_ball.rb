@@ -1,5 +1,5 @@
-score = gets.to_i
-squirtGunPrice = gets.to_i
+score = gets.chomp.to_i
+squirtGunPrice = gets.chomp.to_i
 
 ratio = 12  # 12 points = 1 ticket
 tickets = score / ratio

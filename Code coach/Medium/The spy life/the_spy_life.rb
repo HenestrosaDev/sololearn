@@ -1,4 +1,4 @@
-encodedChars = gets.split('')
+encodedChars = gets.chomp.split('')
 decoded = ""
 
 encodedChars.each do |char|

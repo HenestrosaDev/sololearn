@@ -1,4 +1,4 @@
-chars = gets.split("")
+chars = gets.chomp.split("")
 previousChar = ""
 isRepeated = false
 
