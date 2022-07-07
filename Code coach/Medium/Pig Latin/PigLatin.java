@@ -8,9 +8,8 @@ public class PigLatin {
 
 		for (String word : words) {
 			StringBuilder sb = new StringBuilder(word);
-			sb.append(word.charAt(0));
+			sb.append(word.charAt(0) + "ay");
 			sb.delete(0, 1);
-			sb.append("ay");
 			System.out.print(sb + " ");
 		}
 
