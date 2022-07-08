@@ -11,7 +11,8 @@ int main()
 		cin >> houses;
 	} while (houses < 3);
 
-	cout << ceil(100.0 / houses * 2);
+	int billProbability = ceil(100.0 / houses * 2);
+	cout << billProbability;
 
 	return 0;
 }

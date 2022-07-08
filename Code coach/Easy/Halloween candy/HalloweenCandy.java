@@ -10,7 +10,8 @@ public class HalloweenCandy {
 			houses = input.nextInt();
 		} while (houses < 3);
 
-		System.out.println((int) Math.ceil(100.0 / houses * 2));
+		int billProbability = (int) Math.ceil(100.0 / houses * 2);
+		System.out.println(billProbability);
 
 		input.close();
 	}
