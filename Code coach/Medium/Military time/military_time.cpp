@@ -13,7 +13,6 @@ int main()
 	smatch res;
 	string matchedDayPeriod = "";
 
-// esto no vca
 	string::const_iterator searchStart(time.cbegin());
 	while (regex_search(searchStart, time.cend(), res, exp))
 	{
