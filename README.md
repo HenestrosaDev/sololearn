@@ -91,4 +91,5 @@ Compilation of all the code projects for each module of the courses that I have 
 ### Hard
 
 - [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/New%20driver's%20license)
+- [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Password%20validation)
 - [Security](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Security)
