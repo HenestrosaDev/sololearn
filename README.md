@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 # Sololearn
 
 Compilation of code coaches and language courses projects from Sololearn.
