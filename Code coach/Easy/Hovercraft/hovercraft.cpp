@@ -1,10 +1,9 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	int unitsSold;
-	cin >> unitsSold;
+	std::cin >> unitsSold;
 
 	int sellPrice = 3000000;
 	int costPrice = 2000000;
@@ -16,15 +15,15 @@ int main()
 
 	if (benefit > expenses)
 	{
-		cout << "Profit";
+		std::cout << "Profit";
 	}
 	else if (benefit < expenses)
 	{
-		cout << "Loss";
+		std::cout << "Loss";
 	}
 	else
 	{
-		cout << "Broke Even";
+		std::cout << "Broke Even";
 	}
 
 	return 0;

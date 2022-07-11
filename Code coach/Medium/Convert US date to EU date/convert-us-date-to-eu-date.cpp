@@ -8,7 +8,7 @@ void split(std::string const &str, const char delim, std::vector<std::string> &o
 	std::stringstream ss(str);
 	std::string segment;
 
-	while (std::getline(ss, segment, delim))
+	while (getline(ss, segment, delim))
 	{
 		out.push_back(segment);
 	}
@@ -32,7 +32,7 @@ std::map<std::string, std::string> monthToNum = {
 int main()
 {
 	std::string usDate;
-	std::getline(std::cin, usDate);
+	getline(std::cin, usDate);
 
 	std::string euDate;
 

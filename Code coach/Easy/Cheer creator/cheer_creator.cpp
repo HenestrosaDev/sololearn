@@ -1,24 +1,23 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	int yards;
-	cin >> yards;
+	std::cin >> yards;
 
 	if (yards > 10)
 	{
-		cout << "High Five";
+		std::cout << "High Five";
 	}
 	else if (yards < 1)
 	{
-		cout << "shh";
+		std::cout << "shh";
 	}
 	else
 	{
 		for(int i = 0; i < yards; i++)
 		{
-			cout << "Ra!";
+			std::cout << "Ra!";
 		}
 	}
 

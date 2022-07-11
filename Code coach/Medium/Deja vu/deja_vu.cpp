@@ -1,10 +1,9 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
-	string chars;
-	cin >> chars;
+	std::string chars;
+	std::cin >> chars;
 
 	char previousChar = ' ';
 	bool isRepeated = false;
@@ -13,7 +12,7 @@ int main()
 	{
 		if (ch == previousChar)
 		{
-			cout << "Deja Vu";
+			std::cout << "Deja Vu";
 			isRepeated = true;
 			break;
 		}
@@ -25,7 +24,7 @@ int main()
 
 	if (!isRepeated)
 	{
-		cout << "Unique";
+		std::cout << "Unique";
 	}
 
 	return 0;

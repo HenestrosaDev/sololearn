@@ -1,16 +1,15 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	int length;
-	cin >> length;
+	std::cin >> length;
 
 	int numbers[length] = {};
 	for (int i = 0; i < length; i++)
 	{
 		int number;
-		cin >> number;
+		std::cin >> number;
 
 		if (number % 2 == 0)
 		{
@@ -24,7 +23,7 @@ int main()
 		sum += num;
 	}
 
-	cout << sum;
+	std::cout << sum;
 
 	return 0;
 }

@@ -1,26 +1,25 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	// NOTE: Money should be handled with libraries such as boost
 
 	double ars; // Argentine peso
-	cin >> ars;
+	std::cin >> ars;
 
 	double usd; // US dollar
-	cin >> usd;
+	std::cin >> usd;
 
 	double arsToUsd = 0.02; // exchange rate
 	double convertedUsd = ars * arsToUsd;
 
 	if (convertedUsd > usd)
 	{
-		cout << "Dollars";
+		std::cout << "Dollars";
 	}
 	else
 	{
-		cout << "Pesos";
+		std::cout << "Pesos";
 	}
 
 	return 0;

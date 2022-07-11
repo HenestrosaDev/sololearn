@@ -1,9 +1,8 @@
 #include <iostream>
-using namespace std;
 
-string reverse(string str)
+std::string reverse(std::string str)
 {
-	string reversedString = "";
+	std::string reversedString = "";
 
 	for (int i = str.length() - 1; i >= 0; i--)
 	{
@@ -15,11 +14,11 @@ string reverse(string str)
 
 int main()
 {
-	string sentence;
-	getline(cin, sentence);
+	std::string sentence;
+	getline(std::cin, sentence);
 
-	string reversed = reverse(sentence);
-	cout << reversed;
+	std::string reversed = reverse(sentence);
+	std::cout << reversed;
 
 	return 0;
 }

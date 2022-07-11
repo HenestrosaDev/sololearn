@@ -1,14 +1,13 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	int fruit;
-	cin >> fruit;
-	
+	std::cin >> fruit;
+
 	int apples = fruit / 2;
 	int cakes = apples / 3;
-	cout << cakes;
+	std::cout << cakes;
 
 	return 0;
 }

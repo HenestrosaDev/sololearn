@@ -1,6 +1,5 @@
 #include <iostream>
 #include <regex>
-using namespace std;
 
 template <typename C, typename T>
 bool contains(C &&c, T e)
@@ -10,19 +9,19 @@ bool contains(C &&c, T e)
 
 int main()
 {
-	string diagram;
-	cin >> diagram;
+	std::string diagram;
+	std::cin >> diagram;
 
 	bool isThiefOnLeft = true;
 	int thiefPos = 0;
 	int guardPos = 0;
 
-	regex reg("\\$");
-	sregex_token_iterator iter(diagram.begin(), diagram.end(), reg, -1);
-	sregex_token_iterator end;
+	std::regex reg("\\$");
+	std::sregex_token_iterator iter(diagram.begin(), diagram.end(), reg, -1);
+	std::sregex_token_iterator end;
 
 	int idx1 = 0;
-	vector<string> diagramSplitted(iter, end);
+	std::vector<std::string> diagramSplitted(iter, end);
 	for (auto part : diagramSplitted)
 	{
 		if (contains(part, 'T'))
@@ -65,11 +64,11 @@ int main()
 
 	if (isLeftRobbed || isRightRobbed)
 	{
-		cout << "ALARM";
+		std::cout << "ALARM";
 	}
 	else 
 	{
-		cout << "quiet";
+		std::cout << "quiet";
 	}
 
 	return 0;

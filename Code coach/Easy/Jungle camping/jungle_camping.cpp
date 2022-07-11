@@ -8,7 +8,7 @@ void split(std::string const &str, const char delim, std::vector<std::string> &o
 	std::stringstream ss(str);
 	std::string segment;
 
-	while (std::getline(ss, segment, delim))
+	while (getline(ss, segment, delim))
 	{
 		out.push_back(segment);
 	}
@@ -24,7 +24,7 @@ std::map<std::string, std::string> noiseToAnimal = {
 int main()
 {
 	std::string noises;
-	std::getline(std::cin, noises);
+	getline(std::cin, noises);
 
 	std::vector<std::string> noisesSplitted;
 	split(noises, ' ', noisesSplitted);

@@ -1,19 +1,18 @@
 #include <iostream>
 #include <regex>
-using namespace std;
 
 int main()
 {
-	string time;
-	getline(cin, time);
+	std::string time;
+	getline(std::cin, time);
 
-	string dayPeriod = "";
+	std::string dayPeriod = "";
 
-	regex exp("\\s[a-zA-Z]{2}");
-	smatch res;
-	string matchedDayPeriod = "";
+	std::regex exp("\\s[a-zA-Z]{2}");
+	std::smatch res;
+	std::string matchedDayPeriod = "";
 
-	string::const_iterator searchStart(time.cbegin());
+	std::string::const_iterator searchStart(time.cbegin());
 	while (regex_search(searchStart, time.cend(), res, exp))
 	{
 		matchedDayPeriod += (searchStart == time.cbegin() ? "" : " ");
@@ -36,13 +35,13 @@ int main()
 		}
 	}
 
-	regex reg(":");
-	sregex_token_iterator iter(time.begin(), time.end(), reg, -1);
-	sregex_token_iterator end;
-	vector<string> timeSplitted(iter, end);
+	std::regex reg(":");
+	std::sregex_token_iterator iter(time.begin(), time.end(), reg, -1);
+	std::sregex_token_iterator end;
+	std::vector<std::string> timeSplitted(iter, end);
 
-	string hours = timeSplitted[0];
-	string minutes = timeSplitted[1];
+	std::string hours = timeSplitted[0];
+	std::string minutes = timeSplitted[1];
 
 	if (hours.length() == 1)
 	{
@@ -52,13 +51,13 @@ int main()
 
 	if (dayPeriod == "PM")
 	{
-		hours = to_string(hoursInt + 12);
+		hours = std::to_string(hoursInt + 12);
 	}
 	else if (dayPeriod != "AM")
 	{
 		if (hoursInt > 12)
 		{
-			hours = to_string(hoursInt - 12);
+			hours = std::to_string(hoursInt - 12);
 			minutes += " PM";
 		}
 		else 
@@ -66,8 +65,8 @@ int main()
 			minutes += " AM";
 		}
 	}
-	
-	cout << hours << ":" << minutes;
+
+	std::cout << hours << ":" << minutes;
 
 	return 0;
 }

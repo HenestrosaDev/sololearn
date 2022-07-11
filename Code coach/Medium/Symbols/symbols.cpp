@@ -1,12 +1,11 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
-	string encoded;
-	getline(cin, encoded);
+	std::string encoded;
+	getline(std::cin, encoded);
 
-	string decoded;
+	std::string decoded;
 	for (auto &ch : encoded)
 	{
 		if (isspace(ch) || isalnum(ch))
@@ -15,7 +14,7 @@ int main()
 		}
 	}
 
-	cout << decoded;
+	std::cout << decoded;
 
 	return 0;
 }

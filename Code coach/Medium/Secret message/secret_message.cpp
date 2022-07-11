@@ -1,12 +1,11 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
-	string text;
-	getline(cin, text);
+	std::string text;
+	getline(std::cin, text);
 
-	string textInvertedAscii = "";
+	std::string textInvertedAscii = "";
 	for (auto c : text) 
 	{
 		if (isalpha(c))
@@ -20,8 +19,8 @@ int main()
 			textInvertedAscii += c;
 		}
 	}
- 
-	cout << textInvertedAscii;
+
+	std::cout << textInvertedAscii;
 
 	return 0;
 }
