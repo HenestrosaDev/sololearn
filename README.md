@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 # Sololearn
 
 Compilation of code coaches and language courses projects from Sololearn.
@@ -7,8 +6,9 @@ Compilation of code coaches and language courses projects from Sololearn.
 
 Compilation of all the code projects for each module of the courses that I have taken so far.
 
-<details markdown="1">
+<details>
 	<summary>C++</summary>
+
 1. Basic concepts
 	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/1.%20Basic%20concepts/Code%20project/Transportation)
 2. Conditionals and loops
@@ -27,8 +27,9 @@ Compilation of all the code projects for each module of the courses that I have 
 	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/8.%20Templates%2C%20exceptions%20and%20files/Code%20project/Queue%20management%20part%204)
 </details>
 
-<details markdown="1">
+<details>
 	<summary>Java</summary>
+
 1. Basic concepts
 	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/1.%20Basic%20concepts/Time%20converter)
 2. Conditionals and loops
@@ -43,8 +44,9 @@ Compilation of all the code projects for each module of the courses that I have 
 	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Bowling%20game)
 </details>
 
-<details markdown="1">
+<details>
 	<summary>Python</summary>
+
 1. Basic concepts
 	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
 2. Strings and variables
@@ -69,8 +71,9 @@ Compilation of all the code projects for each module of the courses that I have 
 
 ## Code coach
 
-<details markdown="1">
+<details>
 	<summary>Easy</summary>
+
 - [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Argentina)
 - [Cheer creator](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Cheer%20creator)
 - [Extra-terrestrials](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Extra-terrestrials)
@@ -84,8 +87,9 @@ Compilation of all the code projects for each module of the courses that I have 
 - [Skee-ball](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Skee-ball)
 </details>
 
-<details markdown="1">
+<details>
 	<summary>Medium</summary>
+
 - [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/Average%20world%20length)
 - [Convert US date to EU date](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/Convert%20US%20date%20to%20EU%20date)
 - [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/Deja%20vu)
@@ -99,8 +103,9 @@ Compilation of all the code projects for each module of the courses that I have 
 - [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/YouTube%20link%20finder)
 </details>
 
-<details markdown="1">
+<details>
 	<summary>Hard</summary>
+	
 - [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/New%20driver's%20license)
 - [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Password%20validation)
 - [Security](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Security)
