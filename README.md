@@ -4,7 +4,7 @@ Compilation of code coaches and language courses projects from Sololearn.
 
 ## Courses
 
-Compilation of all the code projects for each module of the courses that I have taken so far.
+All code projects for each module of the courses that I have taken so far.
 
 <details>
 	<summary>C++</summary>
@@ -105,7 +105,7 @@ Compilation of all the code projects for each module of the courses that I have 
 
 <details>
 	<summary>Hard</summary>
-	
+
 - [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/New%20driver's%20license)
 - [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Password%20validation)
 - [Security](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Security)
