@@ -7,7 +7,7 @@ Compilation of code coaches and language courses projects from Sololearn.
 
 Compilation of all the code projects for each module of the courses that I have taken so far.
 
-<details>
+<details markdown="1">
 	<summary>C++</summary>
 1. Basic concepts
 	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/1.%20Basic%20concepts/Code%20project/Transportation)
@@ -27,7 +27,7 @@ Compilation of all the code projects for each module of the courses that I have 
 	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/8.%20Templates%2C%20exceptions%20and%20files/Code%20project/Queue%20management%20part%204)
 </details>
 
-<details>
+<details markdown="1">
 	<summary>Java</summary>
 1. Basic concepts
 	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/1.%20Basic%20concepts/Time%20converter)
@@ -43,33 +43,33 @@ Compilation of all the code projects for each module of the courses that I have 
 	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Bowling%20game)
 </details>
 
-<details>
+<details markdown="1">
 	<summary>Python</summary>
-  1. Basic concepts
-		- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
-	2. Strings and variables
-		- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python/2.%20Strings%20and%20variables/Simple%20calculator)
-	3. Control structures
-		- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Python/3.%20Control%20structures/FizzBuzz)
-	4. Functions and modules
-		- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Python/4.%20Functions%20and%20modules/Celsius%20to%20Fahrenheit%20converter)
-	5. Exceptions and files
-		- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Python/5.%20Exceptions%20and%20files/Book%20titles)
-	6. More types
-		- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Python/6.%20More%20types/Longest%20word)
-	7. Functional programming
-		- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Python/7.%20Functional%20programming/Fibonacci)
-	8. Object-oriented programming
-		- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Python/8.%20Object-oriented%20programming/Juice%20maker)
-	9. Regular expressions 
-		- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/9.%20Regular%20expressions/Phone%20number%20validation)
-	10. Pythonicness and packaging
-		- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python/10.%20Pythonicness%20and%20packaging/Adding%20words)
+1. Basic concepts
+	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
+2. Strings and variables
+	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python/2.%20Strings%20and%20variables/Simple%20calculator)
+3. Control structures
+	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Python/3.%20Control%20structures/FizzBuzz)
+4. Functions and modules
+	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Python/4.%20Functions%20and%20modules/Celsius%20to%20Fahrenheit%20converter)
+5. Exceptions and files
+	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Python/5.%20Exceptions%20and%20files/Book%20titles)
+6. More types
+	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Python/6.%20More%20types/Longest%20word)
+7. Functional programming
+	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Python/7.%20Functional%20programming/Fibonacci)
+8. Object-oriented programming
+	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Python/8.%20Object-oriented%20programming/Juice%20maker)
+9. Regular expressions 
+	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/9.%20Regular%20expressions/Phone%20number%20validation)
+10. Pythonicness and packaging
+	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python/10.%20Pythonicness%20and%20packaging/Adding%20words)
 </details>
 
 ## Code coach
 
-<details>
+<details markdown="1">
 	<summary>Easy</summary>
 - [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Argentina)
 - [Cheer creator](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Cheer%20creator)
@@ -84,7 +84,7 @@ Compilation of all the code projects for each module of the courses that I have 
 - [Skee-ball](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Easy/Skee-ball)
 </details>
 
-<details>
+<details markdown="1">
 	<summary>Medium</summary>
 - [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/Average%20world%20length)
 - [Convert US date to EU date](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/Convert%20US%20date%20to%20EU%20date)
@@ -99,7 +99,7 @@ Compilation of all the code projects for each module of the courses that I have 
 - [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Medium/YouTube%20link%20finder)
 </details>
 
-<details>
+<details markdown="1">
 	<summary>Hard</summary>
 - [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/New%20driver's%20license)
 - [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coach/Hard/Password%20validation)
