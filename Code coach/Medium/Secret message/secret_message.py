@@ -1,11 +1,11 @@
-def backWardChar(char):
+def backWard_char(char):
   if char.isalpha():
-    asciiLowA = 97
-    asciiLowZ = 122
-    return chr(asciiLowZ - ord(char.lower()) + asciiLowA)
+    ascii_low_a = 97
+    ascii_low_z = 122
+    return chr(ascii_low_z - ord(char.lower()) + ascii_low_a)
   return char
 
 text = input()
-textInvertedAscii = ''.join(map(backWardChar, text))
+text_inverted_ascii = ''.join(map(backWard_char, text))
 
-print(textInvertedAscii)
+print(text_inverted_ascii)

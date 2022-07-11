@@ -1,29 +1,29 @@
 diagram = input()
-diagramSplitted = diagram.split('$')
+diagram_splitted = diagram.split('$')
 
-isThiefOnLeft = True
-thiefPos = None
-guardPos = None
+is_thief_on_left = True
+thief_pos = None
+guard_pos = None
 
-for idx1, part in enumerate(diagramSplitted):
+for idx1, part in enumerate(diagram_splitted):
 	if 'T' in part:
 		for idx2, c in enumerate(part):
 			if c.upper() == 'G':
-				if not isThiefOnLeft and guardPos is not None:
+				if not is_thief_on_left and guard_pos is not None:
 					continue
 				else:
-					guardPos = idx2
+					guard_pos = idx2
 			elif c.upper() == 'T':
-				thiefPos = idx2
+				thief_pos = idx2
 	elif idx1 == 0:
 		# if the field is not in the first array (left), then we know that it is in the right
-		isThiefOnLeft = False
+		is_thief_on_left = False
 		continue
 
-isLeftRobbed = (guardPos is None or guardPos < thiefPos) and isThiefOnLeft
-isRightRobbed = (guardPos is None or guardPos > thiefPos) and not isThiefOnLeft
+is_left_robbed = (guard_pos is None or guard_pos < thief_pos) and is_thief_on_left
+is_right_robbed = (guard_pos is None or guard_pos > thief_pos) and not is_thief_on_left
 
-if isLeftRobbed or isRightRobbed:
+if is_left_robbed or is_right_robbed:
 	print("ALARM")
 else:
 	print("quiet")

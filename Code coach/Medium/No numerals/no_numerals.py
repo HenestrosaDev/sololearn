@@ -1,7 +1,7 @@
 import re
 
 # In a real use-case, we would use the num2word library
-numsToWord = {
+nums_to_word = {
 	"0": "zero",
 	"1": "one",
 	"2": "two",
@@ -19,7 +19,7 @@ text = input()
 pattern = re.compile(r'\b\d+\b')
 
 for m in re.finditer(pattern, text):
-	if m.group(0) in numsToWord.keys():
-		text = text.replace(m.group(0), numsToWord[m.group(0)], 1)
+	if m.group(0) in nums_to_word.keys():
+		text = text.replace(m.group(0), nums_to_word[m.group(0)], 1)
 
 print(text)

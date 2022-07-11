@@ -1,11 +1,11 @@
 import math
 
-colorsNumber = int(input())
-basePrice = 40.0
-paintPrice = 5.0
-taxPercent = 10
+colors_number = int(input())
+base_price = 40.0
+paint_price = 5.0
+tax_percent = 10
 
-subtotal = basePrice + (paintPrice * colorsNumber)
-total = math.ceil((subtotal / taxPercent) + subtotal)
+subtotal = base_price + (paint_price * colors_number)
+total = math.ceil((subtotal / tax_percent) + subtotal)
 
 print(total)

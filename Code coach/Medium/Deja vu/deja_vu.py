@@ -1,14 +1,14 @@
 chars = input()
-previousChar = None
-isRepeated = False
+previous_char = None
+is_repeated = False
 
 for char in chars:
-	if char is previousChar:
+	if char is previous_char:
 		print('Deja Vu')
-		isRepeated = True
+		is_repeated = True
 		break
 	else:
-		previousChar = char
+		previous_char = char
 
-if (not isRepeated):
+if (not is_repeated):
 	print('Unique')

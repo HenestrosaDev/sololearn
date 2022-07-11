@@ -1,14 +1,14 @@
 import math
 
 words = input().split(" ")
-wordsNumber = 0
-totalLength = 0
+words_number = 0
+total_length = 0
 
 for word in words:
-	wordsNumber += 1
+	words_number += 1
 	for char in word:
 		if char.isalpha():
-			totalLength += 1
+			total_length += 1
 
-averageLength = math.ceil(totalLength / wordsNumber)
-print(averageLength)
+average_length = math.ceil(total_length / words_number)
+print(average_length)

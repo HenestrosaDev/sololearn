@@ -5,6 +5,6 @@ while True:
 	if (houses >= 3):
 		break
 
-billProbability = math.ceil(100 / houses * 2)
+bill_probability = math.ceil(100 / houses * 2)
 
-print(billProbability)
+print(bill_probability)

@@ -1,12 +1,12 @@
-unitsSold = int(input())
+units_sold = int(input())
 
-sellPrice = 3_000_000
-costPrice = 2_000_000
-insurancePrice = 1_000_000
+sell_price = 3_000_000
+cost_price = 2_000_000
+insurance_price = 1_000_000
 
-unitsBuilt = 10
-expenses = (unitsBuilt * costPrice) + insurancePrice
-benefit = unitsSold * sellPrice
+units_built = 10
+expenses = (units_built * cost_price) + insurance_price
+benefit = units_sold * sell_price
 
 if benefit > expenses:
 	print("Profit")
