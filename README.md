@@ -28,6 +28,29 @@ All code projects for each module of the courses that I have taken so far.
 </details>
 
 <details>
+	<summary>C#</summary>
+
+1. Basic concepts
+	- [Area of a circle](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/1.%20Basic%20concepts)
+2. Conditionals and loops
+	- [Multiple of 3](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/2.%20Conditionals%20and%20loops/Code%20project)
+3. Methods
+	- [Level points](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/3.%20Methods/Code%20project)
+4. Classes and objects
+	- [Social network](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/4.%20Classes%20and%20objects/Code%20project)
+5. Arrays and strings
+	- [Words](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/5.%20Arrays%20and%20strings/Code%20project)
+6. More on classes
+	- [Dance](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/6.%20More%20on%20classes/Code%20project)
+7. Inheritance and polymorphism
+	- [Drawing application](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/7.%20Inheritance%20and%20polymorphism/Code%20project)
+8. Structs, enums, exceptions and files
+	- [Robot-barman](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/8.%20Structs%2C%20enums%2C%20exceptions%20and%20files/Code%20project)
+9. Generics
+	- [Coffee time](https://github.com/HenestrosaConH/sololearn/tree/main/C%23/9.%20Generics/Code%20project)
+</details>
+
+<details>
 	<summary>Java</summary>
 
 1. Basic concepts
@@ -42,6 +65,21 @@ All code projects for each module of the courses that I have taken so far.
 	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/Java/5.%20More%20on%20classes/Shapes)
 6. Exceptions, lists, threads and files
 	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Bowling%20game)
+</details>
+
+<details>
+	<summary>Kotlin</summary>
+
+1. Basic concepts
+	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/1.%20Basic%20concepts/Code%20project)
+2. Conditionals and loops
+	- [Parking fee](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project)
+3. Functions
+	- [Shipping calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project)
+4. Classes and objects
+	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/4.%20Classes%20and%20objects/Binary%20converter)
+5. Object-oriented programming
+	- [Music player](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project)
 </details>
 
 <details>
@@ -67,6 +105,12 @@ All code projects for each module of the courses that I have taken so far.
 	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/9.%20Regular%20expressions/Phone%20number%20validation)
 10. Pythonicness and packaging
 	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python/10.%20Pythonicness%20and%20packaging/Adding%20words)
+</details>
+
+<details>
+	<summary>Ruby</summary>
+
+  - Unfortunately, this course doesn't have code projects nor code coaches.
 </details>
 
 ## Code coach
