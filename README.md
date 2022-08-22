@@ -10,21 +10,21 @@ All code projects for each module of the courses that I have taken so far.
 	<summary>C++</summary>
 
 1. Basic concepts
-	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/1.%20Basic%20concepts/Code%20project/Transportation)
+	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/1.%20Basic%20concepts/Code%20project)
 2. Conditionals and loops
-	- [Countdown](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/2.%20Conditionals%20and%20loops/Code%20project/Countdown)
+	- [Countdown](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/2.%20Conditionals%20and%20loops/Code%20project)
 3. Data types, arrays and pointers
-	- [Ticket office](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/3.%20Data%20types%2C%20arrays%20and%20pointers/Code%20project/Ticket%20office)
+	- [Ticket office](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/3.%20Data%20types%2C%20arrays%20and%20pointers/Code%20project)
 4. Functions
-	- [Palindrome numbers](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/4.%20Functions/Code%20project/Palindrome%20numbers)
+	- [Palindrome numbers](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/4.%20Functions/Code%20project)
 5. Classes and objects
-	- [Queue management part 1](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/5.%20Classes%20and%20objects/Code%20coach/Queue%20management%20part%201)
+	- [Queue management part 1](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/5.%20Classes%20and%20objects/Code%20coach)
 6. More on classes
-	- [Queue management part 2](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/6.%20More%20on%20classes/Code%20project/Queue%20management%20part%202)
+	- [Queue management part 2](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/6.%20More%20on%20classes/Code%20project)
 7. Inheritance and polymorphism
-	- [Queue management part 3](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/7.%20Inheritance%20and%20polymorphism/Code%20project/Queue%20management%20part%203)
+	- [Queue management part 3](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/7.%20Inheritance%20and%20polymorphism/Code%20project)
 8. Templates, exceptions and files
-	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/8.%20Templates%2C%20exceptions%20and%20files/Code%20project/Queue%20management%20part%204)
+	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/C%2B%2B/8.%20Templates%2C%20exceptions%20and%20files/Code%20project)
 </details>
 
 <details>
@@ -54,17 +54,17 @@ All code projects for each module of the courses that I have taken so far.
 	<summary>Java</summary>
 
 1. Basic concepts
-	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/1.%20Basic%20concepts/Time%20converter)
+	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/1.%20Basic%20concepts/Code%20project)
 2. Conditionals and loops
-	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Java/2.%20Conditionals%20and%20loops/Loan%20calculator)
+	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Java/2.%20Conditionals%20and%20loops/Code%20project)
 3. Arrays
-	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/Java/3.%20Arrays/Reverse%20a%20string)
+	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/Java/3.%20Arrays/Code%20project)
 4. Classes and objects
-	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/4.%20Classes%20and%20objects/Binary%20converter)
+	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/Java/4.%20Classes%20and%20objects/Code%20project)
 5. More on classes
-	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/Java/5.%20More%20on%20classes/Shapes)
+	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/Java/5.%20More%20on%20classes/Code%20project)
 6. Exceptions, lists, threads and files
-	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Bowling%20game)
+	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20project)
 </details>
 
 <details>
@@ -83,28 +83,28 @@ All code projects for each module of the courses that I have taken so far.
 </details>
 
 <details>
-	<summary>Python</summary>
+	<summary>Python Core</summary>
 
 1. Basic concepts
-	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
+	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/1.%20Basic%20concepts/Code%20project)
 2. Strings and variables
-	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python/2.%20Strings%20and%20variables/Simple%20calculator)
+	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/2.%20Strings%20and%20variables/Code%20project)
 3. Control structures
-	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Python/3.%20Control%20structures/FizzBuzz)
+	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/3.%20Control%20structures/Code%20project)
 4. Functions and modules
-	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Python/4.%20Functions%20and%20modules/Celsius%20to%20Fahrenheit%20converter)
+	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/4.%20Functions%20and%20modules/Code%20project)
 5. Exceptions and files
-	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Python/5.%20Exceptions%20and%20files/Book%20titles)
+	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/5.%20Exceptions%20and%20files/Code%20project)
 6. More types
-	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Python/6.%20More%20types/Longest%20word)
+	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/6.%20More%20types/Code%20project)
 7. Functional programming
-	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Python/7.%20Functional%20programming/Fibonacci)
+	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/7.%20Functional%20programming/Code%20project)
 8. Object-oriented programming
-	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Python/8.%20Object-oriented%20programming/Juice%20maker)
+	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/8.%20Object-oriented%20programming/Code%20project)
 9. Regular expressions 
-	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/9.%20Regular%20expressions/Phone%20number%20validation)
+	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/9.%20Regular%20expressions/Code%20project)
 10. Pythonicness and packaging
-	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python/10.%20Pythonicness%20and%20packaging/Adding%20words)
+	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20Core/10.%20Pythonicness%20and%20packaging/Code%20project)
 </details>
 
 <details>
