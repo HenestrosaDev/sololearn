@@ -1,14 +1,21 @@
-# Python for beginners
-
+# Python
 1. Basic concepts
-	- [Flight time](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/1.%20Basic%20concepts/Code%20project)
-2. Strings
-	- [Leaderboard](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/2.%20Strings/Code%20project)
-3. Variables
-	- [Tip calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/3.%20Variables/Code%20project)
-4. Control flow
-	- [BMI calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/4.%20Control%20flow/Code%20project)
-5. Lists
-	- [Sum of consecutive numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/5.%20Lists/Code%20project)
-6. Functions
-	- [Search engine](https://github.com/HenestrosaConH/sololearn/tree/main/Python%20for%20beginners/6.%20Functions/Code%20project)
+	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
+2. Strings and variables
+	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Python/2.%20Strings%20and%20variables/Simple%20calculator)
+3. Control structures
+	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Python/3.%20Control%20structures/FizzBuzz)
+4. Functions and modules
+	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Python/4.%20Functions%20and%20modules/Celsius%20to%20Fahrenheit%20converter)
+5. Exceptions and files
+	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Python/5.%20Exceptions%20and%20files/Book%20titles)
+6. More types
+	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Python/6.%20More%20types/Longest%20word)
+7. Functional programming
+	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Python/7.%20Functional%20programming/Fibonacci)
+8. Object-oriented programming
+	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Python/8.%20Object-oriented%20programming/Juice%20maker)
+9. Regular expressions 
+	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/9.%20Regular%20expressions/Phone%20number%20validation)
+10. Pythonicness and packaging
+	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Python/10.%20Pythonicness%20and%20packaging/Adding%20words)
