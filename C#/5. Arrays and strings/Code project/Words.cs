@@ -2,9 +2,9 @@ using System;
 
 namespace Words
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			string[] words = {
 				"home",

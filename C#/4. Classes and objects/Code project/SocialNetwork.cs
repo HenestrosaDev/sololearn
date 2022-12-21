@@ -2,9 +2,9 @@ using System;
 
 namespace SocialNetwork
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			string postText = Console.ReadLine();
 
@@ -14,7 +14,7 @@ namespace SocialNetwork
 		}
 	}
 
-	class Post
+	public class Post
 	{
 		public string Text { get; set; }
 

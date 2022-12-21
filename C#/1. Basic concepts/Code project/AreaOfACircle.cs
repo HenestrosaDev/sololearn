@@ -2,9 +2,9 @@ using System;
 
 namespace SoloLearn
 {
-	class AreaOfACircle
+	public class AreaOfACircle
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			const double pi = 3.14;
 			double radius = double.Parse(Console.ReadLine());

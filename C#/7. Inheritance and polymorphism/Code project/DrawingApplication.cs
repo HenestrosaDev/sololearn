@@ -2,9 +2,9 @@ using System;
 
 namespace DrawingApplication
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			Draw pencil = new Draw();
 			Draw brush = new Brush();
@@ -21,7 +21,7 @@ namespace DrawingApplication
 		void StartDraw();
 	}
 
-	class Draw : IDraw
+	public class Draw : IDraw
 	{
 		public virtual void StartDraw()
 		{
@@ -29,7 +29,7 @@ namespace DrawingApplication
 		}
 	}
 
-	class Brush : Draw
+	public class Brush : Draw
 	{
 		public override void StartDraw()
 		{
@@ -37,7 +37,7 @@ namespace DrawingApplication
 		}
 	}
 
-	class Spray : Draw
+	public class Spray : Draw
 	{
 		public override void StartDraw()
 		{

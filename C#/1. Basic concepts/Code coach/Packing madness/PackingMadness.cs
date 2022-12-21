@@ -1,10 +1,10 @@
 using System;
 
-namespace PackingMadness
+namespace SoloLearn
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			int toys = 142;
 			int boxCapacity = 15;

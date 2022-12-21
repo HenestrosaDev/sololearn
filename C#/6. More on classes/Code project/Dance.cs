@@ -2,9 +2,9 @@ using System;
 
 namespace Dance
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			string name1 = Console.ReadLine();
 			int score1 = int.Parse(Console.ReadLine());
@@ -21,7 +21,7 @@ namespace Dance
 		}
 	}
 
-	class DancerScore
+	public class DancerScore
 	{
 		public string name;
 		public int score;

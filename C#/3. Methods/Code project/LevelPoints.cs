@@ -2,15 +2,15 @@ using System;
 
 namespace LevelPoints
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			int levels = int.Parse(Console.ReadLine());
 			Console.WriteLine(Points(levels));
 		}
 
-		static int Points(int levels)
+		public static int Points(int levels)
 		{
 			if (levels == 1)
 			{
