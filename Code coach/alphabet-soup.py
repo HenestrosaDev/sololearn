@@ -1,11 +1,11 @@
-import numpy as np
+import collections
 
-def isInSoup(message, letters):
-	sortedMessage = np.array(''.join(sorted(message)).strip())
-	sortedLetters = np.array(''.join(sorted(letters)).strip())
-	return (sortedLetters == sortedMessage).all()
+def is_message_in_soup(message: str, soup: str) -> bool:
+	message_letters = collections.Counter(message)
 
+	for letter in soup:
+		if letter not in message_letters or message_letters[letter] == 0:
+			return False
+		message_letters[letter] -= 1
 
-print(isInSoup(" hola amigos que tal", "aahlomigostalqu ")) # False
-print(isInSoup("manolo makina", "aikamnoloman"))  # True
-print(isInSoup("esta está mal", "lamastestá")) # False
+	return True
