@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TimeConverter {
+public class Program {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int days = sc.nextInt();
