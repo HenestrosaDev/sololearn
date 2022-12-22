@@ -2,15 +2,15 @@
 
 1. Overview
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
-	- [Escape to learn](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20coach/Escape%20to%20learn)	 
-	- [Right expression](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20coach/Right%20expression)	
-	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20coach/Your%20first%20program)	
+	- [Escape to learn](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20practice/Escape%20to%20learn)	 
+	- [Right expression](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20practice/Right%20expression)	
+	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/1.%20Overview/Code%20practice/Your%20first%20program)	
 	</details>
 2. Basic concepts
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Find the adults](ttps://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Find%20the%20adults)	
 	- [Noon or midnight](ttps://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Noon%20or%20midnight)  
@@ -23,7 +23,7 @@
 	</details>
 3. Conditionals and loops
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Dark theme](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Dark%20theme)  
 	- [Exam results](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Exam%20results)  
@@ -40,7 +40,7 @@
 	</details>
 4. Functions
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Average of three](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/4.%20Functions/Code%20practice/Average%20of%20three)  
 	- [Important reminders](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/4.%20Functions/Code%20practice/Important%20reminders)  
@@ -54,7 +54,7 @@
 	</details>
 5. Objects
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Calculating the discount](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/5.%20Objects/Code%20practice/Calculating%20the%20discount)  
 	- [Cuboid volume](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/5.%20Objects/Code%20practice/Cuboid%20volume)  
@@ -67,7 +67,7 @@
 	</details>
 6. Core objects
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Fluffy pancakes](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/6.%20Core%20objects/Code%20practice/Fluffy%20pancakes)  
 	- [Level up](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/6.%20Core%20objects/Code%20practice/Level%20up)  
@@ -83,7 +83,7 @@
 	No code project/practice for this module
 8. ECMAScript 6
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code practice</summary>
 
 	- [Average exam score](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/8.%20ECMAScript%206/Code%20practice/Average%20exam%20score)  
 	- [Employee map](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/8.%20ECMAScript%206/Code%20practice/Employee%20map)  
