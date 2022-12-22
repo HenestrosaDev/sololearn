@@ -14,19 +14,19 @@
 	<details>
 		<summary>Code project</summary>
 
-	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/1.%20Basic%20concepts/Code%project)
+	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/1.%20Basic%20concepts/Code%20project)
 	</details>
 2. Control flow
 	<details>
 		<summary>Code practice</summary>
 
-	- [Data, please](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/Data%2C%20please)  
-	- [Let's convert](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/Let%27s%20convert)  
-	- [Multiple inputs](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/Multiple%20inputs)  
-	- [Sorting out](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/Sorting%20out)  
-	- [Unlocking doors](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/Unlocking%20doors)  
-	- [What's the number](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/What%27s%20the%20number)  
-	- [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20project/What%27s%20the%20sum)  
+	- [Data, please](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/Data%2C%20please)  
+	- [Let's convert](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/Let%27s%20convert)  
+	- [Multiple inputs](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/Multiple%20inputs)  
+	- [Sorting out](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/Sorting%20out)  
+	- [Unlocking doors](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/Unlocking%20doors)  
+	- [What's the number](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/What%27s%20the%20number)  
+	- [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/2.%20Control%20flow/Code%20practice/What%27s%20the%20sum)  
 	</details>
 	<details>
 		<summary>Code project</summary>
@@ -37,11 +37,11 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Calculating taxes](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project/Calculating%20taxes)  
-	- [Call the function](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project/Call%20the%20function)  
-	- [Counting letters](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project/Counting%20letters)  
-	- [Initials](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project/Initials)  
-	- [Selected names](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20project/Selected%20names)  
+	- [Calculating taxes](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20practice/Calculating%20taxes)  
+	- [Call the function](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20practice/Call%20the%20function)  
+	- [Counting letters](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20practice/Counting%20letters)  
+	- [Initials](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20practice/Initials)  
+	- [Selected names](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/3.%20Functions/Code%20practice/Selected%20names)  
 	</details>
 	<details>
 		<summary>Code project</summary>
@@ -52,13 +52,13 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Abstraction](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Abstraction)  
-	- [Button class](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Button%20class)  
-	- [Button inheritance](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Button%20inheritance)  
-	- [Button properties](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Button%20properties)  
-	- [Button tap](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Button%20tap)  
-	- [Default buttons](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Default%20buttons)  
-	- [Private property](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20project/Private%20property)  
+	- [Abstraction](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Abstraction)  
+	- [Button class](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20class)  
+	- [Button inheritance](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20inheritance)  
+	- [Button properties](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20properties)  
+	- [Button tap](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20tap)  
+	- [Default buttons](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Default%20buttons)  
+	- [Private property](https://github.com/HenestrosaConH/sololearn/tree/main/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Private%20property)  
 	</details>
 	<details>
 		<summary>Code project</summary>
