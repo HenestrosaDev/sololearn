@@ -12,9 +12,9 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Find the adults](ttps://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Find%20the%20adults)	
-	- [Noon or midnight](ttps://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Noon%20or%20midnight)  
-	- [Office computers](ttps://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Office%20computers)  
+	- [Find the adults](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Find%20the%20adults)	
+	- [Noon or midnight](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Noon%20or%20midnight)  
+	- [Office computers](https://github.com/HenestrosaConH/sololearn/tree/main/JavaScript/2.%20Basic%20concepts/Code%20practice/Office%20computers)  
 	</details>
 	<details>
 		<summary>Code project</summary>
