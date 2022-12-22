@@ -1,12 +1,9 @@
 txt = input()
 list = txt.split()
-
 longestWord = ""
-longestWordCount = 0
 
 for word in list:
-	if len(word) > longestWordCount:
-		longestWordCount = len(word)
+	if len(word) > len(longestWord):
 		longestWord = word
 
 print(longestWord)

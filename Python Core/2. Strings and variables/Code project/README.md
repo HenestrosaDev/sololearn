@@ -1,12 +1,12 @@
 # Simple Calculator
 
-Write a program to take two integers as input and output their sum.
+Write a program to take two integers as input and output their **sum**.
 
-- **Sample Input:**<br>
-2<br>
-8
+- **Sample input**:  
+`2`  
+`8`  
 
-- **Sample Output:**<br>
-10
+- **Sample output**:  
+`10`
 
->Remember, ```input()``` results in a string.
+>Remember, `input()` results in a string.
