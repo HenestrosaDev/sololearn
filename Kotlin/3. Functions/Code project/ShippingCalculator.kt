@@ -1,8 +1,16 @@
+fun main(args: Array<String>) {
+	readLine()!!.toDouble().let { total ->
+		readLine().toBoolean().let { isInternational ->
+			println(shippingCost(total, isInternational))
+		}
+	}
+}
+
 fun shippingCost(
     amount: Double, 
-    international: Boolean
+    isInternational: Boolean
 ): Double {
-	if (international) {
+	if (isInternational) {
 		val internationalRate = 0.15
 		val maxShippingPrice = 50.0
 		var fee = internationalRate * amount
@@ -18,16 +26,6 @@ fun shippingCost(
 		} else {
 			val localRate = 0.1
 			localRate * amount
-		}
-	}
-}
-
-fun main(args: Array<String>) {
-	readLine()?.let {
-		val total = it.toDouble()
-		readLine()?.let {
-			val international = it.toBoolean()    
-			println(shippingCost(total, international))
 		}
 	}
 }

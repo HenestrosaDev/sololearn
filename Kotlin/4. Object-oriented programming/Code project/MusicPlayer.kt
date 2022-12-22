@@ -1,21 +1,3 @@
-class MusicPlayer {
-	private var songs = mutableListOf<String>()
-	
-  fun add(song: String) {
-		songs.add(song)
-	}
-
-	fun show() {
-		for (song in songs) {
-			println(song)
-		}
-	}
-
-	fun play() {
-		println("Playing ${songs[0]}")
-	}
-}
-
 fun main(args: Array<String>) {
 	val m = MusicPlayer()
 	
@@ -32,4 +14,22 @@ fun main(args: Array<String>) {
 
 	m.show()
 	m.play()
+}
+
+class MusicPlayer {
+	private var songs = mutableListOf<String>()
+	
+  fun add(song: String) {
+		songs.add(song)
+	}
+
+	fun show() {
+		for (song in songs) {
+			println(song)
+		}
+	}
+
+	fun play() {
+		println("Playing ${songs[0]}")
+	}
 }
