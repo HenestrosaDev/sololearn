@@ -1,9 +1,9 @@
-function main() {
-  let distance = parseInt(readLine(), 10);
-  let averageSpeed = 40;
+const main = () => {
+  const distance = parseInt(readLine(), 10);
+  const averageSpeed = 40;
 
-  let hours = distance / averageSpeed;
-  let minutes = hours * 60;
+  const hours = distance / averageSpeed;
+  const minutes = hours * 60;
 
   console.log(minutes);
 }

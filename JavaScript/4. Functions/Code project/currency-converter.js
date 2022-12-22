@@ -1,10 +1,10 @@
-function main() {
-  var amount = parseFloat(readLine(), 10);
-  var rate = parseFloat(readLine(), 10);
+const main = () => {
+  const amount = parseFloat(readLine(), 10);
+  const rate = parseFloat(readLine(), 10);
 
   console.log(convert(amount, rate));
 }
 
-function convert(amount, rate) {
+const convert = (amount, rate) => {
   return amount * rate;
 }

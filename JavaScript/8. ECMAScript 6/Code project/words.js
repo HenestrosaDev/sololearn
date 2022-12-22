@@ -14,9 +14,9 @@ class Add {
   }
 }
 
-var x = new Add("hehe", "hoho", "haha", "hihi", "huhu");
-var y = new Add("this", "is", "awesome");
-var z = new Add(
+const x = new Add("hehe", "hoho", "haha", "hihi", "huhu");
+const y = new Add("this", "is", "awesome");
+const z = new Add(
   "lorem",
   "ipsum",
   "dolor",

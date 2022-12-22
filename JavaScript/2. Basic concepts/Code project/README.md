@@ -7,4 +7,4 @@ Given a distance in miles as input (the code to take input is already present), 
 - **Sample input**: `150`
 - **Sample output**: `225`
 
-> **Explanation**: It will take 150/40 = 3.75 hours to cover the distance, which is equivalent to 3.75*60 = **225** minutes.
+> **Explanation**: It will take **150 / 40 = 3.75 hours** to cover the distance, which is equivalent to **3.75 * 60 = 225 minutes**.

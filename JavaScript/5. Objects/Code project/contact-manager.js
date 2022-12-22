@@ -7,8 +7,8 @@ function Contact(name, number) {
   };
 }
 
-var a = new Contact("David", 12345);
-var b = new Contact("Amy", 987654321);
+const a = new Contact("David", 12345);
+const b = new Contact("Amy", 987654321);
 
 a.print();
 b.print();
