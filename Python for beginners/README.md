@@ -1,4 +1,4 @@
-# Python
+# Python for beginners
 1. Basic concepts
 	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Python/1.%20Basic%20concepts/Exponentiation)
 2. Strings and variables
