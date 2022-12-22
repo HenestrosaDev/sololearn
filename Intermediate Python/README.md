@@ -42,7 +42,7 @@
 	- [Game over](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Game%20over)	 
 	- [Preservation](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Preservation)	 
 	- [Shape factory](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Shape%20factory)	 
-	- [Staying alive](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Staying%alive)	 
+	- [Staying alive](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Staying%20alive)	 
 	</details>
 
 	<details>
@@ -54,8 +54,8 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Cash out](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/4.%20Exceptions/Code%20practice/24k%20magic)	 
-	- [Chef's kiss](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/4.%20Exceptions/Code%20practice/Chef%3C%20kiss)	 
+	- [Cash out](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/4.%20Exceptions/Code%20practice/Cash%20out)	 
+	- [Chef's kiss](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/4.%20Exceptions/Code%20practice/Chef's%20kiss)	 
 	- [Say something](https://github.com/HenestrosaConH/sololearn/tree/main/Intermediate%20Python/4.%20Exceptions/Code%20practice/Say%20something)	 
 	</details>
 
