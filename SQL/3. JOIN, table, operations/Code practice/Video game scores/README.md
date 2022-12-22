@@ -1,4 +1,4 @@
-Creating a Table
+# Creating a Table
 
 You need to make a `leaderboard` for a video game.
 

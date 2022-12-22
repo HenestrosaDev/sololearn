@@ -1,4 +1,4 @@
-The BETWEEN Operator
+# The BETWEEN Operator
 
 You are given the following table named `staff`:
 
