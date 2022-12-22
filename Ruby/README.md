@@ -1,3 +1,3 @@
 # Ruby
 
-There are no code projects nor code coaches available for this course.
+There are no code projects nor code practices available for this course.
