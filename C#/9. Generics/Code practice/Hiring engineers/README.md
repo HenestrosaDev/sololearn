@@ -7,11 +7,15 @@ In the program you are given, you have 10 candidates in a **hash set**. You need
 If they are, the program should output `Starting hiring process`. Otherwise, `Something is wrong`.
 
 - **Sample input**:  
-`John`  
-`Susan`  
-`Daniel`  
+```
+John
+Susan
+Daniel
+```
 
 - **Sample output**:  
-`Starting hiring process`
+```
+Starting hiring process
+```
 
 >`IsSubsetOf()` returns true if the hash set is a subset of the specified collection.

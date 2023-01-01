@@ -7,15 +7,19 @@ The program you are given takes the discount value as input and defines a dictio
 Modify it to discount all of the prices and output a new price list in the format shown below.
 
 - **Sample input**:  
-`10`
+```
+10
+```
 
 - **Sample output**:  
-`Americano: 45`  
-`Latte: 63`  
-`Flat White: 54`  
-`Espresso: 54`  
-`Cappuccino: 72`  
-`Mocha: 81`
+```
+Americano: 45
+Latte: 63
+Flat White: 54
+Espresso: 54
+Cappuccino: 72
+Mocha: 81
+```
 
 >Use `coffee.Keys.ToArray()` inside the foreach loop.
 Note the space after the `:` in the output.

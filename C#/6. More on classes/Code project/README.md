@@ -9,13 +9,17 @@ Complete the given class, using overload + operator to return an new object wher
 The declaration of that object and the output of its points are already written in Main().
 
 - **Sample input**:  
-`Dave`  
-`8`  
-`Jessica`  
-`7`
+```
+Dave
+8
+Jessica
+7
+```
 
 - **Sample output**:  
-`Dave & Jessica`  
-`15`
+```
+Dave & Jessica
+15
+```
 
 >Remember to use the `operator` keyword.

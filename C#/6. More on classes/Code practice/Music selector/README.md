@@ -7,17 +7,21 @@ The program you are given takes 5 music genres as input and stores them in the `
 Fix the program by declaring an **indexer** inside the `MusicGenres` class so that the given outputs work correctly.
 
 - **Sample input**:  
-`Blues`  
-`Rock`  
-`Hip Hop`  
-`Country`  
-`Soul`  
+```
+Blues
+Rock
+Hip Hop
+Country
+Soul
+```
 
 - **Sample output**:  
-`Following: Blues`  
-`Following: Rock`  
-`Following: Hip Hop`  
-`Following: Country`  
-`Following: Soul`  
+```
+Following: Blues
+Following: Rock
+Following: Hip Hop
+Following: Country
+Following: Soul
+```
 
 >Remember to use `this` keyword for declaration of indexer.

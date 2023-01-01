@@ -5,13 +5,17 @@ You are writing a program that can output the value of a variable of any type. I
 Create a generic method `Print` for a `Printer` class to execute the given calls correctly.
 
 - **Sample input**:  
-`Hello`  
-`14`  
-`7.6`  
+```
+Hello
+14
+7.6
+```
 
 - **Sample output**:  
-`Showing Hello`  
-`Showing 14`  
-`Showing 7.6`  
+```
+Showing Hello
+Showing 14
+Showing 7.6
+```
 
 >Note that there is no object of `Printer` class, so the **generic** method should be `static`.

@@ -5,10 +5,14 @@ You are writing a program to calculate the **area** of a rectangle. Currently it
 Complete the given method to take them as arguments, then calculate and return the `area`.
 
 - **Sample input**:  
-`4`  
-`5`
+```
+4 
+5
+```
 
 - **Sample output**:  
-`20`
+```
+20
+```
 
 >Use `length * height` formula to get the area of rectangle.

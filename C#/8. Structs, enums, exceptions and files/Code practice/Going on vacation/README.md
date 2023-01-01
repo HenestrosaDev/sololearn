@@ -7,10 +7,14 @@ The program you are given defines an array with those options and takes **N** nu
 Write a program to output the package option with **N** index. If the number is out of range, program should output `Wrong number`. Regardless of the option results, the program should output `Goodbye` at the end.
 
 - **Sample input**:  
-`2`
+```
+2
+```
 
 - **Sample output**:  
-`Italy`  
-`Goodbye`  
+```
+Italy
+Goodbye
+```
 
 >It's not mandatory to mention the exception type.

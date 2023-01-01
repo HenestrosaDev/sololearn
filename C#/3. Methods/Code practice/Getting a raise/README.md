@@ -7,12 +7,16 @@ The program you are given takes the **current salary budget** and the **raise pe
 Fix the program by completing the `Increase()` method (which should calculate the new salary budget) and calling it, so that the provided outputs work correctly.
 
 - **Sample input**:  
-`150000`  
-`15`  
+```
+150000
+15
+```
 
 - **Sample output**:
-`Before the increase: 150000`  
-`After the increase: 172500`  
+```
+Before the increase: 150000
+After the increase: 172500
+```
 
 **Explanation**: The first input (150000) represents the initial value of salary budget, the second one is the raise percentage - 15%. So, after the increase, the salary budget should be `1.15 * 150000 = 172500`.
 

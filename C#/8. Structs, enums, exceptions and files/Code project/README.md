@@ -11,10 +11,14 @@ The program must also, handle these two possible problems:
 For the first exception, the program should output `At least 1 shelf` and, for the second, `Please insert an integer`.
 
 - **Sample input**:  
-`6`  
-`two`
+```
+6
+two
+```
 
 - **Sample output**:  
-`Please insert an integer`
+```
+Please insert an integer
+```
 
 >Use `DivideByZeroException` for the first exception and `FormatException` for the second one.

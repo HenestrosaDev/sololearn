@@ -11,10 +11,14 @@ Complete the class with
 Once you have made the changes to the program so that it works correctly, then in main, the program will take the text of the post from the user, create a post object, assign the taken value to the text field and output it.
 
 - **Sample input**:  
-`Hello!`
+```
+Hello!
+```
 
 - **Sample output**:  
-`New post`  
-`Hello!`
+```
+New post
+Hello!
+```
 
 >Recall the **value** keyword for set accessor.

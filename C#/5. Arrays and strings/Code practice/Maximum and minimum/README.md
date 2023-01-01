@@ -3,14 +3,18 @@
 Write a program to take 5 numbers as input, then calculate and output the sum of the maximum and the minimum inputted values.
 
 - **Sample input**:  
-`5`  
-`6`  
-`14`  
-`2`  
-`1`  
+```
+5
+6
+14
+2
+1
+```
 
 - **Sample output**:  
-`15`
+```
+15
+```
 
 **Explanation**: The minimum value is 1, the maximum is 14. So `14 + 1 = 15` should be output.
 

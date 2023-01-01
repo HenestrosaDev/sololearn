@@ -7,14 +7,18 @@ The program you are given takes the **number of departments** to be opened as in
 Complete the `Department` class to have 1 static member `depCount` with an initial value of `2` for the number of departments and the constructor that will count it and output corresponding message (see sample output).
 
 - **Sample input**:  
-`2`  
-`Finance`  
-`Marketing`  
+```
+2
+Finance
+Marketing
+```
 
 - **Sample output**:  
-`Department opened: Finance`  
-`Department opened: Marketing`  
-`Number of departments: 4`  
+```
+Department opened: Finance
+Department opened: Marketing
+Number of departments: 4
+```
 
 **Explanation**: The first input represents the number of departments to be opened, followed by their names.
 

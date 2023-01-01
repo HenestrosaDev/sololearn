@@ -39,14 +39,18 @@ string[][] olympiad = new string[][]
 Write a program to take the numbers of each day's winners as input and output them.
 
 - **Sample input**:  
-`2`  
-`3`  
-`4`  
+```
+2
+3
+4
+```
 
 - **Sample Output**:  
-`Bridgette Ramona`  
-`Fran Mayur`  
-`Kristian Dana`  
+```
+Bridgette Ramona
+Fran Mayur
+Kristian Dana
+```
 
 **Explanation**:
 - Day 1 winner is Bridgette Ramona (the 2nd participant of day 1)
