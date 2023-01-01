@@ -12,10 +12,14 @@ The store uses the following cost structure:
 You need to complete the given `shippingCost()` function, which takes the order amount and a `Boolean` indicating whether the order is international or not, and returns the shipping cost for that order. The return amount should be a `Double`.
 
 - **Sample input**:  
-`140.0`  
-`true`
+```
+140.0
+true
+```
 
 - **Sample output**:  
-`21.0`
+```
+21.0
+```
 
 >The order is for $140 and is international. So, the shipping cost would be 15%, which is $21.
