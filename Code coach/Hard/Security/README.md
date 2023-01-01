@@ -4,8 +4,7 @@ You are in charge of security at a casino, and there is a thief who is trying to
 
 There is one money location, one thief, and any number of guards on each floor of the casino. 
  
-**Task**  
-Evaluate a given floor of the casino to determine if there is a guard between the money and the thief, if there is not, you will sound an alarm. 
+**Task**: Evaluate a given floor of the casino to determine if there is a guard between the money and the thief, if there is not, you will sound an alarm. 
  
 **Input format**  
 A string of characters that includes `$` (money), `T` (thief), and `G` (guard), that represents the layout of the casino floor.   
@@ -13,8 +12,8 @@ A string of characters that includes `$` (money), `T` (thief), and `G` (guard), 
 Space on the casino floor that is not occupied by either money, the thief, or a guard is represented by the character `x`. 
  
 **Output format**  
-A string that says `ALARM` if the money is in danger or `quiet` if the money is safe. 
- 
+A string that says `ALARM` if the money is in danger or `quiet` if the money is safe.  
+
 - **Sample input:** `xxxxxGxx$xxxT`
 - **Sample output:** `ALARM`
 ---
@@ -27,5 +26,4 @@ A string that says `ALARM` if the money is in danger or `quiet` if the money is 
 - **Sample input:** `T$xxxxxG`
 - **Sample output:** `ALARM`
 
->**Explanation**  
-This input should set off the alarm because there is no guard between the money and the thief!
+>**Explanation**: This input should set off the alarm because there is no guard between the money and the thief!

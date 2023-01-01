@@ -5,14 +5,12 @@ You are cheering on your favorite team. After each play, if your team got over 1
 **Task**  
 Given the number of yards that your team moved forward, output either `High Five` (for >10), `shh` (for <1), or a string that has a `Ra!` for every yard that they gained. 
  
-**Input format**  
-An integer value that represents the number of yards gained or lost by your team. 
+**Input format**: An integer value that represents the number of yards gained or lost by your team. 
+
+**Output format**: A string of the appropriate cheer.  
  
-**Output format**  
-A string of the appropriate cheer.  
- 
-- **Sample input:** `3`
-- **Sample output:** `Ra!Ra!Ra!`
+- **Sample input**: `3`
+- **Sample output**: `Ra!Ra!Ra!`
 
 >**Explanation**  
 If your team gains 3 yards you would cheer `Ra!` three times for that play.

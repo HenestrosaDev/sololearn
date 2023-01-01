@@ -5,14 +5,11 @@ You want to convert the time from a 12 hour clock to a 24 hour clock. If you are
 **Task**   
 Determine if the time you are given is AM or PM, then convert that value to the way that it would appear on a 24 hour clock. 
  
-**Input format**  
-A string that includes the time, then a space and the indicator for AM or PM. 
+**Input format**: A string that includes the time, then a space and the indicator for AM or PM. 
  
-**Output format**  
-A string that includes the time in a 24 hour format (XX:XX) 
+**Output format**: A string that includes the time in a 24 hour format **(XX:XX)**
  
 - **Sample input:** `1:15 PM` 
 - **Sample output:** `13:15`
 
->**Explanation**  
-1:00 PM on a 12 hour clock is equivalent to 13:00 on a 24 hour clock.
+>**Explanation**: **1:00 PM** on a **12 hour clock** is equivalent to **13:00** on a **24 hour clock**.
