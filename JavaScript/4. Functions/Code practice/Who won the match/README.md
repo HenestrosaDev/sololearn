@@ -8,10 +8,14 @@ Complete the function to take **Team 1** and **Team 2** goals as arguments and o
 - `Draw`, if the scores are equal.
 
 - **Sample input**:  
-`3`  
-`4`  
+```
+3
+4
+```
 
 - **Sample output**:  
-`Team 2 won`
+```
+Team 2 won
+```
 
 >The function call is already given.

@@ -7,11 +7,15 @@ Inspired by these words, let's create a little program that will output an expre
 **Task**: Complete the code to output the given expression **3 times**.
 
 - **Sample input**:  
-`Learning is fun!`  
+```
+Learning is fun!
+```
 
 - **Sample output**:  
-`Learning is fun!`  
-`Learning is fun!`  
-`Learning is fun!`  
+```
+Learning is fun!
+Learning is fun!
+Learning is fun!
+```
 
 >Use the `for` loop to run the required part of the code as many times as needed.
