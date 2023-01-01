@@ -7,10 +7,14 @@ You are given a program, which takes the purchase `amount` as input, and print `
 **Task**: Complete the code to print `Gift card` again if the purchase is **above 30000**.
 
 - **Sample input**:  
-`36000`
+```
+36000
+```
 
 - **Sample output**:  
-`Gift card`  
-`Gift card`  
+```
+Gift card
+Gift card
+```
 
 >Add an `if` statement inside the given one to handle the second condition.

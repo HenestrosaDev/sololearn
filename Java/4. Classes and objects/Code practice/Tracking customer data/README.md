@@ -7,15 +7,19 @@ The program you are given takes a guest's data (first name, last name, age, and 
 Complete the class by adding corresponding attributes so that the `saveCustomerInfo()` method works correctly. Also assign taken data values to attributes of created object.
 
 - **Sample input**:  
-`John`  
-`Smith`  
-`35`  
-`204`  
+```
+John
+Smith
+35
+204
+```
 
 - **Sample output**:  
-`First name: John`  
-`Second name: Smith`  
-`Age: 35`  
-`Room number: 204`  
+```
+First name: John
+Second name: Smith
+Age: 35
+Room number: 204
+```
 
 >Be attentive to set **correct data types** for attributes.

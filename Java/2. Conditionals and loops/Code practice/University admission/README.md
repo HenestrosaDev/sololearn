@@ -5,10 +5,14 @@ You are given code that takes the number of students who enter the university as
 **Task**: Complete the program to output `Welcome` for each student.
 
 - **Sample input**:  
-`2`  
+```
+2
+```
 
 - **Sample output**:  
-`Welcome`  
-`Welcome`  
+```
+Welcome
+Welcome
+```
 
 >Remember the **semicolon** (`;`) after initialization and condition in the syntax.

@@ -5,11 +5,15 @@ You're creating a bank security system. The user must insert the correct passwor
 **Task**: Write a program that will continuously take a password as input and output `Write password`, until the client inserts the correct password.
 
 - **Sample input**:  
-`3332`  
-`8819`  
+```
+3332
+8819
+```
 
 - **Sample output**:  
-`Write password`  
-`Write password`  
+```
+Write password
+Write password
+```
 
 >Use `Scanner` in a `do while` loop to take input continuously.
