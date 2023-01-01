@@ -11,14 +11,18 @@ You need to do the following to complete the program:
 2. Complete the `while` loop that continuously takes the weapon of choice from user input and call the corresponding object's `hit()` method.
 
 - **Sample Input**:  
-`laser`  
-`laser`  
-`gun`  
-`exit`  
+```
+laser
+laser
+gun
+exit
+```
 
 - **Sample Output**:  
-`Alien has 4 lives`  
-`Alien has 3 lives`  
-`Monster has 2 lives`  
+```
+Alien has 4 lives
+Alien has 3 lives
+Monster has 2 lives
+```
 
 >The `while` loop stops when the user enters `exit`.
