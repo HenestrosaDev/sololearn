@@ -1,23 +1,22 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
 	int n;
-	cin >> n;
+	std::cin >> n;
 
 	while (n > 0)
 	{
-		cout << n;
+		std::cout << n;
 
 		if (n - 1 > 0)
 		{
-			cout << endl;
+			std::cout << std::endl;
 		}
 
 		if (n % 5 == 0)
 		{
-			cout << "Beep" << endl;
+			std::cout << "Beep" << std::endl;
 		}
 
 		n--;

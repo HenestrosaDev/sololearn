@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 template <class T>
 class Queue
@@ -78,7 +77,7 @@ int main()
 	q1.add(1);
 	q1.print();
 
-	Queue<string> q2;
+	Queue<std::string> q2;
 	q2.add("Dave");
 	q2.add("John");
 	q2.add("Amy");

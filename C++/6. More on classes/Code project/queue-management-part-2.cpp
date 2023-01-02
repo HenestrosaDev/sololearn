@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 class Queue
 {
@@ -24,7 +23,7 @@ public:
 	{
 		if (size == 0)
 		{
-			cout << "Queue is empty" << endl;
+			std::cout << "Queue is empty" << std::endl;
 			return;
 		}
 		else
@@ -41,14 +40,14 @@ public:
 	{
 		if (size == 0)
 		{
-			cout << "Queue is empty" << endl;
+			std::cout << "Queue is empty" << std::endl;
 			return;
 		}
 		for (int i = 0; i < size; i++)
 		{
-			cout << queue[i] << " <- ";
+			std::cout << queue[i] << " <- ";
 		}
-		cout << endl;
+		std::cout << std::endl;
 	}
 
 	Queue operator+(Queue &obj) 

@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -10,7 +9,7 @@ int main()
 
 	for (int i = 0; i < 5; ++i)
 	{
-		cin >> ages[i];
+		std::cin >> ages[i];
 		sum += ticketPrice;
 		if (ages[i] < minAge || minAge == 0)
 		{
@@ -20,7 +19,7 @@ int main()
 
 	// 100.0 is important to get a float instead an int
 	sum -= (minAge / 100.0 * sum);
-	cout << sum;
+	std::cout << sum;
 
 	return 0;
 }

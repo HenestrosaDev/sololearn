@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 bool isPalindrome(int x)
 {
@@ -20,15 +19,15 @@ bool isPalindrome(int x)
 int main()
 {
 	int inputNumber;
-	cin >> inputNumber;
+	std::cin >> inputNumber;
 
 	if (isPalindrome(inputNumber))
 	{
-		cout << inputNumber << " is a palindrome";
+		std::cout << inputNumber << " is a palindrome";
 	}
 	else
 	{
-		cout << inputNumber << " is NOT a palindrome";
+		std::cout << inputNumber << " is NOT a palindrome";
 	}
 
 	return 0;
