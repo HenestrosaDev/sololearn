@@ -5,13 +5,17 @@ You are making a game! The player tries to shoot an object and can hit or miss i
 Your program needs to take 4 action results as input (`hit` or `miss`), calculate and output the player's remaining points.
 
 - **Sample input**:  
-`hit`  
-`hit`  
-`miss`  
-`hit`  
+```
+hit
+hit
+miss
+hit
+```
 
 - **Sample output**:  
-`110`
+```
+110
+```
 
 **Explanation**: 3 hits add 30 points, one miss deducts 20, making the total points equal to **110**.
 

@@ -3,11 +3,15 @@
 Write a function that takes a string and a letter as its arguments and returns the count of the letter in the string.
 
 - **Sample input**:  
-`hello, how are you?`  
-`o`
+```
+hello, how are you?
+o
+```
 
 - **Sample output**:  
-`3`
+```
+3
+```
 
 **Explanation**: The letter **o** appears **3** times in the given text.
 
