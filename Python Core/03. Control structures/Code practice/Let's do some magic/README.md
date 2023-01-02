@@ -7,11 +7,15 @@ The given program takes the initial count of the items and the number of days as
 **Task**: Write a program to calculate and output **items' count** on the last day.
 
 - **Sample input**:  
-`3`  
-`2`  
+```
+3
+2
+```
 
 - **Sample output**:  
-`12`
+```
+12
+```
 
 **Explanation**:
 - **Day 1**: 6 (3 * 2)

@@ -5,10 +5,14 @@ You are given a program for a bank card withdrawal system: it takes the account 
 The bank wants to set a minimal value of $**500** for withdrawal. Modernize the program so that it will output the same `Error` if the requested money is less than $**500**.
 
 - **Sample input**:  
-`4500`  
-`300`  
+```
+4500
+300
+```
 
 - **Sample output**:  
-`Error`
+```
+Error
+```
 
 >As with other operators, you can chain multiple conditions with the ternary operator.
