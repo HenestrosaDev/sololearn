@@ -8,5 +8,5 @@ You need to create an `add()` method for the `Queue` class, that will take an it
 
 The code needs to be fully working, so that the `Queue` declaration and manipulation code in `main()` works.
 
-> Do not forget to increment the size after adding the item to the array.  
-Read the code carefully, before making any changes.
+>Do not forget to increment the size after adding the item to the array.  
+>Read the code carefully, before making any changes.
