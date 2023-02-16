@@ -8,6 +8,6 @@ Here is the `products` table showing a field for each item, along with the `expi
 
 You need to get rid of all the expired products.
 
-Delete from the `products` table all of the items whose `expiredate` is less than 1 and show the table without any expired items.
+Delete from the `products` table all the items whose `expiredate` is less than 1 and show the table without any expired items.
 
 >The `DELETE` statement removes the data from the table **permanently**.
