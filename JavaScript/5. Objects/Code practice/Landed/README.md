@@ -6,15 +6,19 @@ Complete the given program by fixing the constructor, making a `Flight` object, 
 
 **Flight ID** and the flight **status** (landed, on time, delayed, etc.) are taken as input.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 NGT 929
 landed
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 Flight NGT 929 has landed
 ```
+
+---
 
 >Use `new` keyword to create a new object using constructor.

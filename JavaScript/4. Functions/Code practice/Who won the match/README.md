@@ -7,15 +7,19 @@ Complete the function to take **Team 1** and **Team 2** goals as arguments and o
 - `Team 2 won`, if Team 2's score is higher than Team 1's score.
 - `Draw`, if the scores are equal.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 3
 4
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 Team 2 won
 ```
+
+---
 
 >The function call is already given.

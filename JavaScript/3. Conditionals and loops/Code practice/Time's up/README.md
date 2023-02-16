@@ -2,12 +2,14 @@
 
 Write a program-timer, that will take the **count of seconds** as input and output to the console all the seconds until timer stops.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 4
 ```  
 
-- **Sample output**:
+**Sample output**:
 ```
 4
 3
@@ -15,5 +17,7 @@ Write a program-timer, that will take the **count of seconds** as input and outp
 1
 0
 ```
+
+---
 
 >Be attentive: **0** should also be included in the output.

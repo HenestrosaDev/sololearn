@@ -8,10 +8,23 @@ If the score is
 
 You are given a program that takes the `score` as input.
 
+---
+
 **Task**: Complete the code to output the corresponding result (`excellent`, `good`, `fail`) to the console.
 
-- **Sample input**: `78`
-- **Sample output**: `good`
+---
+
+**Sample input**: 
+```
+78
+```
+
+**Sample output**: 
+```
+good
+```
+
+---
 
 >Use `console.log()` to output the result to the console.   
-Use logical operator `&&` to chain multiple conditions
+>Use logical operator `&&` to chain multiple conditions
