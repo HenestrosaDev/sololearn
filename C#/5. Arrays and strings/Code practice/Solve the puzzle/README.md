@@ -15,7 +15,18 @@ Write a program to take N number as input and output the corresponding game with
 
 If user enters an invalid number that is out of array range, the program should output `Invalid number`.
 
-- **Sample Input**: `3`
-- **Sample output**: `Puzzle`
+---
+
+**Sample input**: 
+```
+3
+```
+
+**Sample output**: 
+```
+Puzzle
+```
+
+---
 
 >Remember the first element of the array has **0** index.

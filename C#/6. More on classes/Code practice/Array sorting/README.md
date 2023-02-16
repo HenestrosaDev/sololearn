@@ -4,7 +4,9 @@ The program you are given takes the N number as the size of an array, followed b
 
 Complete the program to sort and output every element of an array, each on a new line.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 4
 1
@@ -13,12 +15,14 @@ Complete the program to sort and output every element of an array, each on a new
 5
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 1
 3
 5
 14
 ```
+
+---
 
 >Use static `Sort()` method of static class `Array`.

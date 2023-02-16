@@ -7,7 +7,18 @@ The given program declares a constant pi variable with a value of 3.14.
 
 Complete the program to take the radius as input, then calculate and output the area of the circle.
 
-- **Sample input**: `5`
-- **Sample output**: `78.5`
+---
+
+**Sample input**: 
+```
+5
+```
+
+**Sample output**: 
+```
+78.5
+```
+
+---
 
 >Remember to convert the inputted value to type **double**.

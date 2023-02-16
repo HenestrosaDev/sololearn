@@ -6,18 +6,22 @@ The program you are given takes takes those dimensions as inputs, defines `Cuboi
 
 Complete the program by creating a constructor, which will take the `length`, the `width`, and the `height` as parameters and assign them to its struct members. Also, complete `Volume()` and `Perimeter()` methods inside the struct, to calculate and return them, so that the given methods calls work correctly.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 5
 4
 5
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 Volume: 100
 Perimeter: 56
 ```
 
->Cuboid volume: `length * width * height`  
-Cuboid perimeter: `4 * (length + width + height)`
+---
+
+>**Cuboid volume**: `length * width * height`  
+>**Cuboid perimeter**: `4 * (length + width + height)`

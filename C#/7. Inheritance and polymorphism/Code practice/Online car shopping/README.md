@@ -6,16 +6,20 @@ The program you are given takes the `color` and the `equipment` type as input an
 
 Implement `IColor` and `IEquipment` interfaces for the `Car` class and reimplement their `GetColor` and `GetEquipment` methods inside it. Each of them should output corresponding message about color/equipment (see sample output).
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 Blue
 Standard
 ```
 
-- **Sample Output**:  
+**Sample output**:  
 ```
 Color: Blue
 Equipment: Standard
 ```
+
+---
 
 >To implement multiple interfaces, use a comma separated list of interfaces when creating the class.

@@ -38,23 +38,29 @@ string[][] olympiad = new string[][]
 
 Write a program to take the numbers of each day's winners as input and output them.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 2
 3
 4
 ```
 
-- **Sample Output**:  
+**Sample Output**:  
 ```
 Bridgette Ramona
 Fran Mayur
 Kristian Dana
 ```
 
+---
+
 **Explanation**:
 - Day 1 winner is Bridgette Ramona (the 2nd participant of day 1)
 - Day 2 winner is Fran Mayur (the 3rd participant of day 2)
 - Day 3 winner is Kristian Dana (the 4th participant of day 3)
+
+---
 
 >Remember that the indexing starts from 0, so, if you want to output **Nth** participant, you should use the `N-1` index.
