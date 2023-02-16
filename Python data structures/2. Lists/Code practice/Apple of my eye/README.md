@@ -16,16 +16,22 @@ The data shows that, for example, there are **20** green eyed females in the roo
 
 Our program needs to take eye color as input and output the percentage of people with that eye color in the room.
 
-- **Sample input**:
+---
+
+**Sample input**:
 ```
 blue
 ```
 
-- **Sample output**:
+**Sample output**:
 ```
 36
 ```
 
+---
+
 >**Explanation**: There are `11 + 32 = 43` people with blue eyes, which is **36%** of the total.
+
+---
 
 >Note, that the output should be an `integer`: use the `int()` function to convert the result.

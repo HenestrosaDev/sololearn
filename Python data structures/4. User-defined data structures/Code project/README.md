@@ -10,14 +10,18 @@ If the closing bracket does not correspond to the opening bracket, then stop and
 
 Implement the `balanced()` function to return `True` if the parentheses in the given expression are balanced, and `False` if not.
 
-- **Sample input**:
+---
+
+**Sample input**:
 ```
 (a( ) eee) )
 ```
 
-- **Sample output**:
+**Sample output**:
 ```
 False
 ```
+
+---
 
 >You can use a simple list for a stack. Use `list.insert(0, item)` to push on the stack, and `list.pop(0)` to pop the top item. You can access the top element of the stack using `list[0]`.

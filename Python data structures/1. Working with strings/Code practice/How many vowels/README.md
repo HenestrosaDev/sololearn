@@ -4,7 +4,18 @@ You need to make a program that counts the number of vowels in a given text. The
 
 Take a string as input and output the number of vowels.
 
-- **Sample input**: `this is great`
-- **Sample output**: `4`
+---
+
+**Sample input**: 
+```
+this is great
+```
+
+**Sample output**: 
+```
+4
+```
+
+---
 
 >There are 4 vowels in the given text.
