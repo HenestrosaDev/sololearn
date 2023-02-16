@@ -6,7 +6,18 @@ The form has a `name` field, which should be **more than 3 characters long**. An
 
 Complete the code to take the `name` as input, and raise an exception if the `name` is invalid, outputting `Invalid Name`. Output `Account Created` if it is valid.
 
-- **Sample input**: `abc`
-- **Sample output**: `Invalid Name`
+---
+
+**Sample input**: 
+```
+abc
+```
+
+**Sample output**: 
+```
+Invalid Name
+```
+
+---
 
 >Use `try/raise/except` statements.

@@ -2,18 +2,22 @@
 
 Take a number `n` as input and write the numbers **1 to `n`** to the file `numbers.txt`, each number on a separate line.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 4
 ```
 
-- **Sample output**:
+**Sample output**:
 ```
 1
 2
 3
 4
 ```
+
+---
 
 The given code reads the content of the file and outputs it.
 

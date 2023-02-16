@@ -11,7 +11,18 @@ car = {
 
 Your program needs to take the key as input and output the corresponding value.
 
-- **Sample input**: `year`
-- **Sample output**: `2018`
+---
+
+**Sample input**: 
+```
+year
+```
+
+**Sample output**: 
+```
+2018
+```
+
+---
 
 >The data is already defined in the code.

@@ -9,6 +9,6 @@ Line 2: 5 words
 ...
 ```
 
-Make sure to match the above mentioned format in the output.
+Make sure to match the above-mentioned format in the output.
 
 >To count the number of words in a given string, you can use the `split()` function, or, alternatively, count the number of spaces (for example, if a string contains 2 spaces, then it contains 3 words).
