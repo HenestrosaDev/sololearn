@@ -10,16 +10,20 @@ The resulting number indicates one of the following categories:
 
 Let’s make finding out your BMI quicker and easier, by creating a program that takes a person's weight and height as input and outputs the corresponding BMI category.
 
-- **Sample input**:
+---
+
+**Sample input**:
 ```
 85
 1.9
 ```
 
-- **Sample output**:
+**Sample output**:
 ```
 Normal
 ```
 
-> Weight is in kg, height is in meters.  
-Note, that height is a **float**.
+---
+
+>Weight is in kg, height is in meters.  
+>Note, that height is a **float**.

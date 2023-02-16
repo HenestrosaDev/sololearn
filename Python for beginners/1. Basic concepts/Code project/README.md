@@ -4,7 +4,6 @@ You need to calculate the flight time of an upcoming trip. You are flying from L
 
 Calculate and output the total flight time in hours.
 
-**Hint**  
-The result should be a float.
+**Hint**: The result should be a float.
 
-> Use the `print` statement to output the result.
+>Use the `print` statement to output the result.

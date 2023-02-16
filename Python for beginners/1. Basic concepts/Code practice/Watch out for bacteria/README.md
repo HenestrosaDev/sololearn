@@ -7,4 +7,4 @@ Which means, **after 1 hour** the number of bacteria is **1000**, after 2 hours 
 
 Let's calculate and output the number of bacteria that will be in the culture after 24 hours.
 
-> The formula to calculate the bacteria after N hours will be: `500*2ᴺ`
+>The formula to calculate the bacteria after N hours will be: `500*2ᴺ`

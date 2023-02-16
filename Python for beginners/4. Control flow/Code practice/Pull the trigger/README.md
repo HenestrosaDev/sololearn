@@ -4,7 +4,9 @@ You are making a game! The player tries to shoot an object and can hit or miss i
 
 Your program needs to take 4 action results as input (`hit` or `miss`), calculate and output the player's remaining points.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 hit
 hit
@@ -12,11 +14,15 @@ miss
 hit
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 110
 ```
 
+---
+
 **Explanation**: 3 hits add 30 points, one miss deducts 20, making the total points equal to **110**.
 
-> Use a `while` loop to take input during each iteration and calculate the points.
+---
+
+>Use a `while` loop to take input during each iteration and calculate the points.

@@ -6,15 +6,19 @@ The given code takes a text and a word as input and passes them to a function ca
 
 The `search()` function should return `Word found` if the word is present in the text or `Word not found` if it's not.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 This is awesome
 awesome
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 Word found
 ```
+
+---
 
 > Define the `search()` function, so that the given code works as expected.

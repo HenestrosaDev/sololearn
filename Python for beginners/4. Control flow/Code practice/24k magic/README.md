@@ -13,7 +13,18 @@ If it's between **83.3** and **91.7** - then it's *20K*, and so on.
 
 Given the percentage as input, output the corresponding Karat value, including the letter K.
 
-- **Sample input**: `92.4`
-- **Sample output**: `22K`
+---
+
+**Sample input**: 
+```
+92.4
+```
+
+**Sample output**: 
+```
+22K
+```
+
+---
 
 > Do not output anything, if the percentage is lower than 75%.

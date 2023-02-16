@@ -4,4 +4,4 @@ You're given a task to write the word "hi" 42 times. Boring, right? Let’s writ
 
 Create a program to output `hi` **42** times, without any separators, on the same line.
 
-> Remember, you can multiply strings by numbers.
+>Remember, you can multiply strings by numbers.

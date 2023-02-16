@@ -6,7 +6,18 @@ You're making a gold purity checker, that should accept only 22K or 24K gold. On
 
 Given the % of gold purity as input, you should output "Accepted" only if it corresponds to 22 or 24K.
 
-- **Sample input**: `93.4`
-- **Sample output**: `Accepted`
+---
+
+**Sample input**: 
+```
+93.4
+```
+
+**Sample output**: 
+```
+Accepted
+```
+
+---
 
 > Do not output anything if the gold corresponds to lower purity levels.
