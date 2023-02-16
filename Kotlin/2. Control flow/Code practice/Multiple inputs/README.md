@@ -5,7 +5,9 @@ During each iteration a number is taken from the input.
 
 You need to fix the program to stop the loop when the user enters `0` and output the number of inputs taken before that.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 42
 1
@@ -13,9 +15,11 @@ You need to fix the program to stop the loop when the user enters `0` and output
 0
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 3
 ```
+
+---
 
 >**Hint**: Use a `break` statement to stop the loop when the user input is 0.

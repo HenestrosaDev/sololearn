@@ -8,7 +8,18 @@ Given an age as input, you need to output the age group according to the followi
 
 In case the age is negative, you need to output `Invalid age`.
 
-- **Sample input**: `42`
-- **Sample output**: `Adult`
+---
+
+**Sample input**: 
+```
+42
+```
+
+**Sample output**: 
+```
+Adult
+```
+
+---
 
 >You can use a `when` statement to create the conditions and return the corresponding values.

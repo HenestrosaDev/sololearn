@@ -4,7 +4,18 @@ Let's add some behavior to our `Button` class! You need to define a `tap()` func
 
 The code in `main` takes the name of the `Button` as input, assigns it to the property, and calls the `tap()` function.
 
-- **Sample input**: `Send`
-- **Sample output**: `Send was tapped`
+---
+
+**Sample input**: 
+```
+Send
+```
+
+**Sample output**: 
+```
+Send was tapped
+```
+
+---
 
 >Note that the constructor should include only the `width` and `height` properties.
