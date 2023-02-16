@@ -8,7 +8,18 @@ Create a program that takes a password as input and returns `Password created` i
 
 The program should output `Wrong format` if requirements above are not met.
 
-- **Sample input**: `Hal44gb8`
-- **Sample Output**: `Password created`
+---
+
+**Sample input**: 
+```
+Hal44gb8
+```
+
+**Sample output**: 
+```
+Password created
+```
+
+---
 
 >Use metacharacter `*` that means zero or more repetitions.

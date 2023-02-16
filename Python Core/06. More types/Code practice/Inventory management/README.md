@@ -2,7 +2,7 @@
 
 Dictionaries can be used to store `key:value` pairs.
 
-You have been asked to create an inventory management program for a store. You use a dictionary to track all of the store's inventory along with how many of each item the store has.
+You have been asked to create an inventory management program for a store. You use a dictionary to track all the store's inventory along with how many of each item the store has.
 ```
 store = {"Orange": 2, "Watermelon": 0, "Apple": 8, "Banana": 42} 
 ```

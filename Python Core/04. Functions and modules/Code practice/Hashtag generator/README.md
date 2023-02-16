@@ -4,8 +4,19 @@ We are creating our own social network application and need to have a hashtag ge
 
 Complete the program to output the input text starting with the hashtag (**#**). Also, if the user entered several words, the program should delete the spaces between them.
 
-- **Sample input**: `code sleep eat repeat`
-- **Sample output**: `#codesleepeatrepeat`
+---
+
+**Sample input**: 
+```
+code sleep eat repeat
+```
+
+**Sample output**: 
+```
+#codesleepeatrepeat
+```
+
+---
 
 **Hint**: You can use the `replace()` function to replace the spaces (" ") with empty strings (""). See how it works:
 ```

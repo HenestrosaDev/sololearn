@@ -9,7 +9,18 @@ fruits = ["apple", "cherry", "banana", "kiwi", "lemon", "pear", "peach", "avocad
 
 If `n < 0` or `n > 7` (the index of last fruit ), the program outputs `Wrong number`.
 
-- **Sample input**: `2`
-- **Sample output**: `banana`
+---
+
+**Sample input**: 
+```
+2
+```
+
+**Sample output**: 
+```
+banana
+```
+
+---
 
 >Remember that the first element of the list has `0` index.

@@ -4,16 +4,20 @@ You need to write a function that takes multiple words as its argument and retur
 
 The function should be able to take a varying number of words as the argument.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 this
 is
 great
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 this-is-great
 ```
+
+---
 
 >Recall, using `*args` as a function parameter enables you to pass an arbitrary number of arguments to that function.

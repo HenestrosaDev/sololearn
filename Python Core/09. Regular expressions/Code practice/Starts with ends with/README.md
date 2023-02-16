@@ -4,7 +4,18 @@ Write a program that takes a word as input, and outputs `Match` if the word has 
 
 The program should output `No match` if these mentioned requirements aren't satisfied.
 
-- **Sample input**: `mine`
-- **Sample Output**: `Match`
+---
+
+**Sample input**: 
+```
+mine
+```
+
+**Sample output**: 
+```
+Match
+```
+
+---
 
 >Don't forget to mention the start and end of the regular expression.
