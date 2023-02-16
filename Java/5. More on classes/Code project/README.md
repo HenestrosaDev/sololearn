@@ -10,18 +10,24 @@ The `area()` for the `Square` class should output the area of the square (the sq
 
 The code in main creates two objects with the given user input and calls the `area()` methods.
 
-- **Sample input**:
+---
+
+**Sample input**:
 ```
 5
 2
 ```
 
-- **Sample output**:
+**Sample output**:
 ```
 25
 12.566370614359172
 ```
 
+---
+
 The area of the square is 5\*5=25, while the area of the circle is PI\*2\*2=12.566370614359172
+
+---
 
 >Use the `Math.PI` constant for the area calculation of the circle.

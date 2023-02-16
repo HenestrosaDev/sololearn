@@ -6,7 +6,9 @@ The program you are given takes the `scores` as input.
 
 Complete the method to take them as parameters, then calculate and return the **average score**.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 6.0
 4.0
@@ -14,9 +16,11 @@ Complete the method to take them as parameters, then calculate and return the **
 3.0
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 4.5
 ```
+
+---
 
 >To calculate the **average score** add up all the scores, then divide by how many scores there are.

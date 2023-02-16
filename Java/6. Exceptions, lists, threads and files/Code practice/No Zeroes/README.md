@@ -8,15 +8,19 @@ The program you are given should take **two integers** as input and execute the 
 
 Complete the program to handle them. For the first exception, the program should output `Mistake: division by zero` and, for the second one, `Mistake: wrong value type`.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 1 
 b
 ```  
 
-- **Sample output**:  
+**Sample output**:  
 ```
 Mistake: wrong value type
 ```
+
+---
 
 >Use `ArithmeticException` for first exception and `InputMismatchException` for the second one.

@@ -4,7 +4,9 @@ The program you are given declares a `LinkedList` of integers, takes 5 numbers f
 
 Write a program to calculate and output the **sum of them elements**.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 4
 3
@@ -13,9 +15,11 @@ Write a program to calculate and output the **sum of them elements**.
 8
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 68
 ```
+
+---
 
 >Use `Iterator` and its methods to execute the calculation using the `while` loop.

@@ -4,8 +4,19 @@ You take a loan from a friend and need to calculate how much you will owe him af
 
 Create a program that takes the loan amount as input, calculates and outputs the remaining amount after 3 months.
 
-- **Sample input:**: `20000`
-- **Sample output**: `10628`
+---
+
+**Sample input:**: 
+```
+20000
+```
+
+**Sample output**: 
+```
+10628
+```
+
+---
 
 Here is the monthly payment schedule:
 
@@ -20,6 +31,8 @@ Remaining amount: 16200
 - **Month 3:**  
 Payment: 10% of 16200 = 1620  
 Remaining amount: 14580
+
+---
 
 >Use a loop to calculate the payment and remaining amounts for each month. <br> 
 Also, use **integers** for amounts.

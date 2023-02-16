@@ -8,8 +8,19 @@ Create a `Converter` class with a static `toBinary` method, which returns the bi
 
 The code in main takes a number as input and calls the corresponding static method. Make sure the code works as expected.
 
-- **Sample input**: `42`
-- **Sample output**: `101010`
+---
+
+**Sample input**: 
+```
+42
+```
+
+**Sample output**: 
+```
+101010
+```
+
+---
 
 You can use the following code to convert a number to binary:
 ```
@@ -19,5 +30,7 @@ while (num > 0) {
 	num /= 2;
 }
 ```
+
+---
 
 >The code above uses a loop to convert `num` to binary and stores the result in the `binary` String.

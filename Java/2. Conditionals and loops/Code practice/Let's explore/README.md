@@ -4,17 +4,23 @@ You're a tour manager and need a program that will identify small countries. A c
 
 The given program takes `population` and `area` as input.
 
+---
+
 **Task**: Complete the program to output `small country` if both conditions are met. Don't output anything otherwise.
 
-- **Sample input**:  
+---
+
+**Sample input**:  
 ```
 9955
 7522
 ```
 
-- **Sample output**:  
+**Sample output**:  
 ```
 small country
 ```
+
+---
 
 >Use `&&` to combine conditions.
