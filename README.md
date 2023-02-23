@@ -1,10 +1,13 @@
 <div align="center">
-	<img src="docs/icon.png" alt="Logo" width="128" height="128">
+    <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-40px">
+    <h2 align="center">SoloLearn</h2>
+    <p align="center">
+        Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
+        <br />
+        <br />
+        <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Report Bug</a> · <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Request Feature</a> · <a href="https://github.com/HenestrosaConH/sololearn/discussions">Ask Question</a>
+    </p>
 </div>
-
-# SoloLearn
-
-Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
 
 ## Courses
 
