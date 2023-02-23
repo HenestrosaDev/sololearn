@@ -1057,6 +1057,12 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
+	<summary>React + Redux</summary>
+
+There are no code projects nor code practices available for this course.
+</details>
+
+<details>
 	<summary>Responsive web design</summary>
 
 There are no code projects nor code practices available for this course.
