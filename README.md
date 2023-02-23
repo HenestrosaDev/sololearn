@@ -8,6 +8,11 @@ Compilation of all 29 SoloLearn courses with their respective projects and pract
 
 ## Courses
 
+<details>
+	<summary>C</summary>
+
+There are no code projects nor code practices available for this course.
+</details>
 
 <details>
 	<summary>C#</summary>
