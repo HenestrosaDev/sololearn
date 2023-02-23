@@ -1,6 +1,6 @@
 <div align="center">
     <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-40px">
-    <h2 align="center">SoloLearn</h2>
+    <h1 align="center">SoloLearn</h1>
     <p align="center">
         Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
         <br />
