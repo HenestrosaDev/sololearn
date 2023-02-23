@@ -1,4 +1,4 @@
-![Hero image](./docs/hero.jpg)
+<img src="docs/icon.png" alt="Logo" width="128" height="128">
 
 # SoloLearn
 
