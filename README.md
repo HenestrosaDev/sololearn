@@ -1,10 +1,11 @@
-# Sololearn
+![Hero image](./docs/hero.jpg)
 
-Compilation of code coaches and language courses projects from Sololearn.
+# SoloLearn
+
+Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
 
 ## Courses
 
-All code projects for each module of the courses that I have taken so far.
 
 <details>
 	<summary>C#</summary>
@@ -1085,7 +1086,7 @@ There are no code projects nor code practices available for this course.
 	</details>
 2. Filtering, functions, subqueries
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code repo</summary>
 
 	- [Annual bonuses](https://github.com/HenestrosaConH/sololearn/tree/main/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Annual%20bonuses)  
 	- [Average grades](https://github.com/HenestrosaConH/sololearn/tree/main/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Average%20grades)  
@@ -1102,7 +1103,7 @@ There are no code projects nor code practices available for this course.
 	</details>
 3. JOIN, table, operations
 	<details>
-		<summary>Code coach</summary>
+		<summary>Code repo</summary>
 
 	- [Chess tournament](https://github.com/HenestrosaConH/sololearn/tree/main/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Chess%20tournament)  
 	- [Match the requirements](https://github.com/HenestrosaConH/sololearn/tree/main/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Match%20the%20requirements)  
@@ -1177,7 +1178,7 @@ There are no code projects nor code practices available for this course.
 	</details>
 </details>
 
-## Code coach
+## Code coaches
 
 <details>
 	<summary>Easy</summary>
