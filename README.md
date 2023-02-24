@@ -5,6 +5,9 @@
         Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
         <br />
         <br />
+		<a href="https://www.sololearn.com/profile/16379527">This</a> is my SoloLearn profile.
+		<br />
+		<br />
         <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Report Bug</a> · <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Request Feature</a> · <a href="https://github.com/HenestrosaConH/sololearn/discussions">Ask Question</a>
     </p>
 </div>
