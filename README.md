@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-40px">
+    <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-10px">
     <h1 align="center">SoloLearn</h1>
     <p align="center">
         Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
@@ -18,167 +18,167 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
+	<summary>C++</summary>
+
+1. Basic concepts
+	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/1-basic-concepts/code-project)
+2. Conditionals and loops
+	- [Countdown](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/2-conditionals-and-loops/code-project)
+3. Data types, arrays and pointers
+	- [Ticket office](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/3-data-types-arrays-and-pointers/code-project)
+4. Functions
+	- [Palindrome numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/4-functions/code-project)
+5. Classes and objects
+	- [Queue management part 1](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/5-classes-and-objects/code-project)
+6. More on classes
+	- [Queue management part 2](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/6-more-on-classes/code-project)
+7. Inheritance and polymorphism
+	- [Queue management part 3](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/7-inheritance-and-polymorphism/code-project)
+8. Templates, exceptions and files
+	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/8-templates-exceptions-and-files/code-project)
+</details>
+
+<details>
 	<summary>C#</summary>
 
 1. Basic concepts
 	<details>
 		<summary>Code practice</summary>
 
-	- [C# is the best](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20practice/C%23%20is%20the%20best)	 
-	- [How much do you earn](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20practice/How%20much%20do%20you%20earn)	
-	- [Packing madness](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20practice/Packing%20madness)	
-	- [Welcome message](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20practice/Welcome%20message)	
-	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20practice/Your%20first%20program)	
+	- [C# is the best](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-practice/cs-is-the-best)	 
+	- [How much do you earn](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-practice/how-much-do-you-earn)	
+	- [Packing madness](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-practice/packing-madness)	
+	- [Welcome message](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-practice/welcome-message)	
+	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-practice/your-first-program)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Area of a circle](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/1.%20Basic%20concepts/Code%20project)
+	- [Area of a circle](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts/code-project)
 	</details>
 2. Conditionals and loops
 	<details>
 		<summary>Code practice</summary>
 
-	- [Difficulty levels](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Difficulty%20levels)	 
-	- [Disney here we come](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Disney%20here%20we%20come)	
-	- [Earning a scholarship](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Earning%20a%20scholarship)	
-	- [Flight Kindles](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Flight%20Kindles)	
-	- [Going once, going twice, sold](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Going%20once%2C%20going%20twice%2C%20sold)	
-	- [Up we go](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20practice/Up%20we%20go)	
+	- [Difficulty levels](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/difficulty-levels)	 
+	- [Disney here we come](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/disney-here-we-come)	
+	- [Earning a scholarship](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/earning-a-scholarship)	
+	- [Flight Kindles](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/flight-kindles)	
+	- [Going once, going twice, sold](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/going-once-going-twice-sold)	
+	- [Up we go](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-practice/up-we-go)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Multiple of 3](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/2.%20Conditionals%20and%20loops/Code%20project)
+	- [Multiple of 3](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/2-conditionals-and-loops/code-project)
 	</details>
 3. Methods
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fun with methods](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Fun%20with%20methods)	 
-	- [Geometry](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Geometry)	
-	- [Get that discount](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Get%20that%20discount)	
-	- [Getting a raise](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Getting%20a%20raise)	
-	- [Overloading](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Overloading)	
-	- [Recursive summing](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Recursive%20summing)	
-	- [Set it and forget it](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20practice/Set%20it%20and%20forget%20it)	
+	- [Fun with methods](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/fun-with-methods)	 
+	- [Geometry](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/geometry)	
+	- [Get that discount](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/get-that-discount)	
+	- [Getting a raise](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/getting-a-raise)	
+	- [Overloading](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/overloading)	
+	- [Recursive summing](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/recursive-summing)	
+	- [Set it and forget it](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-practice/set-it-and-forget-it)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Level points](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/3.%20Methods/Code%20project)
+	- [Level points](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/3-methods/code-project)
 	</details>
 4. Classes and objects
 	<details>
 		<summary>Code practice</summary>
 
-	- [Calculating wins](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/4.%20Classes%20and%20objects/Code%20practice/Calculating%20wins)	 
-	- [Card numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/4.%20Classes%20and%20objects/Code%20practice/Card%20numbers)	
-	- [Creating a project](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/4.%20Classes%20and%20objects/Code%20practice/Creating%20a%20project)	
-	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/4.%20Classes%20and%20objects/Code%20practice/Welcome)	
+	- [Calculating wins](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/4-classes-and-objects/code-practice/calculating-wins)	 
+	- [Card numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/4-classes-and-objects/code-practice/card-numbers)	
+	- [Creating a project](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/4-classes-and-objects/code-practice/creating-a-project)	
+	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/4-classes-and-objects/code-practice/welcome)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Social network](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/4.%20Classes%20and%20objects/Code%20project)
+	- [Social network](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/4-classes-and-objects/code-project)
 	</details>
 5. Arrays and strings
 	<details>
 		<summary>Code practice</summary>
 
-	- [Array to table](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Array%20to%20table)	 
-	- [Maximum and minimum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Maximum%20and%20minimum)	
-	- [Only the evens](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Only%20the%20evens)	
-	- [Passwords rules](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Passwords%20rules)	
-	- [Qualifying for the Olympics](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Qualifying%20for%20the%20Olympics)	
-	- [Solve the puzzle](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20practice/Solve%20the%20puzzle)	
+	- [Array to table](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/array-to-table)	 
+	- [Maximum and minimum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/maximum-and-minimum)	
+	- [Only the evens](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/only-the-evens)	
+	- [Passwords rules](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/passwords-rules)	
+	- [Qualifying for the Olympics](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/qualifying-for-the-olympics)	
+	- [Solve the puzzle](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-practice/solve-the-puzzle)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Words](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/5.%20Arrays%20and%20strings/Code%20project)
+	- [Words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/5-arrays-and-strings/code-project)
 	</details>
 6. More on classes
 	<details>
 		<summary>Code practice</summary>
 
-	- [All about this](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/All%20about%20this)	 
-	- [Array sorting](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/Array%20sorting)	
-	- [Grow your business](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/Grow%20your%20business)	
-	- [Music selector](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/Music%20selector)	
-	- [Teamwork makes the dream](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/Teamwork%20makes%20the%20dream)	
-	- [Who won](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20practice/Who%20won)	
+	- [All about this](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/all-about-this)	 
+	- [Array sorting](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/array-sorting)	
+	- [Grow your business](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/grow-your-business)	
+	- [Music selector](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/music-selector)	
+	- [Teamwork makes the dream](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/teamwork-makesthe-dream)	
+	- [Who won](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/who-won)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Dance](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/6.%20More%20on%20classes/Code%20project)
+	- [Dance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-project)
 	</details>
 7. Inheritance and polymorphism
 	<details>
 		<summary>Code practice</summary>
 
-	- [Attack](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Attack)	 
-	- [Make and model](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Make%20and%20model)	
-	- [Online car shopping](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Online%20car%20shopping)	
-	- [Perimeter calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Perimeter%20calculator)	
-	- [Whats my account balance](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Whats%20my%20account%20balance)	
-	- [Where are the planes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20practice/Where%20are%20the%20planes)	
+	- [Attack](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/attack)	 
+	- [Make and model](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/make-andmodel)	
+	- [Online car shopping](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/online-car-shopping)	
+	- [Perimeter calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/perimeter-calculator)	
+	- [Whats my account balance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/whats-my-account-balance)	
+	- [Where are the planes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/where-are-the-planes)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Drawing application](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/7.%20Inheritance%20and%20polymorphism/Code%20project)
+	- [Drawing application](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-project)
 	</details>
 8. Structs, enums, exceptions and files
 	<details>
 		<summary>Code practice</summary>
 
-	- [Accelerate](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/8.%20Structs%2C%20enums%2C%20exceptions%20and%20files/Code%20practice/Accelerate)	 
-	- [Fun with dimensions](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/8.%20Structs%2C%20enums%2C%20exceptions%20and%20files/Code%20practice/Fun%20with%20dimensions)	
-	- [Going on vacation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/8.%20Structs%2C%20enums%2C%20exceptions%20and%20files/Code%20practice/Going%20on%20vacation)	
+	- [Accelerate](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/8-structs-enums-exceptions-and-files/code-practice/accelerate)	 
+	- [Fun with dimensions](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/8-structs-enums-exceptions-and-files/code-practice/fun-with-dimensions)	
+	- [Going on vacation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/8-structs-enums-exceptions-and-files/code-practice/going-on-vacation)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Robot-barman](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/8.%20Structs%2C%20enums%2C%20exceptions%20and%20files/Code%20project)
+	- [Robot-barman](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/8-structs-enums-exceptions-and-files/code-project)
 	</details>
 9. Generics
 	<details>
 		<summary>Code practice</summary>
 
-	- [Generic all around](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20practice/Generic%20all%20around)	 
-	- [Hiring engineers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20practice/Hiring%20engineers)	
-	- [Print to printer](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20practice/Print%20to%20printer)	
-	- [Queue it up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20practice/Queue%20it%20up)	
-	- [Top of the leaderboard](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20practice/Top%20of%20the%20leaderboard)	
+	- [Generic all around](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-practice/generic-all-around)	 
+	- [Hiring engineers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-practice/hiring-engineers)	
+	- [Print to printer](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-practice/print-to-printer)	
+	- [Queue it up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-practice/queue-it-up)	
+	- [Top of the leaderboard](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-practice/top-of-the-leaderboard)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Coffee time](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%23/9.%20Generics/Code%20project)
+	- [Coffee time](https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/9-generics/code-project)
 	</details>
-</details>
-
-<details>
-	<summary>C++</summary>
-
-1. Basic concepts
-	- [Transportation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/1.%20Basic%20concepts/Code%20project/Transportation)
-2. Conditionals and loops
-	- [Countdown](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/2.%20Conditionals%20and%20loops/Code%20project/Countdown)
-3. Data types, arrays and pointers
-	- [Ticket office](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/3.%20Data%20types%2C%20arrays%20and%20pointers/Code%20project/Ticket%20office)
-4. Functions
-	- [Palindrome numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/4.%20Functions/Code%20project/Palindrome%20numbers)
-5. Classes and objects
-	- [Queue management part 1](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/5.%20Classes%20and%20objects/Code%20coach/Queue%20management%20part%201)
-6. More on classes
-	- [Queue management part 2](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/6.%20More%20on%20classes/Code%20project/Queue%20management%20part%202)
-7. Inheritance and polymorphism
-	- [Queue management part 3](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/7.%20Inheritance%20and%20polymorphism/Code%20project/Queue%20management%20part%203)
-8. Templates, exceptions and files
-	- [Queue management part 4](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/C%2B%2B/8.%20Templates%2C%20exceptions%20and%20files/Code%20project/Queue%20management%20part%204)
 </details>
 
 <details>
@@ -188,37 +188,37 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code project</summary>
 
-	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Data%20manipulation/Code%20project)
+	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/1-data-manipulation/code-project)
 	</details>
 2. Data analysis
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/2.%20Data%20analysis/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
 	</details>
 3. Data visualization
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/3.%20Data%20visualization/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
 	</details>
 4. Linear regression
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/4.%20Linear%20regression/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/4-linear-regression/code-project)
 	</details>
 5. Classification
 	<details>
 		<summary>Code project</summary>
 
-	- [Binary disorder](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/5.%20Classification/Code%20project)
+	- [Binary disorder](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/5-classification/code-project)
 	</details>
 6. Clustering wines
 	<details>
 		<summary>Code project</summary>
 
-	- [Pandas pandas pandas](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/6.%20Clustering%20wines/Code%20project)
+	- [Pandas pandas pandas](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/6-clustering-wines/code-project)
 	</details>
 
 </details>
@@ -230,21 +230,21 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code repo</summary>
 
-	- [Creating your first HTML page (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/1.%20Overview/03.2%20Code%20repo)	 
+	- [Creating your first HTML page (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/1-overview/03-2-code-repo)	 
 	</details>
 2. HTML Basics
 	<details>
 		<summary>Code repo</summary>
 
-	- [Headings, lines, comments (06.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/06.2%20Code%20repo)	 
-	- [Text formatting (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/08.2%20Code%20repo)	 
-	- [Blog project: about me (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/09.2%20Code%20repo)	 
-	- [Images (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/12.2%20Code%20repo)	 
-	- [Lists (13.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/13.2%20Code%20repo)	 
-	- [Tables (15.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/15.2%20Code%20repo)	 
-	- [Links (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/16.2%20Code%20repo)	 
-	- [Forms (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/19.2%20Code%20repo)	 
-	- [Blog project: contact form (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/20.2%20Code%20repo)	 
+	- [Headings, lines, comments (06.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/06-2-code-repo)	 
+	- [Text formatting (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/08-2-code-repo)	 
+	- [Blog project: about me (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/09-2-code-repo)	 
+	- [Images (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/12-2-code-repo)	 
+	- [Lists (13.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/13-2-code-repo)	 
+	- [Tables (15.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/15-2-code-repo)	 
+	- [Links (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/16-2-code-repo)	 
+	- [Forms (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/19-2-code-repo)	 
+	- [Blog project: contact form (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/20-2-code-repo)	 
 	</details>
 3. Challenges  
 	There are no code repos for this module
@@ -259,80 +259,80 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Car data](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/Car%20data)	 
-	- [Contact search](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/Contact%20search)	 
-	- [Ignore the vowels](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/Ignore%20the%20vowels)	 
-	- [Nation economic freedom](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/Nation%20economic%20freedom)	 
-	- [Square up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/Square%20up)	 
-	- [You are qualified](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20practice/You%20are%20qualified)	 
+	- [Car data](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/car-data)	 
+	- [Contact search](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/contact-search)	 
+	- [Ignore the vowels](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/ignore-the-vowels)	 
+	- [Nation economic freedom](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/nation-economic-freedom)	 
+	- [Square up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/square-up)	 
+	- [You are qualified](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-practice/you-are-qualified)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Letter count](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/1.%20Collection%20types/Code%20project)
+	- [Letter count](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types/code-project)
 	</details>
 2. Functional programming
 	<details>
 		<summary>Code practice</summary>
 
-	- [Collecting reports](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/Collecting%20reports)	 
-	- [Decimal to binary](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/Decimal%20to%20binary)	 
-	- [Generating](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/Generating)	 
-	- [Getting a raise](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/Getting%20a%20raise)	 
-	- [How much](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/How%20much)	 
-	- [Making it work](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20practice/Making%20it%20work)	 
+	- [Collecting reports](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/collecting-reports)	 
+	- [Decimal to binary](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/decimal-to-binary)	 
+	- [Generating](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/generating)	 
+	- [Getting a raise](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/getting-a-raise)	 
+	- [How much](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/how-much)	 
+	- [Making it work](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-practice/making-it-work)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Spelling backwards](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/2.%20Functional%20programming/Code%20project)
+	- [Spelling backwards](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/2-functional-programming/code-project)
 	</details>
 3. Object-oriented programming
 	<details>
 		<summary>Code practice</summary>
 
-	- [Define the methods](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Define%20the%20methods)	 
-	- [Fine art](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Fine%20art)	 
-	- [Game over](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Game%20over)	 
-	- [Preservation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Preservation)	 
-	- [Shape factory](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Shape%20factory)	 
-	- [Staying alive](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20practice/Staying%20alive)	 
+	- [Define the methods](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/define-the-methods)	 
+	- [Fine art](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/fine-art)	 
+	- [Game over](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/game-over)	 
+	- [Preservation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/preservation)	 
+	- [Shape factory](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/shape-factory)	 
+	- [Staying alive](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-practice/staying-alive)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Shooting game](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/3.%20Object-oriented%20programming/Code%20project)
+	- [Shooting game](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/3-object-oriented-programming/code-project)
 	</details>
 4. Exceptions
 	<details>
 		<summary>Code practice</summary>
 
-	- [Cash out](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/4.%20Exceptions/Code%20practice/Cash%20out)	 
-	- [Chef's kiss](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/4.%20Exceptions/Code%20practice/Chef's%20kiss)	 
-	- [Say something](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/4.%20Exceptions/Code%20practice/Say%20something)	 
+	- [Cash out](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/4-exceptions/code-practice/cash-out)	 
+	- [Chef's kiss](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/4-exceptions/code-practice/chefs-kiss)	 
+	- [Say something](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/4-exceptions/code-practice/say-something)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Registration system](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/4.%20Exceptions/Code%20project)
+	- [Registration system](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/4-exceptions/code-project)
 	</details>
 5. Working with files
 	<details>
 		<summary>Code practice</summary>
 
-	- [Book club](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/5.%20Working%20with%20files/Code%20practice/Book%20club)	 
-	- [Filling up with numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/5.%20Working%20with%20files/Code%20practice/Filling%20up%20with%20numbers)	 
-	- [Reading through](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/5.%20Working%20with%20files/Code%20practice/Reading%20through)	 
+	- [Book club](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/5-working-with-files/code-practice/book-club)	 
+	- [Filling up with numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/5-working-with-files/code-practice/filling-up-with-numbers)	 
+	- [Reading through](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/5-working-with-files/code-practice/reading-through)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Title encoder](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Intermediate%20Python/5.%20Working%20with%20files/Code%20project)
+	- [Title encoder](https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/5-working-with-files/code-project)
 	</details>
 </details>
 
@@ -343,103 +343,103 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Once in the bar](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Once%20in%20the%20bar)	 
-	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/To%20comment%20or%20not%20to%20comment)	
-	- [Vehicle passport](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Vehicle%20passport)	
-	- [Who scored more](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Who%20scored%20more)	
+	- [Once in the bar](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/once-in-the-bar)	 
+	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/to-comment-or-not-to-comment)	
+	- [Vehicle passport](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/vehicle-passport)	
+	- [Who scored more](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/Who-scored-more)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20project)
+	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-project)
 	</details>
 2. Conditionals and loops
 	<details>
 		<summary>Code practice</summary>
 
-	- [Emotion detector](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Emotion%20detector)	 
-	- [In the car salon](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/In%20the%20car%20salon)	
-	- [Let's explore](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Let's%20explore)	
-	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Loyal%20customers)	
-	- [Math class](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Math%20class)	
-	- [Safety first](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Safety%20first)	
-	- [University admission](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/University%20admission)	
+	- [Emotion detector](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/emotion-detector)	 
+	- [In the car salon](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/in-the-car-salon)	
+	- [Let's explore](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/lets-explore)	
+	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/loyal-customers)	
+	- [Math class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/math-class)	
+	- [Safety first](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/safety-first)	
+	- [University admission](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/university-admission)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20project)
+	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-project)
 	</details>
 3. Arrays
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fix the calendar](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Fix%20the%20calendar)	 
-	- [Geometry code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Geometry%20code)	
-	- [Matrix](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Matrix)	
-	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Loyal%20customers)	
-	- [Summing multipliers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Summing%20multipliers)	
+	- [Fix the calendar](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/fix-the-calendar)	 
+	- [Geometry code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/geometry-code)	
+	- [Matrix](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/matrix)	
+	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/loyal-customers)	
+	- [Summing multipliers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/summing-multipliers)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20project)
+	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-project)
 	</details>
 4. Classes and objects
 	<details>
 		<summary>Code practice</summary>
 
-	- [Exponents](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Exponents)	 
-	- [Friendly robot](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Friendly%20robot)	
-	- [Going places](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Going%20places)	
-	- [Loading, loading, loading](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Loading%2C%20loading%2C%20loading)	
-	- [Movie tickets](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Movie%20tickets)	
-	- [So you think you can dance](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/So%20you%20think%20you%20can%20dance)	
-	- [Student information system](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Student%20information%20system)	
-	- [Tracking customer data](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Tracking%20customer%20data)	
+	- [Exponents](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/exponents)	 
+	- [Friendly robot](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/friendly-robot)	
+	- [Going places](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/going-places)	
+	- [Loading, loading, loading](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/loading-loading-loading)	
+	- [Movie tickets](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/movie-tickets)	
+	- [So you think you can dance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/so-you-think-you-can-dance)	
+	- [Student information system](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/student-information-system)	
+	- [Tracking customer data](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/tracking-customer-data)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20project)
+	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-project)
 	</details>
 5. More on classes
 	<details>
 		<summary>Code practice</summary>
 
-	- [Animal lovers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Animal%20lovers)	 
-	- [Board game attributes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Board%20game%20attributes)	
-	- [Car classes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Car%20classes)	
-	- [Computer speak](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Computer%20speak)	
-	- [Double trouble](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Double%20trouble)	
-	- [How many bullets](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/How%20many%20bullets)	
-	- [Special customer discount](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Special%20customer%20discount)	
-	- [Upgrade your subscription](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Upgrade%20your%20subscription)	
-	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Welcome)	
+	- [Animal lovers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/animal-lovers)	 
+	- [Board game attributes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/board-game-attributes)	
+	- [Car classes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/car-classes)	
+	- [Computer speak](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/computer-speak)	
+	- [Double trouble](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/double-trouble)	
+	- [How many bullets](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/how-many-bullets)	
+	- [Special customer discount](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/special-customer-discount)	
+	- [Upgrade your subscription](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/upgrade-your-subscription)	
+	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/welcome)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20project)
+	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-project)
 	</details>
 6. Exceptions, lists, threads and files
 	<details>
 		<summary>Code practice</summary>
 
-	- [Age dependent](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Age%20dependent)	 
-	- [Category handling](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Category%20handling)	
-	- [Getting things done](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Getting%20things%20done)	
-	- [Link of the list](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Link%20of%20the%20list)	
-	- [Minimum and maximum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Minimum%20and%20maximum)	
-	- [No Zeroes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/No%20Zeroes)	
-	- [Playing keep away with 3](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Playing%20keep%20away%20with%203)	
-	- [Practice makes perfect](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Practice%20makes%20perfect)	
-	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Welcome)	
+	- [Age dependent](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/age-dependent)	 
+	- [Category handling](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/category-handling)	
+	- [Getting things done](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/getting-things-done)	
+	- [Link of the list](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/link-of-the-list)	
+	- [Minimum and maximum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/minimum-and-maximum)	
+	- [No Zeroes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/no-Zeroes)	
+	- [Playing keep away with 3](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/playing-keep-away-with-3)	
+	- [Practice makes perfect](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/practice-makes-perfect)	
+	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/welcome)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20project)
+	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-project)
 	</details>
 </details>
 
@@ -450,80 +450,80 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Escape to learn](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/1.%20Overview/Code%20practice/Escape%20to%20learn)	 
-	- [Right expression](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/1.%20Overview/Code%20practice/Right%20expression)	
-	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/1.%20Overview/Code%20practice/Your%20first%20program)	
+	- [Escape to learn](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/1-overview/code-practice/escape-to-learn)	 
+	- [Right expression](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/1-overview/code-practice/right-expression)	
+	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/1-overview/code-practice/your-first-program)	
 	</details>
 2. Basic concepts
 	<details>
 		<summary>Code practice</summary>
 
-	- [Find the adults](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/2.%20Basic%20concepts/Code%20practice/Find%20the%20adults)	
-	- [Noon or midnight](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/2.%20Basic%20concepts/Code%20practice/Noon%20or%20midnight)  
-	- [Office computers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/2.%20Basic%20concepts/Code%20practice/Office%20computers)  
+	- [Find the adults](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/2-basic-concepts/code-practice/find-the-adults)	
+	- [Noon or midnight](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/2-basic-concepts/code-practice/noon-or-midnight)  
+	- [Office computers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/2-basic-concepts/code-practice/office-computers)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Trip planner](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/2.%20Basic%20concepts/Code%20project)
+	- [Trip planner](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/2-basic-concepts/code-project)
 	</details>
 3. Conditionals and loops
 	<details>
 		<summary>Code practice</summary>
 
-	- [Dark theme](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Dark%20theme)  
-	- [Exam results](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Exam%20results)  
-	- [Repeat and learn code! Code! Code!](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Repeat%20and%20learn%20code%21%20Code%21%20Code%21)  
-	- [Set a world record](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Set%20a%20world%20record)  
-	- [Skipping 13](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Skipping%2013)  
-	- [Time's up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Time%27s%20up)  
-	- [Vacation month](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20practice/Vacation%20month)  
+	- [Dark theme](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/dark-theme)  
+	- [Exam results](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/exam-results)  
+	- [Repeat and learn code! Code! Code!](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/repeat-and-learn-code-code-code)  
+	- [Set a world record](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/set-a-world-record)  
+	- [Skipping 13](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/skipping-13)  
+	- [Time's up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/times-up)  
+	- [Vacation month](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-practice/vacation-month)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [The snail in the well](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/3.%20Conditionals%20and%20loops/Code%20project)
+	- [The snail in the well](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/3-conditionals-and-loops/code-project)
 	</details>
 4. Functions
 	<details>
 		<summary>Code practice</summary>
 
-	- [Average of three](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/4.%20Functions/Code%20practice/Average%20of%20three)  
-	- [Important reminders](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/4.%20Functions/Code%20practice/Important%20reminders)  
-	- [Loading](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/4.%20Functions/Code%20practice/Loading)  
-	- [Who won the match](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/4.%20Functions/Code%20practice/Who%20won%20the%20match)  
+	- [Average of three](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/4-functions/code-practice/average-of-three)  
+	- [Important reminders](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/4-functions/code-practice/important-reminders)  
+	- [Loading](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/4-functions/code-practice/loading)  
+	- [Who won the match](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/4-functions/code-practice/who-won-the-match)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Currency converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/4.%20Functions/Code%20project)
+	- [Currency converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/4-functions/code-project)
 	</details>
 5. Objects
 	<details>
 		<summary>Code practice</summary>
 
-	- [Calculating the discount](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/5.%20Objects/Code%20practice/Calculating%20the%20discount)  
-	- [Cuboid volume](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/5.%20Objects/Code%20practice/Cuboid%20volume)  
-	- [Landed](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/5.%20Objects/Code%20practice/Landed)  
+	- [Calculating the discount](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/5-objects/code-practice/calculating-the-discount)  
+	- [Cuboid volume](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/5-objects/code-practice/cuboid-volume)  
+	- [Landed](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/5-objects/code-practice/landed)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Contact manager](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/5.%20Objects/Code%20project)
+	- [Contact manager](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/5-objects/code-project)
 	</details>
 6. Core objects
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fluffy pancakes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/6.%20Core%20objects/Code%20practice/Fluffy%20pancakes)  
-	- [Level up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/6.%20Core%20objects/Code%20practice/Level%20up)  
-	- [Monday to Sunday](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/6.%20Core%20objects/Code%20practice/Monday%20to%20Sunday)  
-	- [Which century](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/6.%20Core%20objects/Code%20practice/Which%20century)  
+	- [Fluffy pancakes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/6-core-objects/code-practice/fluffy-pancakes)  
+	- [Level up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/6-core-objects/code-practice/level-up)  
+	- [Monday to Sunday](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/6-core-objects/code-practice/monday-to-Sunday)  
+	- [Which century](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/6-core-objects/code-practice/which-century)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Store manager](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/6.%20Core%20objects/Code%20project)
+	- [Store manager](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/6-core-objects/code-project)
 	</details>
 7. DOM and events  
 	No code project/practice for this module
@@ -531,17 +531,17 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Average exam score](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/Average%20exam%20score)  
-	- [Employee map](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/Employee%20map)  
-	- [London is the capital of GB](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/London%20is%20the%20capital%20of%20GB)  
-	- [Score 70 plus](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/Score%2070%20plus)  
-	- [Summary calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/Summary%20calculator)  
-	- [Workout harder](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20practice/Workout%20harder)  
+	- [Average exam score](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/average-exam-score)  
+	- [Employee map](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/employee-map)  
+	- [London is the capital of GB](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/london-is-the-capital-of-gb)  
+	- [Score 70 plus](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/score-70-plus)  
+	- [Summary calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/summary-calculator)  
+	- [Workout harder](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-practice/workout-harder)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Words](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/JavaScript/8.%20ECMAScript%206/Code%20project)
+	- [Words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmacript-6/code-project)
 	</details>
 </details>
 
@@ -558,66 +558,66 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Feeling welcomed](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20practice/Feeling%20welcomed)	 
-	- [Let's get started](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20practice/Let%27s%20get%20started)	 
-	- [Make it run](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20practice/Make%20it%20run)	 
-	- [Surprise](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20practice/Surprise)	 
-	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20practice/To%20comment%20or%20not%20to%20comment)	
+	- [Feeling welcomed](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/feeling-welcomed)	 
+	- [Let's get started](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/lets-get-started)	 
+	- [Make it run](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/make-it-run)	 
+	- [Surprise](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/surprise)	 
+	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/to-comment-or-not-to-comment)	
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Basic%20concepts/Code%20project)
+	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-project)
 	</details>
 2. Control flow
 	<details>
 		<summary>Code practice</summary>
 
-	- [Data, please](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/Data%2C%20please)  
-	- [Let's convert](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/Let%27s%20convert)  
-	- [Multiple inputs](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/Multiple%20inputs)  
-	- [Sorting out](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/Sorting%20out)  
-	- [Unlocking doors](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/Unlocking%20doors)  
-	- [What's the number](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/What%27s%20the%20number)  
-	- [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20practice/What%27s%20the%20sum)  
+	- [Data, please](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/data-please)  
+	- [Let's convert](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/lets-convert)  
+	- [Multiple inputs](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/multiple-inputs)  
+	- [Sorting out](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/sorting-out)  
+	- [Unlocking doors](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/unlocking-doors)  
+	- [What's the number](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-number)  
+	- [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-sum)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Parking fee](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/2.%20Control%20flow/Code%20project)
+	- [Parking fee](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-project)
 	</details>
 3. Functions
 	<details>
 		<summary>Code practice</summary>
 
-	- [Calculating taxes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20practice/Calculating%20taxes)  
-	- [Call the function](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20practice/Call%20the%20function)  
-	- [Counting letters](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20practice/Counting%20letters)  
-	- [Initials](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20practice/Initials)  
-	- [Selected names](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20practice/Selected%20names)  
+	- [Calculating taxes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/calculating-taxes)  
+	- [Call the function](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/call-the-function)  
+	- [Counting letters](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/counting-letters)  
+	- [Initials](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/initials)  
+	- [Selected names](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/selected-names)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Shipping calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/3.%20Functions/Code%20project)
+	- [Shipping calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-project)
 	</details>
 4. Object-oriented programming
 	<details>
 		<summary>Code practice</summary>
 
-	- [Abstraction](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Abstraction)  
-	- [Button class](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20class)  
-	- [Button inheritance](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20inheritance)  
-	- [Button properties](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20properties)  
-	- [Button tap](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Button%20tap)  
-	- [Default buttons](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Default%20buttons)  
-	- [Private property](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20practice/Private%20property)  
+	- [Abstraction](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/abstraction)  
+	- [Button class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-class)  
+	- [Button inheritance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-inheritance)  
+	- [Button properties](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-properties)  
+	- [Button tap](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-tap)  
+	- [Default buttons](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/default-buttons)  
+	- [Private property](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/private-property)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Music player](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/4.%20Object-oriented%20programming/Code%20project)
+	- [Music player](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project)
 	</details>
 </details>
 
@@ -634,165 +634,165 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Brain freeze](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/01.%20Basic%20concepts/Code%20practice/Brain%20freeze)	 
-	- [How many miles](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/01.%20Basic%20concepts/Code%20practice/How%20many%20miles)	 
-	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/01.%20Basic%20concepts/Code%20practice/Your%20first%20program)	 
+	- [Brain freeze](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/brain-freeze)	 
+	- [How many miles](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/how-many-miles)	 
+	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/your-first-program)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/01.%20Basic%20concepts/Code%20project)
+	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-project)
 	</details>
 2. Strings and variables
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fun with exponents](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20practice/Fun%20with%20exponents)	 
-	- [I code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20practice/I%20code)	 
-	- [More lines, more better](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20practice/More%20lines%2C%20more%20better)	 
-	- [Multiple variables](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20practice/Multiple%20variables)	 
-	- [String operations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20practice/String%20operations)	 
+	- [Fun with exponents](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/fun-with-exponents)	 
+	- [I code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/i-code)	 
+	- [More lines, more better](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/more-lines-more-better)	 
+	- [Multiple variables](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/multiple-variables)	 
+	- [String operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/string-operations)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/02.%20Strings%20and%20variables/Code%20project)
+	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-project)
 	</details>
 3. Control structures
 	<details>
 		<summary>Code practice</summary>
 
-	- [At the boiling point](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/At%20the%20boiling%20point)	 
-	- [Bingo](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Bingo)	 
-	- [Club bouncer code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Club%20bouncer%20code)	 
-	- [Date picker](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Date%20picker)	 
-	- [Financial transactions](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Financial%20transactions)	 
-	- [Fruit vending machine](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Fruit%20vending%20machine)	 
-	- [Humidity level](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Humidity%20level)	 
-	- [Iteration](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Iteration)	 
-	- [Let's do some magic](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/Let's%20do%20some%20magic)	 
-	- [The middle element](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20practice/The%20middle%20element)	 
+	- [At the boiling point](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/at-the-boiling-point)	 
+	- [Bingo](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/bingo)	 
+	- [Club bouncer code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/club-bouncer-code)	 
+	- [Date picker](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/date-picker)	 
+	- [Financial transactions](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/financial-transactions)	 
+	- [Fruit vending machine](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/fruit-vending-machine)	 
+	- [Humidity level](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/humidity-level)	 
+	- [Iteration](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/iteration)	 
+	- [Let's do some magic](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/lets-do-some-magic)	 
+	- [The middle element](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/the-middle-element)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/03.%20Control%20structures/Code%20project)
+	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-project)
 	</details>
 4. Functions and modules
 	<details>
 		<summary>Code practice</summary>
 
-	- [Hashtag generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/04.%20Functions%20and%20modules/Code%20practice/Hashtag%20generator)	 
-	- [Matching passwords](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/04.%20Functions%20and%20modules/Code%20practice/Matching%20passwords)	 
-	- [No dice, no problem](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/04.%20Functions%20and%20modules/Code%20practice/No%20dice%2C%20no%20problem)	 
-	- [Welcome, SoloLearner](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/04.%20Functions%20and%20modules/Code%20practice/Welcome%2C%20SoloLearner)	 
+	- [Hashtag generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/hashtag-generator)	 
+	- [Matching passwords](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/matching-passwords)	 
+	- [No dice, no problem](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/no-dice-no-problem)	 
+	- [Welcome, SoloLearner](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/welcome-sololearner)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/04.%20Functions%20and%20modules/Code%20project)
+	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-project)
 	</details>
 5. Exceptions and files
 	<details>
 		<summary>Code practice</summary>
 
-	- [Bank card PIN system](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/05.%20Exceptions%20and%20files/Code%20practice/Bank%20card%20PIN%20system)	 
-	- [Getting in shape](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/05.%20Exceptions%20and%20files/Code%20practice/Getting%20in%20shape)	 
-	- [Making coffee](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/05.%20Exceptions%20and%20files/Code%20practice/Making%20coffee)	 
-	- [New lines](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/05.%20Exceptions%20and%20files/Code%20practice/New%20lines)	 
+	- [Bank card PIN system](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/bank-card-pin-system)	 
+	- [Getting in shape](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/getting-in-shape)	 
+	- [Making coffee](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/making-coffee)	 
+	- [New lines](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/new-lines)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/05.%20Exceptions%20and%20files/Code%20project)
+	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-project)
 	</details>
 6. More types
 	<details>
 		<summary>Code practice</summary>
 
-	- [Broken keyboard](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/Broken%20keyboard)	 
-	- [How many words](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/How%20many%20words)	 
-	- [Inventory management](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/Inventory%20management)	 
-	- [List of multiples](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/List%20of%20multiples)	 
-	- [Names and ages](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/Names%20and%20ages)	 
-	- [Tuples](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/Tuples)	 
-	- [Where's the book](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20practice/Where's%20the%20book)	 
+	- [Broken keyboard](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/broken-keyboard)	 
+	- [How many words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/how-many-words)	 
+	- [Inventory management](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/inventory-management)	 
+	- [List of multiples](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/list-of-multiples)	 
+	- [Names and ages](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/names-and-ages)	 
+	- [Tuples](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/tuples)	 
+	- [Where's the book](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/wheres-the-book)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/06.%20More%20types/Code%20project)
+	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-project)
 	</details>
 7. Functional programming
 	<details>
 		<summary>Code practice</summary>
 
-	- [Commonality](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Commonality)	 
-	- [Filtering](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Filtering)	 
-	- [Fun with math](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Fun%20with%20math)	 
-	- [Lambdas](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Lambdas)	 
-	- [Ordering](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Ordering)	 
-	- [Split generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Split%20generator)	 
-	- [Uppercasing](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20practice/Uppercasing)	 
+	- [Commonality](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/commonality)	 
+	- [Filtering](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/filtering)	 
+	- [Fun with math](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/fun-with-math)	 
+	- [Lambdas](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/lambdas)	 
+	- [Ordering](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/ordering)	 
+	- [Split generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/split-generator)	 
+	- [Uppercasing](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/uppercasing)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/07.%20Functional%20programming/Code%20project)
+	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-project)
 	</details>
 8. Object-oriented programming
 	<details>
 		<summary>Code practice</summary>
 
-	- [Bank accounts](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Bank%20accounts)	 
-	- [Fun with classes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Fun%20with%20classes)	 
-	- [Making a deposit](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Making%20a%20deposit)	 
-	- [Property values](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Property%20values)	 
-	- [Static methods](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Static%20methods)	 
-	- [Student class](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20practice/Student%20class)	 
+	- [Bank accounts](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/bank-accounts)	 
+	- [Fun with classes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/fun-with-classes)	 
+	- [Making a deposit](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/making-a-deposit)	 
+	- [Property values](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/property-values)	 
+	- [Static methods](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/static-methods)	 
+	- [Student class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/student-class)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/08.%20Object-oriented%20programming/Code%20project)
+	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-project)
 	</details>
 9. Regular expressions 
 	<details>
 		<summary>Code practice</summary>
 
-	- [Authentication](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20practice/Authentication)	 
-	- [Contacts database](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20practice/Contacts%20database)	 
-	- [Online shop search](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20practice/Online%20shop%20search)	 
-	- [Social media pro](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20practice/Social%20media%20pro)	 
-	- [Starts with ends with](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20practice/Starts%20with%20ends%20with)	 
+	- [Authentication](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/authentication)	 
+	- [Contacts database](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/contacts-database)	 
+	- [Online shop search](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/online-shop-search)	 
+	- [Social media pro](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/social-media-pro)	 
+	- [Starts with ends with](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/starts-with-ends-with)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/09.%20Regular%20expressions/Code%20project)
+	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-project)
 	</details>
 10. Pythonicness and packaging
 	<details>
 		<summary>Code practice</summary>
 
-	- [Give me my money](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/10.%20Pythonicness%20and%20packaging/Code%20practice/Give%20me%20my%20money)	 
-	- [Infinite sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/10.%20Pythonicness%20and%20packaging/Code%20practice/Infinite%20sum)	 
-	- [Too young to ride](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/10.%20Pythonicness%20and%20packaging/Code%20practice/Too%20young%20to%20ride)	 
+	- [Give me my money](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/give-me-my-money)	 
+	- [Infinite sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/infinite-sum)	 
+	- [Too young to ride](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/too-young-to-ride)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20Core/10.%20Pythonicness%20and%20packaging/Code%20project)
+	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-project)
 	</details>
 </details>
 
@@ -803,55 +803,55 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Editing guide](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/Editing%20guide)	 
-	- [How many vowels](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/How%20many%20vowels)	 
-	- [Line them up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/Line%20them%20up)	 
+	- [Editing guide](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/editing-guide)	 
+	- [How many vowels](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/how-many-vowels)	 
+	- [Line them up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/line-them-up)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Letter frequency](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20project)
+	- [Letter frequency](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-project)
 	</details>
 2. Lists
 	<details>
 		<summary>Code practice</summary>
 
-	- [Apple of my eye](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Apple%20of%20my%20eye)  
-	- [Fancy houses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Fancy%20houses)  
-	- [Insect control](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Insect%20control)  
+	- [Apple of my eye](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/apple-of-my-eye)  
+	- [Fancy houses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/fancy-houses)  
+	- [Insect control](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/insect-control)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Average word length](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20project)
+	- [Average word length](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-project)
 	</details>
 3. Dictionaries, tuples, sets
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fuzzy search](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Fuzzy%20search)  
-	- [Mapping software](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Mapping%20software)  
-	- [Words in common](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Words%20in%20common)  
+	- [Fuzzy search](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/fuzzy-search)  
+	- [Mapping software](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/mapping-software)  
+	- [Words in common](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/words-in-common)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Revenue growth analysis](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20project)
+	- [Revenue growth analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-project)
 	</details>
 4. User-defined data structures
 	<details>
 		<summary>Code practice</summary>
 
-	- [Come back](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Come%20back)  
-	- [Let's connect](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Let's%20connect)  
-	- [Name that tune](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Name%20that%20tune)  
-	- [On a call](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/On%20a%20call)  
+	- [Come back](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/come-back)  
+	- [Let's connect](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/lets-connect)  
+	- [Name that tune](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/name-that-tune)  
+	- [On a call](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/on-a-call)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Balanced parentheses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20project)
+	- [Balanced parentheses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-project)
 	</details>
 </details>
 
@@ -862,137 +862,137 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Time is precious](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/1.%20Basic%20concepts/Code%20practice/Time%20is%20precious)	 
-	- [Time is ticking away](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/1.%20Basic%20concepts/Code%20practice/Time%20is%20ticking%20away)	 
-	- [Watch out for bacteria](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/1.%20Basic%20concepts/Code%20practice/Watch%20out%20for%20bacteria)	 
+	- [Time is precious](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/1-basic-concepts/code-practice/time-is-precious)	 
+	- [Time is ticking away](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/1-basic-concepts/code-practice/time-is-ticking-away)	 
+	- [Watch out for bacteria](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/1-basic-concepts/code-practice/watch-out-for-bacteria)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Flight time](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/1.%20Basic%20concepts/Code%20project)
+	- [Flight time](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/1-basic-concepts/code-project)
 	</details>
 2. Strings
 	<details>
 		<summary>Code practice</summary>
 
-	- [Just say hello](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/2.%20Strings/Code%20practice/Just%20say%20hello)	 
-	- [Reach for the stars](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/2.%20Strings/Code%20practice/Reach%20for%20the%20stars)	 
-	- [Smart talk](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/2.%20Strings/Code%20practice/Smart%20talk)	 
+	- [Just say hello](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/2-strings/code-practice/just-say-hello)	 
+	- [Reach for the stars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/2-strings/code-practice/reach-for-the-stars)	 
+	- [Smart talk](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/2-strings/code-practice/smart-talk)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Leaderboard](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/2.%20Strings/Code%20project)
+	- [Leaderboard](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/2-strings/code-project)
 	</details>
 3. Variables
 	<details>
 		<summary>Code practice</summary>
 
-	- [Contact card](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/3.%20Variables/Code%20practice/Contact%20card)	 
-	- [Get notified](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/3.%20Variables/Code%20practice/Get%20notified)	 
-	- [Identity cards](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/3.%20Variables/Code%20practice/Identity%20cards)	 
+	- [Contact card](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/3-variables/code-practice/contact-card)	 
+	- [Get notified](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/3-variables/code-practice/get-notified)	 
+	- [Identity cards](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/3-variables/code-practice/identity-cards)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Tip calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/3.%20Variables/Code%20project)
+	- [Tip calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/3-variables/code-project)
 	</details>
 4. Control flow
 	<details>
 		<summary>Code practice</summary>
 
-	- [24k magic](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20practice/24k%20magic)	 
-	- [Leap year](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20practice/Leap%20year)	 
-	- [Pull the trigger](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20practice/Pull%20the%20trigger)	 
-	- [Pure gold](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20practice/Pure%20gold)	 
-	- [Ticket prices](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20practice/Ticket%20prices)	 
+	- [24k magic](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-practice/24k-magic)	 
+	- [Leap year](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-practice/leap-year)	 
+	- [Pull the trigger](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-practice/pull-the-trigger)	 
+	- [Pure gold](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-practice/pure-gold)	 
+	- [Ticket prices](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-practice/ticket-prices)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [BMI Calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/4.%20Control%20flow/Code%20project)
+	- [BMI Calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/4-control-flow/code-project)
 	</details>
 5. Lists
 	<details>
 		<summary>Code practice</summary>
 
-	- [Flip the string](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Flip%20the%20string)	 
-	- [Just say it](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Just%20say%20it)	 
-	- [Let's go shopping](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Let's%20go%20shopping)	 
-	- [Name, please](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Name%2C%20please)	 
-	- [Nearest bathroom](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Nearest%20bathroom)	 
-	- [Where's my seat](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20practice/Where's%20my%20seat)	 
+	- [Flip the string](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/flip-the-string)	 
+	- [Just say it](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/just-say-it)	 
+	- [Let's go shopping](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/lets-go-shopping)	 
+	- [Name, please](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/name-please)	 
+	- [Nearest bathroom](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/nearest-bathroom)	 
+	- [Where's my seat](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-practice/wheres-my-seat)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Sum of consecutive numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/5.%20Lists/Code%20project)
+	- [Sum of consecutive numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/5-lists/code-project)
 	</details>
 6. Functions
 	<details>
 		<summary>Code practice</summary>
 
-	- [Analyze to realize](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/6.%20Functions/Code%20practice/Analyze%20to%20realize)	 
-	- [From feet to inches](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/6.%20Functions/Code%20practice/From%20feet%20to%20inches)	 
-	- [How many](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/6.%20Functions/Code%20practice/How%20many)	 
-	- [Shouting text](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/6.%20Functions/Code%20practice/Shouting%20text)	 
+	- [Analyze to realize](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/6-functions/code-practice/analyze-to-realize)	 
+	- [From feet to inches](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/6-functions/code-practice/from-feet-to-inches)	 
+	- [How many](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/6-functions/code-practice/how-many)	 
+	- [Shouting text](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/6-functions/code-practice/shouting-text)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Search engine](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20beginners/6.%20Functions/Code%20project)
+	- [Search engine](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/6-functions/code-project)
 	</details>
 </details>
 
 <details>
-	<summary>Python for Data science</summary>
+	<summary>Python for Data Science</summary>
 
 1. Basic concepts
 	<details>
 		<summary>Code practice</summary>
 
-	- [Vaccinations dataset](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/1.%20Introduction/Code%20practice/Vaccinations%20dataset)	 
-	- [Vaccinations report](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/1.%20Introduction/Code%20practice/Vaccinations%20report)	
+	- [Vaccinations dataset](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/1-introduction/code-practice/vaccinations-dataset)	 
+	- [Vaccinations report](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/1-introduction/code-practice/vaccinations-report)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Basketball players](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/1.%20Introduction/Code%20project)
+	- [Basketball players](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/1-introduction/code-project)
 	</details>
 2. Math operations with NumPy
 	<details>
 		<summary>Code practice</summary>
 
-	- [Array of numbers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/2.%20Math%20operations%20with%20NumPy/Code%20practice/Array%20of%20numbers)  
-	- [Houses on the block](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/2.%20Math%20operations%20with%20NumPy/Code%20practice/Houses%20on%20the%20block)  
-	- [Infection cases](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/2.%20Math%20operations%20with%20NumPy/Code%20practice/Infection%20cases)  
-	- [Take your seat](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/2.%20Math%20operations%20with%20NumPy/Code%20practice/Take%20your%20seat)  
+	- [Array of numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/2-math-operations-with-numpy/code-practice/array-of-numbers)  
+	- [Houses on the block](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/2-math-operations-with-numpy/code-practice/houses-on-the-block)  
+	- [Infection cases](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/2-math-operations-with-numpy/code-practice/infection-cases)  
+	- [Take your seat](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/2-math-operations-with-numpy/code-practice/take-your-seat)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Houses prices](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/2.%20Math%20operations%20with%20NumPy/Code%20project)
+	- [Houses prices](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/2-math-operations-with-numpy/code-project)
 	</details>
 3. Data manipulation with Pandas
 	<details>
 		<summary>Code practice</summary>
 
-	- [Cases and deaths](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20practice/Cases%20and%20deaths)  
-	- [Contacts list](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20practice/Contacts%20list)  
-	- [Day of the week](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20practice/Day%20of%20the%20week)  
-	- [Names and ranks](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20practice/Names%20and%20ranks)  
-	- [Number of cases](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20practice/Number%20of%20cases)  
+	- [Cases and deaths](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-practice/cases-and-deaths)  
+	- [Contacts list](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-practice/contacts-list)  
+	- [Day of the week](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-practice/day-of-the-week)  
+	- [Names and ranks](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-practice/names-and-ranks)  
+	- [Number of cases](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-practice/number-of-cases)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [COVID data analysis](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20for%20Data%20Science/3.%20Data%20manipulation%20with%20Pandas/Code%20project)
+	- [COVID data analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/3-data-manipulation-with-pandas/code-project)
 	</details>
 </details>
 
@@ -1003,65 +1003,67 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Basic math](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Basic%20math)  
-	- [Fix the code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Fix%20the%20code)  
-	- [Liter to gallon converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Liter%20to%20gallon%20converter)  
-	- [Quote generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Quote%20generator)
-    - [Your first R program](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Your%20first%20R%20program)
+	- [Basic math](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/basic-math)  
+	- [Fix the code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/fix-the-code)  
+	- [Liter to gallon converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/liter-to-gallon-converter)  
+	- [Quote generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/quote-generator)
+    - [Your first r program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/your-first-r-program)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [The greatest number](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20project)
+	- [The greatest number](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-project)
 	</details>
-2. Programming in R
+2. Programming in r
 	<details>
 		<summary>Code practice</summary>
 
-	- [Break the loop](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Break%20the%20loop)  
-	- [Define the function](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Define%20the%20function)  
-	- [Even or odd](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Even%20or%20odd)  
-	- [Star of the snow](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Star%20of%20the%20snow)  
-	- [Sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Sum)  
-	- [US state names](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/US%20state%20names)  
+	- [Break the loop](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/break-the-loop)  
+	- [Define the function](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/define-the-function)  
+	- [Even or odd](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/even-or-odd)  
+	- [Star of the snow](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/star-of-the-snow)  
+	- [Sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/sum)  
+	- [US state names](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/us-state-names)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Sum in range](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%project)
+	- [Sum in range](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-project)
 	</details>
 3. Data structures  
 	<details>
 		<summary>Code practice</summary>
 
-	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Average%20price)
-    - [List operations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/List%20operations)
-    - [Matrix operations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Matrix%20operations)
-    - [Median](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Median)
-    - [Nickname generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Nickname%20generator)
-    - [Pop of color](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Pop%20of%20color)
-    - [Text analyzer](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Text%20analyzer)
-    - [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/What's%20the%20sum)
+	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/average-price)
+    - [List operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/list-operations)
+    - [Matrix operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/matrix-operations)
+    - [Median](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/median)
+    - [Nickname generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/nickname-generator)
+    - [Pop of color](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/pop-of-color)
+    - [Text analyzer](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/text-analyzer)
+    - [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/whats-the-sum)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Grade analysis](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20project)
+	- [Grade analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-project)
 	</details>
-4. Analyzing data with R  
+4. Analyzing data with r  
 	<details>
 		<summary>Code practice</summary>
 
-	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Cylinders%20and%20horsepower)
-	- [Horsepowers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Horsepowers)
-    - [SD from mean](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/SD%20from%20mean)
-    - [Standard deviation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Standard%20deviation)
+	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/cylinders-and-horsepower)
+	- [Horsepowers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/horsepowers)
+    - [SD from mean](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/sd-from-mean)
+    - [Standard deviation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/standard-deviation)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Titanic survivors](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20project)
+	- [Titanic survivors](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-project)
 	</details>
+5. Visualization  
+	No code project/practice for this module
 </details>
 
 <details>
@@ -1089,49 +1091,49 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code practice</summary>
 
-	- [Best before](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Best%20before)	 
-	- [Customer copies](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Customer%20copies)	
-	- [Leaderboarding](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Leaderboarding)	
+	- [Best before](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/best-before)	 
+	- [Customer copies](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/customer-copies)	
+	- [Leaderboarding](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/leaderboarding)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Cakes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20project)
+	- [Cakes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-project)
 	</details>
 2. Filtering, functions, subqueries
 	<details>
-		<summary>Code repo</summary>
+		<summary>Code coach</summary>
 
-	- [Annual bonuses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Annual%20bonuses)  
-	- [Average grades](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Average%20grades)  
-	- [Chocolate](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Chocolate)  
-	- [Get the ball rolling](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Get%20the%20ball%20rolling)  
-	- [Let's get fit](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Let's%20get%20fit)  
-	- [Salary range](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Salary%20range)  
-	- [Superheroes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Superheroes)  
+	- [Annual bonuses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/annual-bonuses)  
+	- [Average grades](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/average-grades)  
+	- [Chocolate](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/chocolate)  
+	- [Get the ball rolling](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/get-the-ball-rolling)  
+	- [Let's get fit](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/lets-get-fit)  
+	- [Salary range](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/salary-range)  
+	- [Superheroes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/superheroes)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Apartments](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20project)
+	- [Apartments](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-project)
 	</details>
 3. JOIN, table, operations
 	<details>
-		<summary>Code repo</summary>
+		<summary>Code coach</summary>
 
-	- [Chess tournament](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Chess%20tournament)  
-	- [Match the requirements](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Match%20the%20requirements)  
-	- [Mentor and apprentice](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Mentor%20and%20apprentice)  
-	- [More cars](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/More%20cars)  
-	- [Social media app views](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Social%20media%20app%20views)  
-	- [Sorting the inventory](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Sorting%20the%20inventory)  
-	- [The most beautiful locations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/The%20most%20beautiful%20locations)  
-	- [Video game scores](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Video%20game%20scores)  
+	- [Chess tournament](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/chess-tournament)  
+	- [Match the requirements](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/match-the-requirements)  
+	- [Mentor and apprentice](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/mentor-and-apprentice)  
+	- [More cars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/more-cars)  
+	- [Social media app views](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/social-media-app-views)  
+	- [Sorting the inventory](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/sorting-the-inventory)  
+	- [The most beautiful locations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/the-most-beautiful-locations)  
+	- [Video game scores](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/video-game-scores)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Zoo](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20project)
+	- [Zoo](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-project)
 	</details>
 </details>
 
@@ -1148,47 +1150,47 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code repo</summary>
 
-	- [Your first HTML (01.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/1.%20Getting%20started/01.2%20Code%20repo)	 
-	- [Text formatting (02.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/1.%20Getting%20started/02.2%20Code%20repo)	 
-	- [HTML page structure (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/1.%20Getting%20started/03.2%20Code%20repo)	 
-	- [HTML attributes (04.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/1.%20Getting%20started/04.2%20Code%20repo)	 
-	- [More on elements (05.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/1.%20Getting%20started/05.2%20Code%20repo)	 
+	- [Your first HTML (01.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/01-2-code-repo)	 
+	- [Text formatting (02.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/02-2-code-repo)	 
+	- [HTML page structure (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/03-2-code-repo)	 
+	- [HTML attributes (04.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/04-2-code-repo)	 
+	- [More on elements (05.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/05-2-code-repo)	 
 	</details>
 2. More HTML elements
 	<details>
 		<summary>Code repo</summary>
 
-	- [Lists (07.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/07.2%20Code%20repo)	 
-	- [Tables (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/08.2%20Code%20repo)	 
-	- [Page sections (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/09.2%20Code%20repo)	 
-	- [Forms (10.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/10.2%20Code%20repo)	 
-	- [More form controls (11.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/11.2%20Code%20repo)	 
-	- [Special characters (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/2.%20More%20HTML%20elements/12.2%20Code%20repo)	 
+	- [Lists (07.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/07-2-code-repo)	 
+	- [Tables (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/08-2-code-repo)	 
+	- [Page sections (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/09-2-code-repo)	 
+	- [Forms (10.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/10-2-code-repo)	 
+	- [More form controls (11.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/11-2-code-repo)	 
+	- [Special characters (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/12-2-code-repo)	 
 	</details>
 3. Styling with CSS  
 	<details>
 		<summary>Code repo</summary>
 
-	- [CSS selectors (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/16.2%20Code%20repo)	 
-	- [Styling text (17.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/17.2%20Code%20repo)	 
-	- [Font styles (18.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/18.2%20Code%20repo)	 
-	- [The box model (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/19.2%20Code%20repo)	 
-	- [Borders and backgrounds (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/20.2%20Code%20repo)	 
-	- [Styling lists and links (21.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/21.2%20Code%20repo)	 
-	- [Styling tables (22.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/22.2%20Code%20repo)	 
-	- [Styling forms (23.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/23.2%20Code%20repo)	 
-	- [CSS layout (24.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/24.2%20Code%20repo)	 
-	- [Positioning (25.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/3.%20Styling%20with%20CSS/25.2%20Code%20repo)	 
+	- [CSS selectors (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/16-2-code-repo)	 
+	- [Styling text (17.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/17-2-code-repo)	 
+	- [Font styles (18.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/18-2-code-repo)	 
+	- [The box model (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/19-2-code-repo)	 
+	- [Borders and backgrounds (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/20-2-code-repo)	 
+	- [Styling lists and links (21.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/21-2-code-repo)	 
+	- [Styling tables (22.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/22-2-code-repo)	 
+	- [Styling forms (23.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/23-2-code-repo)	 
+	- [CSS layout (24.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/24-2-code-repo)	 
+	- [Positioning (25.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/25-2-code-repo)	 
 	</details>
 4. JavaScript  
 	<details>
 		<summary>Code repo</summary>
 
-	- [Basic math (29.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/4.%20JavaScript/29.2%20Code%20repo)	 
-	- [Decision making (30.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/4.%20JavaScript/30.2%20Code%20repo)	 
-	- [Loops (31.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/4.%20JavaScript/31.2%20Code%20repo)	 
-	- [Functions (33.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/4.%20JavaScript/33.2%20Code%20repo)	 
-	- [Event handling (34.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Web%20development%20fundamentals/4.%20JavaScript/34.2%20Code%20repo)	 
+	- [Basic math (29.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/29-2-code-repo)	 
+	- [Decision making (30.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/30-2-code-repo)	 
+	- [Loops (31.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/31-2-code-repo)	 
+	- [Functions (33.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/33-2-code-repo)	 
+	- [Event handling (34.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/34-2-code-repo)	 
 	</details>
 </details>
 
@@ -1197,39 +1199,39 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>Easy</summary>
 
-- [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Argentina)
-- [Cheer creator](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Cheer%20creator)
-- [Extra-terrestrials](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Extra-terrestrials)
-- [Fruit bowl](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Fruit%20bowl)
-- [Gotham city](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Gotham%20city)
-- [Halloween candy](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Halloween%20candy)
-- [Hovercraft](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Hovercraft)
-- [Jungle camping](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Jungle%20camping)
-- [Paint costs](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Paint%20costs)
-- [Popsicles](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Popsicles)
-- [Skee-ball](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Easy/Skee-ball)
+- [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/argentina)
+- [Cheer creator](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/cheer-creator)
+- [Extra-terrestrials](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/extra-terrestrials)
+- [Fruit bowl](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/fruit-bowl)
+- [Gotham city](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/gotham-city)
+- [Halloween candy](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/halloween-candy)
+- [Hovercraft](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/hovercraft)
+- [Jungle camping](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/jungle-camping)
+- [Paint costs](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/paint-costs)
+- [Popsicles](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/popsicles)
+- [Skee-ball](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/skee-ball)
 </details>
 
 <details>
 	<summary>Medium</summary>
 
-- [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Average%20world%20length)
-- [Convert US date to EU date](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Convert%20US%20date%20to%20EU%20date)
-- [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Deja%20vu)
-- [Military time](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Military%20time)
-- [No numerals](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/No%20numerals)
-- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Pig%20Latin)
-- [Secret message](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Secret%20message)
-- [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/Symbols)
-- [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/That's%20odd)
-- [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/The%20spy%20life)
-- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Medium/YouTube%20link%20finder)
+- [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/average-world-length)
+- [Convert US date to EU date](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/convert-us-date-to-eu-date)
+- [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/deja-vu)
+- [Military time](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/military-time)
+- [No numerals](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/no-numerals)
+- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-Latin)
+- [Secret message](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/secret-message)
+- [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols)
+- [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd)
+- [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life)
+- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youTube-link-finder)
 </details>
 
 <details>
 	<summary>Hard</summary>
 
-- [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Hard/New%20driver's%20license)
-- [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Hard/Password%20validation)
-- [Security](https://github.com/HenestrosaConH/sololearn/tree/main/Code%20coaches/Hard/Security)
+- [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/new-drivers-license)
+- [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/password-validation)
+- [Security](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/security)
 </details>

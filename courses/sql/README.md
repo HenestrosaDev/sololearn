@@ -4,47 +4,47 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Best before](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Best%20before)	 
-	- [Customer copies](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Customer%20copies)	
-	- [Leaderboarding](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20practice/Leaderboarding)	
+	- [Best before](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/best-before)	 
+	- [Customer copies](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/customer-copies)	
+	- [Leaderboarding](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/leaderboarding)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Cakes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/1.%20Basic%20concepts/Code%20project)
+	- [Cakes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-project)
 	</details>
 2. Filtering, functions, subqueries
 	<details>
 		<summary>Code coach</summary>
 
-	- [Annual bonuses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Annual%20bonuses)  
-	- [Average grades](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Average%20grades)  
-	- [Chocolate](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Chocolate)  
-	- [Get the ball rolling](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Get%20the%20ball%20rolling)  
-	- [Let's get fit](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Let's%20get%20fit)  
-	- [Salary range](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Salary%20range)  
-	- [Superheroes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20practice/Superheroes)  
+	- [Annual bonuses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/annual-bonuses)  
+	- [Average grades](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/average-grades)  
+	- [Chocolate](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/chocolate)  
+	- [Get the ball rolling](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/get-the-ball-rolling)  
+	- [Let's get fit](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/lets-get-fit)  
+	- [Salary range](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/salary-range)  
+	- [Superheroes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/superheroes)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Apartments](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/2.%20Filtering%2C%20functions%2C%20subqueries/Code%20project)
+	- [Apartments](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-project)
 	</details>
 3. JOIN, table, operations
 	<details>
 		<summary>Code coach</summary>
 
-	- [Chess tournament](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Chess%20tournament)  
-	- [Match the requirements](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Match%20the%20requirements)  
-	- [Mentor and apprentice](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Mentor%20and%20apprentice)  
-	- [More cars](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/More%20cars)  
-	- [Social media app views](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Social%20media%20app%20views)  
-	- [Sorting the inventory](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Sorting%20the%20inventory)  
-	- [The most beautiful locations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/The%20most%20beautiful%20locations)  
-	- [Video game scores](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20practice/Video%20game%20scores)  
+	- [Chess tournament](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/chess-tournament)  
+	- [Match the requirements](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/match-the-requirements)  
+	- [Mentor and apprentice](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/mentor-and-apprentice)  
+	- [More cars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/more-cars)  
+	- [Social media app views](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/social-media-app-views)  
+	- [Sorting the inventory](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/sorting-the-inventory)  
+	- [The most beautiful locations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/the-most-beautiful-locations)  
+	- [Video game scores](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/video-game-scores)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Zoo](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/SQL/3.%20JOIN%2C%20table%2C%20operations/Code%20project)
+	- [Zoo](https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-project)
 	</details>

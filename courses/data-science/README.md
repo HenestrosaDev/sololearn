@@ -4,36 +4,36 @@
 	<details>
 		<summary>Code project</summary>
 
-	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Kotlin/1.%20Data%20manipulation/Code%20project)
+	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/1-data-manipulation/code-project)
 	</details>
 2. Data analysis
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/2.%20Data%20analysis/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
 	</details>
 3. Data visualization
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/3.%20Data%20visualization/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
 	</details>
 4. Linear regression
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/4.%20Linear%20regression/Code%20project)
+	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/4-linear-regression/code-project)
 	</details>
 5. Classification
 	<details>
 		<summary>Code project</summary>
 
-	- [Binary disorder](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/5.%20Classification/Code%20project)
+	- [Binary disorder](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/5-classification/code-project)
 	</details>
 6. Clustering wines
 	<details>
 		<summary>Code project</summary>
 
-	- [Pandas pandas pandas](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Data%20science/6.%20Clustering%20wines/Code%20project)
+	- [Pandas pandas pandas](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/6-clustering-wines/code-project)
 	</details>
 	

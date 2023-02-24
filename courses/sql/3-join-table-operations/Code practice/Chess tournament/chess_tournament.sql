@@ -1,4 +1,0 @@
-SELECT * FROM NorwayChess
-UNION
-SELECT * FROM TataSteel
-ORDER BY rating DESC;

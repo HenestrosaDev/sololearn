@@ -1,23 +1,24 @@
 # HTML
+
 1. Overview
 	<details>
 		<summary>Code repo</summary>
 
-	- [Creating your first HTML page (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/1.%20Overview/03.2%20Code%20repo)	 
+	- [Creating your first HTML page (03.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/1-overview/03-2-code-repo)	 
 	</details>
 2. HTML Basics
 	<details>
 		<summary>Code repo</summary>
 
-	- [Headings, lines, comments (06.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/06.2%20Code%20repo)	 
-	- [Text formatting (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/08.2%20Code%20repo)	 
-	- [Blog project: about me (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/09.2%20Code%20repo)	 
-	- [Images (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/12.2%20Code%20repo)	 
-	- [Lists (13.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/13.2%20Code%20repo)	 
-	- [Tables (15.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/15.2%20Code%20repo)	 
-	- [Links (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/16.2%20Code%20repo)	 
-	- [Forms (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/19.2%20Code%20repo)	 
-	- [Blog project: contact form (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/HTML/2.%20HTML%20Basics/20.2%20Code%20repo)	 
+	- [Headings, lines, comments (06.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/06-2-code-repo)	 
+	- [Text formatting (08.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/08-2-code-repo)	 
+	- [Blog project: about me (09.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/09-2-code-repo)	 
+	- [Images (12.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/12-2-code-repo)	 
+	- [Lists (13.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/13-2-code-repo)	 
+	- [Tables (15.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/15-2-code-repo)	 
+	- [Links (16.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/16-2-code-repo)	 
+	- [Forms (19.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/19-2-code-repo)	 
+	- [Blog project: contact form (20.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/2-html-basics/20-2-code-repo)	 
 	</details>
 3. Challenges  
 	There are no code repos for this module

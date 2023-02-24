@@ -4,54 +4,54 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Editing guide](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/Editing%20guide)	 
-	- [How many vowels](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/How%20many%20vowels)	 
-	- [Line them up](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20practice/Line%20them%20up)	 
+	- [Editing guide](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/editing-guide)	 
+	- [How many vowels](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/how-many-vowels)	 
+	- [Line them up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-practice/line-them-up)	 
 	</details>
 
 	<details>
 		<summary>Code project</summary>
 
-	- [Letter frequency](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/1.%20Working%20with%20strings/Code%20project)
+	- [Letter frequency](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings/code-project)
 	</details>
 2. Lists
 	<details>
 		<summary>Code practice</summary>
 
-	- [Apple of my eye](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Apple%20of%20my%20eye)  
-	- [Fancy houses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Fancy%20houses)  
-	- [Insect control](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20practice/Insect%20control)  
+	- [Apple of my eye](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/apple-of-my-eye)  
+	- [Fancy houses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/fancy-houses)  
+	- [Insect control](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-practice/insect-control)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Average word length](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/2.%20Lists/Code%20project)
+	- [Average word length](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/2-lists/code-project)
 	</details>
 3. Dictionaries, tuples, sets
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fuzzy search](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Fuzzy%20search)  
-	- [Mapping software](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Mapping%20software)  
-	- [Words in common](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20practice/Words%20in%20common)  
+	- [Fuzzy search](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/fuzzy-search)  
+	- [Mapping software](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/mapping-software)  
+	- [Words in common](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-practice/words-in-common)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Revenue growth analysis](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/3.%20Dictionaries%2C%20tuples%2C%20sets/Code%20project)
+	- [Revenue growth analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/3-dictionaries-tuples-sets/code-project)
 	</details>
 4. User-defined data structures
 	<details>
 		<summary>Code practice</summary>
 
-	- [Come back](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Come%20back)  
-	- [Let's connect](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Let's%20connect)  
-	- [Name that tune](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/Name%20that%20tune)  
-	- [On a call](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20practice/On%20a%20call)  
+	- [Come back](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/come-back)  
+	- [Let's connect](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/lets-connect)  
+	- [Name that tune](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/name-that-tune)  
+	- [On a call](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-practice/on-a-call)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Balanced parentheses](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Python%20data%20structures/4.%20User-defined%20data%20structures/Code%20project)
+	- [Balanced parentheses](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/4-user-defined-data-structures/code-project)
 	</details>
 	

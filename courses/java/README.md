@@ -1,103 +1,104 @@
 # Java
+
 1. Basic concepts
 	<details>
 		<summary>Code practice</summary>
 
-	- [Once in the bar](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Once%20in%20the%20bar)	 
-	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/To%20comment%20or%20not%20to%20comment)	
-	- [Vehicle passport](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Vehicle%20passport)	
-	- [Who scored more](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20practice/Who%20scored%20more)	
+	- [Once in the bar](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/once-in-the-bar)	 
+	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/to-comment-or-not-to-comment)	
+	- [Vehicle passport](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/vehicle-passport)	
+	- [Who scored more](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-practice/Who-scored-more)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/1.%20Basic%20concepts/Code%20project)
+	- [Time converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts/code-project)
 	</details>
 2. Conditionals and loops
 	<details>
 		<summary>Code practice</summary>
 
-	- [Emotion detector](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Emotion%20detector)	 
-	- [In the car salon](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/In%20the%20car%20salon)	
-	- [Let's explore](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Let's%20explore)	
-	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Loyal%20customers)	
-	- [Math class](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Math%20class)	
-	- [Safety first](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Safety%20first)	
-	- [University admission](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/University%20admission)	
+	- [Emotion detector](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/emotion-detector)	 
+	- [In the car salon](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/in-the-car-salon)	
+	- [Let's explore](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/lets-explore)	
+	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/loyal-customers)	
+	- [Math class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/math-class)	
+	- [Safety first](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/safety-first)	
+	- [University admission](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-practice/university-admission)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20project)
+	- [Loan calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/2-conditionals-and-loops/code-project)
 	</details>
 3. Arrays
 	<details>
 		<summary>Code practice</summary>
 
-	- [Fix the calendar](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Fix%20the%20calendar)	 
-	- [Geometry code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Geometry%20code)	
-	- [Matrix](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Matrix)	
-	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/2.%20Conditionals%20and%20loops/Code%20practice/Loyal%20customers)	
-	- [Summing multipliers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20practice/Summing%20multipliers)	
+	- [Fix the calendar](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/fix-the-calendar)	 
+	- [Geometry code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/geometry-code)	
+	- [Matrix](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/matrix)	
+	- [Loyal customers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/loyal-customers)	
+	- [Summing multipliers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-practice/summing-multipliers)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/3.%20Arrays/Code%20project)
+	- [Reverse a string](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/3-arrays/code-project)
 	</details>
 4. Classes and objects
 	<details>
 		<summary>Code practice</summary>
 
-	- [Exponents](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Exponents)	 
-	- [Friendly robot](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Friendly%20robot)	
-	- [Going places](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Going%20places)	
-	- [Loading, loading, loading](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Loading%2C%20loading%2C%20loading)	
-	- [Movie tickets](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Movie%20tickets)	
-	- [So you think you can dance](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/So%20you%20think%20you%20can%20dance)	
-	- [Student information system](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Student%20information%20system)	
-	- [Tracking customer data](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20practice/Tracking%20customer%20data)	
+	- [Exponents](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/exponents)	 
+	- [Friendly robot](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/friendly-robot)	
+	- [Going places](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/going-places)	
+	- [Loading, loading, loading](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/loading-loading-loading)	
+	- [Movie tickets](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/movie-tickets)	
+	- [So you think you can dance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/so-you-think-you-can-dance)	
+	- [Student information system](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/student-information-system)	
+	- [Tracking customer data](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-practice/tracking-customer-data)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/4.%20Classes%20and%20objects/Code%20project)
+	- [Binary converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/4-classes-and-objects/code-project)
 	</details>
 5. More on classes
 	<details>
 		<summary>Code practice</summary>
 
-	- [Animal lovers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Animal%20lovers)	 
-	- [Board game attributes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Board%20game%20attributes)	
-	- [Car classes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Car%20classes)	
-	- [Computer speak](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Computer%20speak)	
-	- [Double trouble](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Double%20trouble)	
-	- [How many bullets](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/How%20many%20bullets)	
-	- [Special customer discount](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Special%20customer%20discount)	
-	- [Upgrade your subscription](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Upgrade%20your%20subscription)	
-	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20practice/Welcome)	
+	- [Animal lovers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/animal-lovers)	 
+	- [Board game attributes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/board-game-attributes)	
+	- [Car classes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/car-classes)	
+	- [Computer speak](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/computer-speak)	
+	- [Double trouble](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/double-trouble)	
+	- [How many bullets](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/how-many-bullets)	
+	- [Special customer discount](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/special-customer-discount)	
+	- [Upgrade your subscription](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/upgrade-your-subscription)	
+	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-practice/welcome)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/5.%20More%20on%20classes/Code%20project)
+	- [Shapes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/5-more-on-classes/code-project)
 	</details>
 6. Exceptions, lists, threads and files
 	<details>
 		<summary>Code practice</summary>
 
-	- [Age dependent](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Age%20dependent)	 
-	- [Category handling](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Category%20handling)	
-	- [Getting things done](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Getting%20things%20done)	
-	- [Link of the list](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Link%20of%20the%20list)	
-	- [Minimum and maximum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Minimum%20and%20maximum)	
-	- [No Zeroes](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/No%20Zeroes)	
-	- [Playing keep away with 3](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Playing%20keep%20away%20with%203)	
-	- [Practice makes perfect](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Practice%20makes%20perfect)	
-	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20practice/Welcome)	
+	- [Age dependent](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/age-dependent)	 
+	- [Category handling](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/category-handling)	
+	- [Getting things done](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/getting-things-done)	
+	- [Link of the list](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/link-of-the-list)	
+	- [Minimum and maximum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/minimum-and-maximum)	
+	- [No Zeroes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/no-Zeroes)	
+	- [Playing keep away with 3](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/playing-keep-away-with-3)	
+	- [Practice makes perfect](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/practice-makes-perfect)	
+	- [Welcome](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-practice/welcome)	
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/Java/6.%20Exceptions%2C%20lists%2C%20threads%20and%20files/Code%20project)
+	- [Bowling game](https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/6-exceptions-lists-threads-and-files/code-project)
 	</details>

@@ -4,64 +4,64 @@
 	<details>
 		<summary>Code practice</summary>
 
-	- [Basic math](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Basic%20math)  
-	- [Fix the code](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Fix%20the%20code)  
-	- [Liter to gallon converter](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Liter%20to%20gallon%20converter)  
-	- [Quote generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Quote%20generator)
-    - [Your first R program](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20practice/Your%20first%20R%20program)
+	- [Basic math](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/basic-math)  
+	- [Fix the code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/fix-the-code)  
+	- [Liter to gallon converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/liter-to-gallon-converter)  
+	- [Quote generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/quote-generator)
+    - [Your first r program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-practice/your-first-r-program)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [The greatest number](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/1.%20Introduction/Code%20project)
+	- [The greatest number](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-project)
 	</details>
-2. Programming in R
+2. Programming in r
 	<details>
 		<summary>Code practice</summary>
 
-	- [Break the loop](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Break%20the%20loop)  
-	- [Define the function](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Define%20the%20function)  
-	- [Even or odd](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Even%20or%20odd)  
-	- [Star of the snow](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Star%20of%20the%20snow)  
-	- [Sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/Sum)  
-	- [US state names](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%20practice/US%20state%20names)  
+	- [Break the loop](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/break-the-loop)  
+	- [Define the function](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/define-the-function)  
+	- [Even or odd](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/even-or-odd)  
+	- [Star of the snow](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/star-of-the-snow)  
+	- [Sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/sum)  
+	- [US state names](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-practice/us-state-names)  
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Sum in range](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/2.%20Programming%20in%20R/Code%project)
+	- [Sum in range](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/2-programming-in-r/code-project)
 	</details>
 3. Data structures  
 	<details>
 		<summary>Code practice</summary>
 
-	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Average%20price)
-    - [List operations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/List%20operations)
-    - [Matrix operations](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Matrix%20operations)
-    - [Median](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Median)
-    - [Nickname generator](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Nickname%20generator)
-    - [Pop of color](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Pop%20of%20color)
-    - [Text analyzer](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/Text%20analyzer)
-    - [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20practice/What's%20the%20sum)
+	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/average-price)
+    - [List operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/list-operations)
+    - [Matrix operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/matrix-operations)
+    - [Median](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/median)
+    - [Nickname generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/nickname-generator)
+    - [Pop of color](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/pop-of-color)
+    - [Text analyzer](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/text-analyzer)
+    - [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-practice/whats-the-sum)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Grade analysis](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/3.%20Data%20structures/Code%20project)
+	- [Grade analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-project)
 	</details>
-4. Analyzing data with R  
+4. Analyzing data with r  
 	<details>
 		<summary>Code practice</summary>
 
-	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Cylinders%20and%20horsepower)
-	- [Horsepowers](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Horsepowers)
-    - [SD from mean](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/SD%20from%20mean)
-    - [Standard deviation](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20practice/Standard%20deviation)
+	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/cylinders-and-horsepower)
+	- [Horsepowers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/horsepowers)
+    - [SD from mean](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/sd-from-mean)
+    - [Standard deviation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-practice/standard-deviation)
 	</details>
 	<details>
 		<summary>Code project</summary>
 
-	- [Titanic survivors](https://github.com/HenestrosaConH/sololearn/tree/main/Courses/R/4.%20Analyzing%20data%20with%20R/Code%20project)
+	- [Titanic survivors](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/4-analyzing-data-with-r/code-project)
 	</details>
 5. Visualization  
 	No code project/practice for this module
