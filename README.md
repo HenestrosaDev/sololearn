@@ -1025,20 +1025,20 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code repo</summary>
 
-	- [Calculating IRR (10.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/2-basic-calculations/code-repo/10-2-repo)  
-	- [Plotting data (11.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/2-basic-calculations/code-repo/11-2-repo)  
+	- [Calculating IRR (10.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/2-basic-calculations/code-repo/10-2-code-repo)  
+	- [Plotting data (11.2 Code repo)](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/2-basic-calculations/code-repo/11-2-code-repo)  
 	</details>
 3. Accessing data  
 	<details>
 		<summary>Code repo</summary>
 
-	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/3-accessing-data/code-repo/19-2-repo)
+	- [Average price](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/3-accessing-data/code-repo/19-2-code-repo)
 	</details>
 4. Analyzing data  
 	<details>
 		<summary>Code repo</summary>
 
-	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/4-analyzing-data/code-repo/24-2-repo)
+	- [Cylinders and horsepower](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/4-analyzing-data/code-repo/24-2-code-repo)
 	</details>
 </details>
 
