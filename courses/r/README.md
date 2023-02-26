@@ -15,7 +15,7 @@
 
 	- [The greatest number](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction/code-project)
 	</details>
-2. Programming in r
+2. Programming in R  
 	<details>
 		<summary>Code practice</summary>
 
@@ -49,7 +49,7 @@
 
 	- [Grade analysis](https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/3-data-structures/code-project)
 	</details>
-4. Analyzing data with r  
+4. Analyzing data with R  
 	<details>
 		<summary>Code practice</summary>
 
