@@ -40,7 +40,7 @@
 	<details>
 		<summary>Code project</summary>
 
-	- [Age on Mars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functionss/code-project)
+	- [Age on Mars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-project)
 	</details>
 4. Classes and objects
 	<details>
@@ -61,7 +61,7 @@
 		<summary>Code practice</summary>
 
 	- [Add to cart](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/add-to-cart)	 
-	- [Continuous input](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/continuous-input)	
+	- [Continuous inputs](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/continuous-inputs)	
 	- [GPS](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/gps)	
 	- [How tall](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/how-tall)	
 	- [What's on the menu](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/whats-on-the-menu)	
