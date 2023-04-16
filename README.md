@@ -235,13 +235,13 @@ There are no code projects nor code practices available for this course.
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
+	- [Reshape](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
 	</details>
 3. Data visualization
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
+	- [Missing numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
 	</details>
 4. Linear regression
 	<details>
@@ -262,6 +262,93 @@ There are no code projects nor code practices available for this course.
 	- [Pandas pandas pandas](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/6-clustering-wines/code-project)
 	</details>
 
+</details>
+
+<details>
+	<summary>Go</summary>
+
+1. Getting started
+	<details>
+		<summary>Code practice</summary>
+
+	- [Fix the output](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output)	 
+	- [Let's get started](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/lets-get-started)	
+	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/to-comment-or-not-to-comment)	
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Debug and fix](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-project)
+	</details>
+2. Basic concepts
+	<details>
+		<summary>Code practice</summary>
+
+	- [All packed up](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/all-packed-up)	 
+	- [Contact data](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/contact-data)	
+	- [Feet to inches](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/feet-to-inches)	
+	- [How many rabbits](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/how-many-rabbits)	
+	- [Let's get loud](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/lets-get-loud)	
+	- [Measure yourself](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/measure-yourself)	
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Say the numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-project)
+	</details>
+3. Methods
+	<details>
+		<summary>Code practice</summary>
+
+	- [On repeat](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/on-repeat)	 
+	- [Text output](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/text-output)	
+	- [The return of the square](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/the-return-of-the-square)	
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Age on Mars](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-project)
+	</details>
+4. Classes and objects
+	<details>
+		<summary>Code practice</summary>
+
+	- [Reset the timer](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/reset-the-timer)	 
+	- [Scaling numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/scaling-numbers)	
+	- [Staff management](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/staff-management)	
+	- [Withdrawing cash](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/withdrawing-cash)	
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Ticking timer](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-project)
+	</details>
+5. Arrays and strings
+	<details>
+		<summary>Code practice</summary>
+
+	- [Add to cart](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/add-to-cart)	 
+	- [Continuous inputs](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/continuous-inputs)	
+	- [GPS](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/gps)	
+	- [How tall](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/how-tall)	
+	- [What's on the menu](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/whats-on-the-menu)	
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Match results](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-project)
+	</details>
+6. Concurrency
+	<details>
+		<summary>Code practice</summary>
+
+	- [Concurrent counter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-practice/concurrent-counter)	 
+	</details>
+	<details>
+		<summary>Code project</summary>
+
+	- [Downloader](https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-project)
+	</details>
 </details>
 
 <details>
@@ -659,6 +746,47 @@ There are no code projects nor code practices available for this course.
 		<summary>Code project</summary>
 
 	- [Music player](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project)
+	</details>
+</details>
+
+<details>
+	<summary>Machine learning</summary>
+
+1. The basics
+	<details>
+		<summary>Code project</summary>
+
+	- [What's in a column?](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/1-the-basics/code-project)
+	</details>
+2. Classification
+	<details>
+		<summary>Code project</summary>
+
+	- [Bob the builder](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/2-classification/code-project)
+	</details>
+3. Model evaluation
+	<details>
+		<summary>Code project</summary>
+
+	- [Welcome to the matrix](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/3-data-visualization/code-project)
+	</details>
+4. Decision tree model
+	<details>
+		<summary>Code project</summary>
+
+	- [Split to achieve gain](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/4-decision-tree-model/code-project)
+	</details>
+5. Random forest model
+	<details>
+		<summary>Code project</summary>
+
+	- [A forest of trees](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/5-random-forest-model/code-project)
+	</details>
+6. Neural networks
+	<details>
+		<summary>Code project</summary>
+
+	- [The sigmoid function](https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/6-neural-networks/code-project)
 	</details>
 </details>
 
