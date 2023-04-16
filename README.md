@@ -1655,87 +1655,42 @@ There are no code projects nor code practices available for this course.
 
 ## Code coaches
 
-<table>
-	<tr>
-		<th>DIFFICULTY</th>
-		<th>NAME</th>
-	</tr>
-	<tr>
-		<td rowspan="11">Easy</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/argentina">Argentina</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/cheer-creator">Cheer creator</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/extra-terrestrials">Extra-terrestrials</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/fruit-bowl">Fruit bowl</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/gotham-city">Gotham city</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/halloween-candy">Halloween candy</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/hovercraft">Hovercraft</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/jungle-camping">Jungle camping</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/paint-costs">Paint costs</a></td>
-	</tr>		
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/popsicles">Popsicles</a></td>
-	</tr>	
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/skee-ball">Skee Ball</a></td>
-	</tr>
-	<tr>
-		<td rowspan="11">Medium</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/average-world-length">Average world length</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/convert-us-date-to-eu-date">Convert US date to EU date</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/deja-vu">Deja vu</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/military-time">Military time</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/no-numerals">No numerals</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-Latin">Pig Latin</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/secret-message">Secret message</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols">Symbols</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd">That's odd</a></td>
-	</tr>		
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life">The spy life</a></td>
-	</tr>	
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youTube-link-finder">YouTube link finder</a></td>
-	</tr>
-	<tr>
-		<td rowspan="3">Hard</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/new-drivers-license">New driver's license</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/password-validation">Password validation</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/security">Security</a></td>
-	</tr>
-</table>
+<details>
+	<summary>Easy</summary>
+
+- [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/argentina)
+- [Cheer creator](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/cheer-creator)
+- [Extra-terrestrials](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/extra-terrestrials)
+- [Fruit bowl](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/fruit-bowl)
+- [Gotham city](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/gotham-city)
+- [Halloween candy](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/halloween-candy)
+- [Hovercraft](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/hovercraft)
+- [Jungle camping](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/jungle-camping)
+- [Paint costs](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/paint-costs)
+- [Popsicles](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/popsicles)
+- [Skee-ball](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/skee-ball)
+</details>
+
+<details>
+	<summary>Medium</summary>
+
+- [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/average-world-length)
+- [Convert US date to EU date](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/convert-us-date-to-eu-date)
+- [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/deja-vu)
+- [Military time](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/military-time)
+- [No numerals](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/no-numerals)
+- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-Latin)
+- [Secret message](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/secret-message)
+- [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols)
+- [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd)
+- [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life)
+- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youTube-link-finder)
+</details>
+
+<details>
+	<summary>Hard</summary>
+
+- [New driver's license](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/new-drivers-license)
+- [Password validation](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/password-validation)
+- [Security](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/security)
+</details>
