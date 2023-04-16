@@ -10,13 +10,13 @@
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
+	- [Reshape](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/2-data-analysis/code-project)
 	</details>
 3. Data visualization
 	<details>
 		<summary>Code project</summary>
 
-	- [Ordinary squares](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
+	- [Missing numbers](https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/3-data-visualization/code-project)
 	</details>
 4. Linear regression
 	<details>
