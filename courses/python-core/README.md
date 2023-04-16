@@ -1,166 +1,193 @@
 # Python Core
 
-1. Basic concepts
-	<details>
-		<summary>Code practice</summary>
+## Contents
 
-	- [Brain freeze](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/brain-freeze)	 
-	- [How many miles](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/how-many-miles)	 
-	- [Your first program](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/your-first-program)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Exponentiation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-project)
-	</details>
-2. Strings and variables
-	<details>
-		<summary>Code practice</summary>
-
-	- [Fun with exponents](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/fun-with-exponents)	 
-	- [I code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/i-code)	 
-	- [More lines, more better](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/more-lines-more-better)	 
-	- [Multiple variables](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/multiple-variables)	 
-	- [String operations](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/string-operations)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Simple calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-project)
-	</details>
-3. Control structures
-	<details>
-		<summary>Code practice</summary>
-
-	- [At the boiling point](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/at-the-boiling-point)	 
-	- [Bingo](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/bingo)	 
-	- [Club bouncer code](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/club-bouncer-code)	 
-	- [Date picker](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/date-picker)	 
-	- [Financial transactions](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/financial-transactions)	 
-	- [Fruit vending machine](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/fruit-vending-machine)	 
-	- [Humidity level](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/humidity-level)	 
-	- [Iteration](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/iteration)	 
-	- [Let's do some magic](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/lets-do-some-magic)	 
-	- [The middle element](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/the-middle-element)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [FizzBuzz](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-project)
-	</details>
-4. Functions and modules
-	<details>
-		<summary>Code practice</summary>
-
-	- [Hashtag generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/hashtag-generator)	 
-	- [Matching passwords](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/matching-passwords)	 
-	- [No dice, no problem](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/no-dice-no-problem)	 
-	- [Welcome, SoloLearner](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/welcome-sololearner)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Celsius to Fahrenheit converter](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-project)
-	</details>
-5. Exceptions and files
-	<details>
-		<summary>Code practice</summary>
-
-	- [Bank card PIN system](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/bank-card-pin-system)	 
-	- [Getting in shape](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/getting-in-shape)	 
-	- [Making coffee](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/making-coffee)	 
-	- [New lines](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/new-lines)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Book titles](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-project)
-	</details>
-6. More types
-	<details>
-		<summary>Code practice</summary>
-
-	- [Broken keyboard](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/broken-keyboard)	 
-	- [How many words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/how-many-words)	 
-	- [Inventory management](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/inventory-management)	 
-	- [List of multiples](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/list-of-multiples)	 
-	- [Names and ages](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/names-and-ages)	 
-	- [Tuples](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/tuples)	 
-	- [Where's the book](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/wheres-the-book)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Longest word](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-project)
-	</details>
-7. Functional programming
-	<details>
-		<summary>Code practice</summary>
-
-	- [Commonality](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/commonality)	 
-	- [Filtering](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/filtering)	 
-	- [Fun with math](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/fun-with-math)	 
-	- [Lambdas](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/lambdas)	 
-	- [Ordering](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/ordering)	 
-	- [Split generator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/split-generator)	 
-	- [Uppercasing](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/uppercasing)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Fibonacci](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-project)
-	</details>
-8. Object-oriented programming
-	<details>
-		<summary>Code practice</summary>
-
-	- [Bank accounts](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/bank-accounts)	 
-	- [Fun with classes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/fun-with-classes)	 
-	- [Making a deposit](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/making-a-deposit)	 
-	- [Property values](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/property-values)	 
-	- [Static methods](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/static-methods)	 
-	- [Student class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/student-class)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Juice maker](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-project)
-	</details>
-9. Regular expressions 
-	<details>
-		<summary>Code practice</summary>
-
-	- [Authentication](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/authentication)	 
-	- [Contacts database](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/contacts-database)	 
-	- [Online shop search](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/online-shop-search)	 
-	- [Social media pro](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/social-media-pro)	 
-	- [Starts with ends with](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/starts-with-ends-with)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Phone number validation](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-project)
-	</details>
-10. Pythonicness and packaging
-	<details>
-		<summary>Code practice</summary>
-
-	- [Give me my money](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/give-me-my-money)	 
-	- [Infinite sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/infinite-sum)	 
-	- [Too young to ride](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/too-young-to-ride)	 
-	</details>
-
-	<details>
-		<summary>Code project</summary>
-
-	- [Adding words](https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-project)
-	</details>
+<table>
+	<tr>
+		<th>MODULE</th>
+		<th>CODE PRACTICES</th>
+		<th>CODE PROJECTS</th>
+	</tr>
+	<tr>
+		<td rowspan="3">1. Basic concepts</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/brain-freeze">Brain freeze</a></td>
+		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-project">Exponentiation</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/how-many-miles">How many miles</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts/code-practice/your-first-program">Your first program</a></td>
+	</tr>
+	<tr>
+		<td rowspan="5">2. Strings and variables</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/fun-with-exponents">Fun with exponents</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-project">Simple calculator</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/i-code">I code</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/more-lines-more-better">More lines, more better</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/multiple-variables">Multiple variables</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/02-strings-and-variables/code-practice/string-operations">String operations</a></td>
+	</tr>
+	<tr>
+		<td rowspan="10">3. Control structures</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/at-the-boiling-point">At the boiling point</a></td>
+		<td rowspan="10"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-project">FizzBuzz</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/bingo">Bingo</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/club-bouncer-code">Club bouncer code</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/date-picker">Date picker</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/financial-transactions">Financial transactions</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/fruit-vending-machine">Fruit vending machine</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/humidity-level">Humidity level</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/iteration">Iteration</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/lets-do-some-magic">Let's do some magic</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/03-control-structures/code-practice/the-middle-element">The middle element</a></td>
+	</tr>
+	<tr>
+		<td rowspan="4">4. Functions and modules</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/hashtag-generator">Hashtag generator</a></td>
+		<td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-project">Celsius to Fahrenheit converter</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/matching-passwords">Matching passwords</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/no-dice-no-problem">No dice, no problem</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/04-functions-and-modules/code-practice/welcome-sololearner">Welcome, SoloLearner</a></td>
+	</tr>
+	<tr>
+		<td rowspan="4">5. Exceptions and files</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/bank-card-pin-system">Bank card PIN system</a></td>
+		<td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-project">Book titles</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/getting-in-shape">Getting in shape</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/making-coffee">Making coffee</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/05-exceptions-and-files/code-practice/new-lines">New lines</a></td>
+	</tr>
+	<tr>
+		<td rowspan="7">6. More types</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/broken-keyboard">Broken keyboard</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-project">Longest word</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/how-many-words">How many words</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/inventory-management">Inventory management</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/list-of-multiples">List of multiples</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/names-and-ages">Names and ages</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/tuples">Tuples</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/06-more-types/code-practice/wheres-the-book">Where's the book</a></td>
+	</tr>
+	<tr>
+		<td rowspan="7">7. Functional programming</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/commonality">Commonality</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-project">Fibonacci</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/filtering">Filtering</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/fun-with-math">Fun with math</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/lambdas">Lambdas</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/ordering">Ordering</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/split-generator">Split generator</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/07-functional-programming/code-practice/uppercasing">Uppercasing</a></td>
+	</tr>
+	<tr>
+		<td rowspan="6">8. Object-oriented programming</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/bank-accounts">Bank accounts</a></td>
+		<td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-project">Juice maker</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/fun-with-classes">Fun with classes</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/making-a-deposit">Making a deposit</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/property-values">Property values</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/static-methods">Static methods</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/08-object-oriented-programming/code-practice/student-class">Student class</a></td>
+	</tr>
+	<tr>
+		<td rowspan="5">9. Regular expressions</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/authentication">Authentication</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-project">Phone number validation</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/contacts-database">Contacts database</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/online-shop-search">Online shop search</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/social-media-pro">Social media pro</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/09-regular-expressions/code-practice/starts-with-ends-with">Starts with ends with</a></td>
+	</tr>
+	<tr>
+		<td rowspan="3">10. Pythonicness and packaging</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/give-me-my-money">Give me my money</a></td>
+		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-project">Adding words</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/infinite-sum">Infinite sum</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/10-pythonicness-and-packaging/code-practice/too-young-to-ride">Too young to ride</a></td>
+	</tr>
+</table>

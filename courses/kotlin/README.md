@@ -1,68 +1,93 @@
 # Kotlin
 
-1. Basic concepts
-	<details>
-		<summary>Code practice</summary>
+## Contents
 
-	- [Feeling welcomed](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/feeling-welcomed)	 
-	- [Let's get started](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/lets-get-started)	 
-	- [Make it run](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/make-it-run)	 
-	- [Surprise](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/surprise)	 
-	- [To comment or not to comment](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/to-comment-or-not-to-comment)	
-	</details>
+<table>
+	<tr>
+		<th>MODULE</th>
+		<th>CODE PRACTICES</th>
+		<th>CODE PROJECTS</th>
+	</tr>
+	<tr>
+		<td rowspan="5">1. Basic concepts</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/feeling-welcomed">Feeling welcomed</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-project">Water consumption</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/lets-get-started">Let's get started</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/make-it-run">Make it run</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/surprise">Surprise</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/to-comment-or-not-to-comment">To comment or not to comment</a></td>
+	</tr>
+	<tr>
+		<td rowspan="7">2. Control flow</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/data-please">Data, please</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-project">Parking fee</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/lets-convert">Let's convert</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/multiple-inputs">Multiple inputs</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/sorting-out">Sorting out</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/unlocking-doors">Unlocking doors</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-number">What's the number</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-sum">What's the sum</a></td>
+	</tr>
+	<tr>
+		<td rowspan="5">3. Functions</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/calculating-taxes">Calculating taxes</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-project">Shipping calculator</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/call-the-function">Call the function</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/counting-letters">Counting letters</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/initials">Initials</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/selected-names">Selected names</a></td>
+	</tr>
+	<tr>
+		<td rowspan="7">4. Object-oriented programming</td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/abstraction">Abstraction</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project">Music player</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-class">Button class</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-inheritance">Button inheritance</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-properties">Button properties</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-tap">Button tap</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/default-buttons">Default buttons</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/private-property">Private property</a></td>
+	</tr>
+</table>
 
-	<details>
-		<summary>Code project</summary>
-
-	- [Water consumption](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-project)
-	</details>
-2. Control flow
-	<details>
-		<summary>Code practice</summary>
-
-	- [Data, please](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/data-please)  
-	- [Let's convert](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/lets-convert)  
-	- [Multiple inputs](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/multiple-inputs)  
-	- [Sorting out](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/sorting-out)  
-	- [Unlocking doors](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/unlocking-doors)  
-	- [What's the number](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-number)  
-	- [What's the sum](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-sum)  
-	</details>
-	<details>
-		<summary>Code project</summary>
-
-	- [Parking fee](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-project)
-	</details>
-3. Functions
-	<details>
-		<summary>Code practice</summary>
-
-	- [Calculating taxes](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/calculating-taxes)  
-	- [Call the function](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/call-the-function)  
-	- [Counting letters](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/counting-letters)  
-	- [Initials](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/initials)  
-	- [Selected names](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/selected-names)  
-	</details>
-	<details>
-		<summary>Code project</summary>
-
-	- [Shipping calculator](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-project)
-	</details>
-4. Object-oriented programming
-	<details>
-		<summary>Code practice</summary>
-
-	- [Abstraction](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/abstraction)  
-	- [Button class](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-class)  
-	- [Button inheritance](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-inheritance)  
-	- [Button properties](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-properties)  
-	- [Button tap](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-tap)  
-	- [Default buttons](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/default-buttons)  
-	- [Private property](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/private-property)  
-	</details>
-	<details>
-		<summary>Code project</summary>
-
-	- [Music player](https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project)
-	</details>
 	
