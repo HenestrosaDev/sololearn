@@ -17,7 +17,7 @@ int main()
 		}
 	}
 
-	// 100.0 is important to get a float instead an int
+	// 100.0 is important for getting a float instead an int
 	sum -= (minAge / 100.0 * sum);
 	std::cout << sum;
 
