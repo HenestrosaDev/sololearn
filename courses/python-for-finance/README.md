@@ -10,7 +10,7 @@
 	</tr>
 	<tr>
 		<td rowspan="3">1. Python in finance</td>
-		<td rowspan="3"><a href="6.2 Code repo">Basic calculations (6.2 Code repo)</a></td>
+		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/1-python-in-finance/code-repo/6-2-code-repo">Basic calculations (6.2 Code repo)</a></td>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/1-python-in-finance/code-practice/fun-with-exponents">Fun with exponents</a></td>
 	</tr>
 	<tr>
