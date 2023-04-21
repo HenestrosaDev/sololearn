@@ -1728,94 +1728,94 @@ There are no code projects nor code practices available for this course.
 
 <details>
 	<summary>Web development fundamentals</summary>
-	<table>
-		<tr>
-			<th>MODULE</th>
-			<th>CODE REPOS</th>
-		</tr>
-		<tr>
-			<td rowspan="5">1. Overview</td>
-			<td><a href="01.2 Code repo">Your first HTML (01.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="02.2 Code repo">Text formatting (02.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="03.2 Code repo">HTML page structure (03.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="04.2 Code repo">HTML attributes (04.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="05.2 Code repo">More on elements (05.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td rowspan="6">2. More HTML elements</td>
-			<td><a href="07.2 Code repo">Lists (07.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="08.2 Code repo">Tables (08.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="09.2 Code repo">Page sections (09.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="10.2 Code repo">Forms (10.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="11.2 Code repo">More form controls (11.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="12.2 Code repo">Special characters (12.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td rowspan="10">3. Styling with CSS</td>
-			<td><a href="16.2 Code repo">CSS selectors (16.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="17.2 Code repo">Styling text (17.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="18.2 Code repo">Font styles (18.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="19.2 Code repo">The box model (19.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="20.2 Code repo">Borders and backgrounds (20.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="21.2 Code repo">Styling lists and links (21.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="22.2 Code repo">Styling tables (22.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="23.2 Code repo">Styling forms (23.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="24.2 Code repo">CSS layout (24.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="25.2 Code repo">Positioning (25.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td rowspan="5">4. JavaScript</td>
-			<td><a href="29.2 Code repo">Basic math (29.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="30.2 Code repo">Decision making (30.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="31.2 Code repo">Loops (31.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="33.2 Code repo">Functions (33.2 Code repo)</a></td>
-		</tr>
-		<tr>
-			<td><a href="34.2 Code repo">Event handling (34.2 Code repo)</a></td>
-		</tr>
-	</table>
+    <table>
+        <tr>
+            <th>MODULE</th>
+            <th>CODE REPOS</th>
+        </tr>
+        <tr>
+            <td rowspan="5">1. Overview</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/01-2-code-repo">Your first HTML (01.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/02-2-code-repo">Text formatting (02.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/03-2-code-repo">HTML page structure (03.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/04-2-code-repo">HTML attributes (04.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/05-2-code-repo">More on elements (05.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="6">2. More HTML elements</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/07-2-code-repo">Lists (07.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/08-2-code-repo">Tables (08.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/09-2-code-repo">Page sections (09.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/10-2-code-repo">Forms (10.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/11-2-code-repo">More form controls (11.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/12-2-code-repo">Special characters (12.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="10">3. Styling with CSS</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/16-2-code-repo">CSS selectors (16.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/17-2-code-repo">Styling text (17.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/18-2-code-repo">Font styles (18.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/19-2-code-repo">The box model (19.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/20-2-code-repo">Borders and backgrounds (20.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/21-2-code-repo">Styling lists and links (21.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/22-2-code-repo">Styling tables (22.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/23-2-code-repo">Styling forms (23.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/24-2-code-repo">CSS layout (24.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/25-2-code-repo">Positioning (25.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="5">4. JavaScript</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/29-2-code-repo">Basic math (29.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/30-2-code-repo">Decision making (30.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/31-2-code-repo">Loops (31.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/33-2-code-repo">Functions (33.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/34-2-code-repo">Event handling (34.2 Code repo)</a></td>
+        </tr>
+    </table>
 </details>
 
 ## Code coaches
