@@ -117,7 +117,7 @@
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/music-selector">Music selector</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/teamwork-makesthe-dream">Teamwork makes the dream</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/teamwork-makes-the-dream">Teamwork makes the dream</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/6-more-on-classes/code-practice/who-won">Who won</a></td>
@@ -128,7 +128,7 @@
 		<td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-project">Drawing application</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/make-andmodel">Make and model</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/make-and-model">Make and model</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/7-inheritance-and-polymorphism/code-practice/online-car-shopping">Online car shopping</a></td>
