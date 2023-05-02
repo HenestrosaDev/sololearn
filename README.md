@@ -1,14 +1,26 @@
 <div align="center">
-    <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-10px">
+    <img src="docs/icon.png" alt="Logo" width="156" height="156" style="margin-bottom:-20px">
     <h1 align="center">SoloLearn</h1>
-    <p align="center">
-        Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.
-        <br />
-        <br />
-		<a href="https://www.sololearn.com/profile/16379527">This</a> is my SoloLearn profile.
-		<br />
-		<br />
-        <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Report Bug</a> · <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Request Feature</a> · <a href="https://github.com/HenestrosaConH/sololearn/discussions">Ask Question</a>
+    <p align="center">Compilation of all 29 SoloLearn courses with their respective projects and practices and all 72 code challenges for all 7 languages supported.</p>
+    <p>
+        <a href="https://github.com/HenestrosaConH/sololearn/stargazers">
+          <img alt="Stargazers" src="https://img.shields.io/github/stars/HenestrosaConH/sololearn" />
+        </a>
+        <a href="https://github.com/HenestrosaConH/sololearn/graphs/contributors">
+          <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/HenestrosaConH/sololearn" />
+        </a>
+        <a href="https://github.com/HenestrosaConH/sololearn/issues">
+          <img alt="Issues" src="https://img.shields.io/github/issues/HenestrosaConH/sololearn" />
+        </a>
+        <a href="https://github.com/HenestrosaConH/sololearn/pulls">
+          <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HenestrosaConH/sololearn" />
+        </a>
+        <a href="https://github.com/HenestrosaConH/sololearn/blob/main/LICENSE">
+          <img alt="License" src="https://img.shields.io/github/license/HenestrosaConH/sololearn" />
+        </a>
+    </p>
+    <p>
+        <a href="https://github.com/HenestrosaConH/sololearn/issues/new/choose">Report Issue</a> · <a href="https://github.com/HenestrosaConH/sololearn/discussions">Ask Question</a>
     </p>
 </div>
 
@@ -465,7 +477,49 @@ There are no code projects nor code practices available for this course.
 			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/6-clustering-wines/code-project">Pandas pandas pandas</a></td>
 		</tr>
 	</table>
+</details>
 
+<details>
+	<summary>Game development with JS</summary>
+	<table>
+        <tr>
+            <th>MODULE</th>
+            <th>CODE REPOS</th>
+        </tr>
+        <tr>
+            <td rowspan="4">1. Getting started</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/02-2-code-repo">HTML basics (02.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/03-2-code-repo">Attributes and images (03.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/04-2-code-repo">CSS basics (04.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/08-2-code-repo">Handling events (08.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3">2. Working with Canvas</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/10-2-code-repo">HTML5 basics (10.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/12-2-code-repo">Rectangles and circles (12.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/16-2-code-repo">Animations (16.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3">3. Making a game</td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/21-2-code-repo">Collision detection (21.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/22-2-code-repo">User input (22.2 Code repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/23-2-code-repo">Making a game (23.2 Code repo)</a></td>
+        </tr>
+    </table>
 </details>
 
 <details>
