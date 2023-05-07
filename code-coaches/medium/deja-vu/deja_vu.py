@@ -1,14 +1,18 @@
-chars = input()
-previous_char = None
-is_repeated = False
+def check_deja_vu(chars):
+    previous_char = None
+    is_repeated = False
 
-for char in chars:
-	if char is previous_char:
-		print('Deja Vu')
-		is_repeated = True
-		break
-	else:
-		previous_char = char
+    for char in chars:
+        if char == previous_char:
+            print("Deja Vu")
+            is_repeated = True
+            break
+        else:
+            previous_char = char
 
-if (not is_repeated):
-	print('Unique')
+    if not is_repeated:
+        print("Unique")
+
+
+input_str = input()
+check_deja_vu(input_str)

@@ -1,7 +1,7 @@
-if let chars = readLine() {
-	var previousChar: Character?
+func checkDejaVu(chars: String) {
+    var previousChar: Character?
 	var isRepeated = false
-	
+
 	for char in chars {
 		if char == previousChar {
 			print("Deja Vu")
@@ -11,8 +11,12 @@ if let chars = readLine() {
 			previousChar = char
 		}
 	}
-	
+
 	if !isRepeated {
 			print("Unique")
 	}
+}
+
+if let chars = readLine() {
+	checkDejaVu(chars: chars)
 }

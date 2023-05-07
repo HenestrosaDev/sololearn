@@ -1,11 +1,8 @@
 #include <iostream>
 
-int main()
+void check_deja_vu(std::string chars)
 {
-	std::string chars;
-	std::cin >> chars;
-
-	char previousChar = ' ';
+    char previousChar = ' ';
 	bool isRepeated = false;
 
 	for (auto &ch : chars)
@@ -26,6 +23,14 @@ int main()
 	{
 		std::cout << "Unique";
 	}
+}
+
+int main()
+{
+	std::string chars;
+	std::cin >> chars;
+
+    check_deja_vu(chars);
 
 	return 0;
 }

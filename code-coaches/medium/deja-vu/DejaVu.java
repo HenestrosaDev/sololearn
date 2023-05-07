@@ -2,15 +2,11 @@ import java.util.Scanner;
 
 public class DejaVu {
 
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-
-		String chars = input.nextLine();
-		char previousChar = ' ';
+    public static void checkDejaVu(String chars) {
+        char previousChar = ' ';
 		boolean isRepeated = false;
 
-		for(int i = 0; i < chars.length(); i++)
-		{
+		for (int i = 0; i < chars.length(); i++) {
 			char c = chars.charAt(i);
 
 			if (c == previousChar) {
@@ -21,10 +17,17 @@ public class DejaVu {
 				previousChar = c;
 			}
 		}
-		
+
 		if (!isRepeated) {
 			System.out.println("Unique");
 		}
+    }
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String chars = input.nextLine();
+
+		checkDejaVu(chars);
 
 		input.close();
 	}
