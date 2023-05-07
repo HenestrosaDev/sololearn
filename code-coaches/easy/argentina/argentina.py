@@ -1,7 +1,7 @@
 from decimal import Decimal
 
 
-def lower_currency_after_conversion(ars, usd):
+def lower_currency_after_conversion(ars: Decimal, usd: Decimal) -> str:
     ars_to_usd_rate = Decimal("0.02")
     converted_usd = ars * ars_to_usd_rate
 
