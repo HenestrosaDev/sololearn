@@ -1,4 +1,4 @@
-def getCheer(yards)
+def get_cheer(yards)
     if yards > 10
         return "High Five"
     elsif yards < 1
@@ -11,7 +11,7 @@ end
 
 def main
     yards = gets.chomp.to_i
-    puts getCheer(yards)
+    puts get_cheer(yards)
 end
 
 
