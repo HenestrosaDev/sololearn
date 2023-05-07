@@ -14,11 +14,10 @@ std::string reverse(std::string str)
 
 int main()
 {
-	std::string sentence;
-	getline(std::cin, sentence);
+	std::string text;
+	getline(std::cin, text);
 
-	std::string reversed = reverse(sentence);
-	std::cout << reversed;
+	std::cout << reverse(text);
 
 	return 0;
 }
