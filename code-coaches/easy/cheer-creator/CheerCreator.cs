@@ -1,17 +1,34 @@
 using System;
+using System.Text;
 
-class Program {
-    static void Main(string[] args) {
+class CheerCreator
+{
+    static string GetCheer(string[] args)
+    {
+        if (yards > 10)
+        {
+            return "High Five";
+        }
+        else if (yards < 1)
+        {
+            return "shh";
+        }
+        else
+        {
+            StringBuilder output = new StringBuilder();
+            for (int i = 0; i < yards; i++)
+            {
+                output.Append("Ra!");
+            }
+
+            return output.ToString();
+        }
+    }
+
+    static void Main(string[] args)
+    {
         int yards = int.Parse(Console.ReadLine());
 
-        if (yards > 10) {
-            Console.WriteLine("High Five");
-        } else if (yards < 1) {
-            Console.WriteLine("shh");
-        } else {
-            for (int i = 0; i < yards; i++) {
-                Console.WriteLine("Ra!");
-            }
-        }
+        Console.WriteLine(GetCheer(yards));
     }
 }

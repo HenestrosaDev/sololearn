@@ -1,8 +1,16 @@
-yards = int(input())
+def get_cheer(yards):
+    if yards > 10:
+        return "High Five"
+    elif yards < 1:
+        return "shh"
+    else:
+        return "Ra!" * yards
 
-if yards > 10:
-    print("High Five")
-elif yards < 1:
-    print("shh")
-else:
-    print("Ra!" * yards)
+
+def main():
+    yards = int(input())
+    print(get_cheer(yards))
+
+
+if __name__ == "__main__":
+    main()

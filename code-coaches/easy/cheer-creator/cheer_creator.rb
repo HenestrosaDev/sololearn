@@ -1,9 +1,20 @@
-yards = gets.chomp.to_i
+def getCheer(yards)
+    if yards > 10
+        return "High Five"
+    elsif yards < 1
+        return "shh"
+    else
+        return "Ra!" * yards
+    end
+end
 
-if yards > 10
-  puts "High Five"
-elsif yards < 1
-  puts "shh"
-else
-  puts "Ra!" * yards
+
+def main
+    yards = gets.chomp.to_i
+    puts getCheer(yards)
+end
+
+
+if __FILE__ == $0
+  main
 end
