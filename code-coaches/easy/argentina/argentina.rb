@@ -1,10 +1,10 @@
 require 'bigdecimal'
 
-def lowerCurrencyAfterConversion(ars, usd)
-    arsToUsdRate = BigDecimal('0.02')
-    convertedUsd = ars * arsToUsdRate
+def lower_currency_after_conversion(ars, usd)
+    ars_to_usd_rate = BigDecimal('0.02')
+    converted_usd = ars * ars_to_usd_rate
 
-    if convertedUsd < usd
+    if converted_usd < usd
         return "Pesos"
     else
         return "Dollars"
@@ -15,9 +15,9 @@ def main
     ars = BigDecimal(gets.chomp) # Argentine peso
     usd = BigDecimal(gets.chomp)  # US dollar
 
-    puts lowerCurrencyAfterConversion(ars, usd)
+    puts lower_currency_after_conversion(ars, usd)
 end
 
 if __FILE__ == $0
-  main
+    main
 end
