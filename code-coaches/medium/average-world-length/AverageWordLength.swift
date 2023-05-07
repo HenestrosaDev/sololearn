@@ -1,10 +1,10 @@
 if let words = readLine() {
-	let wordsSplitted = words.split(separator: " ")
+	let wordsSplit = words.split(separator: " ")
 	
 	var wordsNumber = 0.0
 	var totalLength = 0.0
 	
-	for word in wordsSplitted {
+	for word in wordsSplit {
 		wordsNumber += 1
 		for chr in word {
 			// Swift 5: if chr.isLetter {
