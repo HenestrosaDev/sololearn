@@ -1,10 +1,27 @@
 from decimal import Decimal
 
-ars = Decimal(input())  # Argentine peso
-usd = Decimal(input())  # US dollar
 
-ars_to_usd = Decimal("0.02")  # exchange rate
-converted_usd = ars * ars_to_usd
+def lower_currency_after_conversion(ars, usd):
+    ars_to_usd_rate = Decimal("0.02")
+    converted_usd = ars * ars_to_usd_rate
 
-result = "Dollars" if converted_usd > usd else "Pesos"
-print(result)
+    if converted_usd < usd:
+        return "Pesos"
+    else:
+        return "Dollars"
+
+
+def main():
+    # Get the input values from the user
+    ars = Decimal(input())
+    usd = Decimal(input())
+
+    # Call the function to get the result
+    result = lower_currency_after_conversion(ars, usd)
+
+    # Print the result
+    print(result)
+
+
+if __name__ == "__main__":
+    main()

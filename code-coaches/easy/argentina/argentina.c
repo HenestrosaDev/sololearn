@@ -1,4 +1,16 @@
 #include <stdio.h>
+#include <string.h>
+
+char* lower_currency_after_conversion(double ars, double usd)
+{
+    double arsToUsd = 0.02; // exchange rate
+	double convertedUsd = ars * arsToUsd;
+
+	if (convertedUsd > usd)
+		return "Dollars";
+	else
+		return "Pesos";
+}
 
 int main()
 {
@@ -8,17 +20,7 @@ int main()
 	double usd; // US dollar
 	scanf("%lf", &usd);
 
-	double arsToUsd = 0.02; // exchange rate
-	double convertedUsd = ars * arsToUsd;
-
-	if (convertedUsd > usd)
-	{
-		printf("Dollars");
-	}
-	else
-	{
-		printf("Pesos");
-	}
+    printf("%s", lower_currency_after_conversion(ars, usd));
 
 	return 0;
 }
