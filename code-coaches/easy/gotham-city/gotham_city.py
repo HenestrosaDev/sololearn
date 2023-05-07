@@ -1,4 +1,4 @@
-def is_backup_needed(criminals):
+def is_backup_needed(criminals: int) -> str:
     if criminals < 5:
         return "I got this!"
     elif 5 <= criminals <= 10:

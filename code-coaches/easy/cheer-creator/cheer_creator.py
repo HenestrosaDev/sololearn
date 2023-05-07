@@ -1,4 +1,4 @@
-def get_cheer(yards):
+def get_cheer(yards: int) -> str:
     if yards > 10:
         return "High Five"
     elif yards < 1:

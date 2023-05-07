@@ -1,4 +1,4 @@
-def get_apple_pies(fruit_count):
+def get_apple_pies(fruit_count: int) -> int:
     apple_count = fruit_count // 2
     return apple_count // 3
 
