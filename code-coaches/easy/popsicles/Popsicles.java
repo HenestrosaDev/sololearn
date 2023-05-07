@@ -8,7 +8,7 @@ public class Popsicles {
 		
 		do {
 			siblings = input.nextInt();
-		} while(siblings == 0); 
+		} while (siblings == 0);
 			
 		int popsicles = input.nextInt(); 
 		

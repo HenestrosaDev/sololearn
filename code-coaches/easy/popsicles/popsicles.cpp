@@ -7,7 +7,8 @@ int main()
 	do
 	{
 		std::cin >> siblings >> popsicles;
-	} while (siblings == 0);
+	}
+	while (siblings == 0);
 
 	if (popsicles % siblings == 0)
 	{

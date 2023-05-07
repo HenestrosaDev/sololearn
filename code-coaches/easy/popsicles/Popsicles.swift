@@ -6,6 +6,6 @@ if  let input1 = readLine(),
 	if popsicles % siblings == 0 {
 		print("give away")
 	} else {
-		print("eat them youself")
+		print("eat them yourself")
 	}
 }
