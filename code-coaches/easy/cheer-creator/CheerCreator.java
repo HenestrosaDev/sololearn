@@ -11,7 +11,7 @@ public class CheerCreator {
 		} else if (yards < 1) {
 			System.out.println("shh");
 		} else {
-			for(int i = 0; i < yards; i++) {
+			for (int i = 0; i < yards; i++) {
 				System.out.print("Ra!");
 			}
 		}

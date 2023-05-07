@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-		for(int i = 0; i < yards; i++)
+		for (int i = 0; i < yards; i++)
 		{
 			std::cout << "Ra!";
 		}
