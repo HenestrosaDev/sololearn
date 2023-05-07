@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 void split(char const *str, const char delim, char out[][6], int *count)
@@ -15,16 +16,13 @@ void split(char const *str, const char delim, char out[][6], int *count)
     *count = i;
 }
 
-int main()
+char* get_animals(char noises[])
 {
-    char noises[1000];
-    fgets(noises, sizeof(noises), stdin);
-
     char noisesSplit[100][6];
     int count;
     split(noises, ' ', noisesSplit, &count);
 
-    char animals[1000] = "";
+    char* animals = malloc(sizeof(char) * 1000);
     char *ptr = animals;
     const char *sep = "";
 
@@ -56,7 +54,18 @@ int main()
         sep = " ";
     }
 
+    return animals;
+}
+
+
+int main()
+{
+    char noises[1000];
+    fgets(noises, sizeof(noises), stdin);
+
+    char* animals = get_animals(noises);
     printf("%s", animals);
+    free(animals);
 
     return 0;
 }

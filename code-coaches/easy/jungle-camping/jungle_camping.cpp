@@ -21,12 +21,9 @@ std::map<std::string, std::string> noiseToAnimal = {
 	{"Grr", "Lion"},
 };
 
-int main()
+std::string get_animals(std::string noises)
 {
-	std::string noises;
-	getline(std::cin, noises);
-
-	std::vector<std::string> noisesSplit;
+    std::vector<std::string> noisesSplit;
 	split(noises, ' ', noisesSplit);
 
 	std::string animals = "";
@@ -36,7 +33,15 @@ int main()
 	}
 
 	animals.pop_back(); // removing last " "
-	std::cout << animals;
+	return animals;
+}
+
+int main()
+{
+	std::string noises;
+	getline(std::cin, noises);
+
+	std::cout << get_animals(noises);
 
 	return 0;
 }

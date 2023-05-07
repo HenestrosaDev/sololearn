@@ -1,28 +1,33 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 public class JungleCamping
 {
-    public static void Main(string[] args)
+    static Dictionary<string, string> noiseToAnimal = new Dictionary<string, string>()
     {
-        Dictionary<string, string> noiseToAnimal = new Dictionary<string, string>()
-        {
-            {"Rawr", "Tiger"},
-            {"Chirp", "Bird"},
-            {"Ssss", "Snake"},
-            {"Grr", "Lion"}
-        };
+        {"Rawr", "Tiger"},
+        {"Chirp", "Bird"},
+        {"Ssss", "Snake"},
+        {"Grr", "Lion"}
+    };
 
-        string noises = Console.ReadLine();
-        string[] noisesSplit = noises.Split(' ');
+    public static string GetAnimals(string noises)
+    {
+        string[] noisesSplit = noises.Split(" ");
+        StringBuilder animals = new StringBuilder();
 
-        string animals = "";
         foreach (string noise in noisesSplit)
         {
-            animals += noiseToAnimal[noise] + " ";
+            animals.Append(noiseToAnimal[noise]).Append(" ");
         }
 
-        string animalSounds = animals.Trim();
-        Console.WriteLine(animalSounds);
+        return animals.ToString().Trim();
+    }
+
+    public static void Main(string[] args)
+    {
+        string noises = Console.ReadLine();
+        Console.WriteLine(GetAnimals(noises));
     }
 }
