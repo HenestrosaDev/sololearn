@@ -1,10 +1,15 @@
-import math
+from math import ceil
 
-while True:
-    houses = int(input())
-    if houses >= 3:
-        break
 
-bill_probability = math.ceil(100 / houses * 2)
+def main():
+    while True:
+        num_houses = int(input())
+        if num_houses >= 3:
+            break
 
-print(bill_probability)
+    bill_probability = ceil(100 / num_houses * 2)
+    print(bill_probability)
+
+
+if __name__ == "__main__":
+    main()

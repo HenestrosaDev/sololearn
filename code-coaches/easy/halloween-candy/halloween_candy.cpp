@@ -3,16 +3,17 @@
 
 int main()
 {
-	int houses;
+	int num_houses;
 
 	do
 	{
-		std::cin >> houses;
+		std::cin >> num_houses;
 	}
-	while (houses < 3);
+	while (num_houses < 3);
 
-	int billProbability = ceil(100.0 / houses * 2);
-	std::cout << billProbability;
+    int bill_probability = ceil(100.0 / num_houses * 2);
+
+	std::cout << bill_probability;
 
 	return 0;
 }

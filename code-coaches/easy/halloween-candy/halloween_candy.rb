@@ -1,8 +1,16 @@
-houses = 0
+def main
+    num_houses = 0
 
-until houses >= 3
-	houses = gets.chomp.to_i
+    until num_houses >= 3
+        num_houses = gets.chomp.to_i
+    end
+
+    bill_probability = (100.0 / num_houses * 2).ceil
+
+    puts bill_probability
 end
 
-billProbability = (100.0 / houses * 2).ceil
-puts billProbability
+
+if __FILE__ == $0
+  main
+end

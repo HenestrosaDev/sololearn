@@ -3,15 +3,15 @@
 
 int main()
 {
-    int houses;
+    int num_houses;
 
     do
     {
-        scanf("%d", &houses);
+        scanf("%d", &num_houses);
     }
-    while (houses < 3);
+    while (num_houses < 3);
 
-    int bill_probability = ceil(100.0 / houses * 2);
+    int bill_probability = ceil(100.0 / num_houses * 2);
 
     printf("%d", bill_probability);
 
