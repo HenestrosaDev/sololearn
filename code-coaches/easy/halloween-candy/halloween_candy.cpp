@@ -8,7 +8,8 @@ int main()
 	do
 	{
 		std::cin >> houses;
-	} while (houses < 3);
+	}
+	while (houses < 3);
 
 	int billProbability = ceil(100.0 / houses * 2);
 	std::cout << billProbability;
