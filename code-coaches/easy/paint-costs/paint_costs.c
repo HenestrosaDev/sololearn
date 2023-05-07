@@ -1,19 +1,24 @@
 #include <stdio.h>
 #include <math.h>
 
+int get_total_paint_costs(int num_colors)
+{
+    double base_price = 40.0;
+	double paint_price = 5.0;
+	double tax_percent = 10.0;
+
+	double subtotal = base_price + (paint_price * num_colors);
+	int total = ceil((subtotal / tax_percent) + subtotal);
+
+	return total;
+}
+
 int main()
 {
-    int colorsNumber;
-    scanf("%d", &colorsNumber);
+    int num_colors;
+    scanf("%d", &num_colors);
 
-    double basePrice = 40.0;
-    double paintPrice = 5.0;
-    double taxPercent = 10.0;
-
-    double subtotal = basePrice + (paintPrice * colorsNumber);
-    int total = ceil((subtotal / taxPercent) + subtotal);
-
-    printf("%d", total);
+    printf("%d", get_total_paint_costs(num_colors));
 
     return 0;
 }

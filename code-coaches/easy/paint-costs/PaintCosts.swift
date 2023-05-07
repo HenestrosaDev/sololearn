@@ -1,10 +1,18 @@
-if let input = readLine(), let colorsNumber = Double(input) {
+func getTotalPaintCosts(numColors: Int) -> Int {
     let basePrice = 40.0
     let paintPrice = 5.0
     let taxPercent = 10.0
-    
+
     let subtotal = basePrice + (paintPrice * colorsNumber)
     let total = ((subtotal / taxPercent) + subtotal).rounded(.up)
-    
-    print(Int(total))
+
+    return Int(total)
 }
+
+func main() {
+    if let input = readLine(), let numColors = Double(input) {
+        print(getTotalPaintCosts(numColors))
+    }
+}
+
+main()
