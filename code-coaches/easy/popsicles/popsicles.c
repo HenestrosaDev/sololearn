@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+const char* distribute_popsicles(int popsicles, int siblings)
+{
+    if (popsicles % siblings == 0)
+		return "give away";
+	else
+		return "eat them yourself";
+}
+
 int main()
 {
     int siblings, popsicles;
@@ -10,14 +18,7 @@ int main()
 	}
 	while (siblings == 0);
 
-	if (popsicles % siblings == 0)
-	{
-		printf("give away");
-	}
-	else
-	{
-		printf("eat them yourself");
-	}
+	printf("%s", distribute_popsicles(popsicles, siblings))
 
 	return 0;
 }

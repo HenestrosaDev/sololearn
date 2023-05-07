@@ -2,6 +2,14 @@ import java.util.Scanner;
  
 public class Popsicles { 
 
+    public static void distributePopsicles(int popsicles, int siblings) {
+        if (popsicles % siblings == 0) {
+			return "give away";
+		} else {
+			return "eat them yourself";
+		}
+    }
+
 	public static void main(String[] args) { 
 		Scanner input = new Scanner(System.in);
 		int siblings;
@@ -12,11 +20,7 @@ public class Popsicles {
 			
 		int popsicles = input.nextInt(); 
 		
-		if (popsicles % siblings == 0) {
-			System.out.println("give away");
-		} else {
-			System.out.println("eat them yourself");
-		}
+        System.out.println(distributePopsicles(popsicles, siblings));
 
 		input.close();
 	}

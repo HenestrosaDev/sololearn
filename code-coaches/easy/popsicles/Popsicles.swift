@@ -1,11 +1,19 @@
-if  let input1 = readLine(),
-    let siblings = Int(input1),
-    let input2 = readLine(),
-    let popsicles = Int(input2)
-{
-	if popsicles % siblings == 0 {
-		print("give away")
+func distributePopsicles(popsicles: Int, siblings: Int) -> String {
+    if popsicles % siblings == 0 {
+		return "give away"
 	} else {
-		print("eat them yourself")
+		return "eat them yourself"
 	}
 }
+
+func main() {
+    if  let input1 = readLine(),
+        let siblings = Int(input1),
+        let input2 = readLine(),
+        let popsicles = Int(input2)
+    {
+        print(distributePopsicles(siblings: siblings, popsicles: popsicles))
+    }
+}
+
+main()

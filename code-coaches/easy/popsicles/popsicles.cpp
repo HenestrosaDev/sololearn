@@ -1,5 +1,13 @@
 #include <iostream>
 
+std::string distribute_popsicles(int popsicles, int siblings)
+{
+    if (popsicles % siblings == 0)
+		return "give away";
+	else
+		return "eat them yourself";
+}
+
 int main()
 {
 	int siblings, popsicles;
@@ -10,14 +18,7 @@ int main()
 	}
 	while (siblings == 0);
 
-	if (popsicles % siblings == 0)
-	{
-		std::cout << "give away";
-	}
-	else
-	{
-		std::cout << "eat them yourself";
-	}
+	std::cout << distribute_popsicles(popsicles, siblings);
 
 	return 0;
 }

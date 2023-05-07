@@ -1,11 +1,20 @@
-while True:
-    siblings = int(input())
-    if siblings != 0:
-        break
+def distribute_popsicles(popsicles: int, siblings: int) -> str:
+    if popsicles % siblings == 0:
+        return "give away"
+    else:
+        return "eat them yourself"
 
-popsicles = int(input())
 
-if popsicles % siblings == 0:
-    print("give away")
-else:
-    print("eat them yourself")
+def main():
+    while True:
+        siblings = int(input())
+        if siblings != 0:
+            break
+
+    popsicles = int(input())
+
+    print(distribute_popsicles(popsicles, siblings))
+
+
+if __name__ == "__main__":
+    main()

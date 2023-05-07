@@ -2,6 +2,14 @@ using System;
 
 public class Popsicles
 {
+    public static string DistributePopsicles(int popsicles, int siblings)
+    {
+        if (popsicles % siblings == 0)
+			Console.WriteLine("give away");
+		else
+			"eat them yourself");
+    }
+
 	public static void Main()
 	{
 		int siblings;
@@ -14,14 +22,7 @@ public class Popsicles
 
 		int popsicles = Convert.ToInt32(Console.ReadLine());
 
-		if (popsicles % siblings == 0)
-		{
-			Console.WriteLine("give away");
-		}
-		else
-		{
-			Console.WriteLine("eat them yourself");
-		}
+		Console.WriteLine(DistributePopsicles(popsicles, siblings));
 	}
 
 }
