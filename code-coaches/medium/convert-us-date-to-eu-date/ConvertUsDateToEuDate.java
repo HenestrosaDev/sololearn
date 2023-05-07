@@ -1,11 +1,10 @@
 import java.util.Scanner;
-import java.util.Map;
 import java.util.HashMap;
 
 public class ConvertUsDateToEuDate {
 	
 	public static void main(String[] args) {
-		Map<String, String> monthToNum = new HashMap<String, String>() {
+		HashMap<String, String> monthToNum = new HashMap<String, String>() {
 			{
 				put("January", "1");
 				put("February", "2");
@@ -27,13 +26,13 @@ public class ConvertUsDateToEuDate {
 		String euDate = "";
 
 		if (usDate.contains("/")) {
-			String[] usDateSplitted = usDate.split("/");
-			euDate = usDateSplitted[1] + "/" + usDateSplitted[0] + "/" + usDateSplitted[2];
+			String[] usDateSplit = usDate.split("/");
+			euDate = usDateSplit[1] + "/" + usDateSplit[0] + "/" + usDateSplit[2];
 		} else {
-			String[] usDateSplitted = usDate.split(" ");
-			String month = monthToNum.get(usDateSplitted[0]);
-			String day = usDateSplitted[1].substring(0, usDateSplitted[1].length() - 1); // remove ','
-			euDate = day + "/" + month + "/" + usDateSplitted[2];
+			String[] usDateSplit = usDate.split(" ");
+			String month = monthToNum.get(usDateSplit[0]);
+			String day = usDateSplit[1].substring(0, usDateSplit[1].length() - 1); // remove ','
+			euDate = day + "/" + month + "/" + usDateSplit[2];
 		}
 		
 		System.out.println(euDate);

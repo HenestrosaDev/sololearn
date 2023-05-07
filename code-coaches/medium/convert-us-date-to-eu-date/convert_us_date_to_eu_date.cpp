@@ -38,21 +38,21 @@ int main()
 
 	if (usDate.find("/") != std::string::npos)
 	{
-		std::vector<std::string> usDateSplitted;
-		split(usDate, '/', usDateSplitted);
-		euDate = usDateSplitted[1] + "/" + usDateSplitted[0] + "/" + usDateSplitted[2];
+		std::vector<std::string> usDateSplit;
+		split(usDate, '/', usDateSplit);
+		euDate = usDateSplit[1] + "/" + usDateSplit[0] + "/" + usDateSplit[2];
 	}
 	else
 	{
-		std::vector<std::string> usDateSplitted;
-		split(usDate, ' ', usDateSplitted);
+		std::vector<std::string> usDateSplit;
+		split(usDate, ' ', usDateSplit);
 
-		std::string month = monthToNum.at(usDateSplitted[0]);
+		std::string month = monthToNum.at(usDateSplit[0]);
 
-		usDateSplitted[1].pop_back();
-		std::string day = usDateSplitted[1]; 
+		usDateSplit[1].pop_back();
+		std::string day = usDateSplit[1]; 
 		
-		euDate = day + "/" + month + "/" + usDateSplitted[2];
+		euDate = day + "/" + month + "/" + usDateSplit[2];
 	}
 
 	std::cout << euDate;

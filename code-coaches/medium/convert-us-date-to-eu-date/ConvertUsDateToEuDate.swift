@@ -18,13 +18,13 @@ func main() {
 		var euDate: String!
 		
 		if usDate.contains("/") {
-			let usDateSplitted = usDate.split(separator: "/")
-			euDate = "\(usDateSplitted[1])/\(usDateSplitted[0])/\(usDateSplitted[2])"
+			let usDateSplit = usDate.split(separator: "/")
+			euDate = "\(usDateSplit[1])/\(usDateSplit[0])/\(usDateSplit[2])"
 		} else {
-			let usDateSplitted = usDate.split(separator: " ")
-			guard let month = monthToNum[String(usDateSplitted[0])] else { return }
-			let day = usDateSplitted[1].dropLast()
-			euDate = "\(day)/\(month)/\(usDateSplitted[2])"
+			let usDateSplit = usDate.split(separator: " ")
+			guard let month = monthToNum[String(usDateSplit[0])] else { return }
+			let day = usDateSplit[1].dropLast()
+			euDate = "\(day)/\(month)/\(usDateSplit[2])"
 		}
 		
 		guard let safeEuDate = euDate else { 

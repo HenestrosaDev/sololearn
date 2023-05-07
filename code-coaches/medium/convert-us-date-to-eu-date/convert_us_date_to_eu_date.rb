@@ -17,13 +17,13 @@ usDate = gets.chomp
 euDate = ""
 
 if usDate.include? "/"
-	usDateSplitted = usDate.split("/")
-	euDate = "#{usDateSplitted[1]}/#{usDateSplitted[0]}/#{usDateSplitted[2]}"
+	usDateSplit = usDate.split("/")
+	euDate = "#{usDateSplit[1]}/#{usDateSplit[0]}/#{usDateSplit[2]}"
 else
-	usDateSplitted = usDate.split(" ")
-	month = monthToNum[usDateSplitted[0]]
-	day = usDateSplitted[1].delete_suffix!(",")
-	euDate = "#{day}/#{month}/#{usDateSplitted[2]}"
+	usDateSplit = usDate.split(" ")
+	month = monthToNum[usDateSplit[0]]
+	day = usDateSplit[1].delete_suffix!(",")
+	euDate = "#{day}/#{month}/#{usDateSplit[2]}"
 end
 
 puts euDate
