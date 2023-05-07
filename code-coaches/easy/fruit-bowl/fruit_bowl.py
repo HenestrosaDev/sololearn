@@ -1,7 +1,12 @@
-import math
+def get_apple_pies(fruit_count):
+    apple_count = fruit_count // 2
+    return apple_count // 3
 
-fruit = int(input())
-apples = fruit / 2
-cakes = math.floor(apples / 3)
 
-print(cakes)
+def main():
+    fruit_count = int(input())
+    print(get_apple_pies(fruit_count))
+
+
+if __name__ == "__main__":
+    main()

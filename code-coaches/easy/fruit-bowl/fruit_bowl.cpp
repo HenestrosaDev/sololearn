@@ -1,13 +1,17 @@
 #include <iostream>
 
+int get_apple_pies(int fruit_count)
+{
+    int apple_count = fruit_count / 2;
+    return apple_count / 3;
+}
+
 int main()
 {
-	int fruit;
-	std::cin >> fruit;
+	int fruit_count;
+	std::cin >> fruit_count;
 
-	int apples = fruit / 2;
-	int cakes = apples / 3;
-	std::cout << cakes;
+	std::cout << get_apple_pies(fruit_count);
 
 	return 0;
 }

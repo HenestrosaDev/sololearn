@@ -1,15 +1,17 @@
 #include <stdio.h>
-#include <math.h>
+
+int get_apple_pies(int fruit_count)
+{
+    int apple_count = fruit_count / 2;
+    return apple_count / 3;
+}
 
 int main()
 {
-    int fruit;
-    scanf("%d", &fruit);
+    int fruit_count;
+    scanf("%d", &fruit_count);
 
-    int apples = fruit / 2;
-    int pies = floor(apples / 3);
-
-    printf("%d", pies);
+    printf("%d", get_apple_pies(fruit_count));
 
     return 0;
 }
