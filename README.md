@@ -1898,7 +1898,7 @@ There are no code projects nor code practices available for this course.
 - [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/deja-vu)
 - [Military time](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/military-time)
 - [No numerals](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/no-numerals)
-- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-Latin)
+- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-latin)
 - [Secret message](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/secret-message)
 - [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols)
 - [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd)
