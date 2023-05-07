@@ -1903,7 +1903,7 @@ There are no code projects nor code practices available for this course.
 - [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols)
 - [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd)
 - [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life)
-- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youTube-link-finder)
+- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youtube-link-finder)
 </details>
 
 <details>
