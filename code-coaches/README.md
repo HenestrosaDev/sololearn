@@ -21,12 +21,12 @@
 - [Deja vu](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/deja-vu)
 - [Military time](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/military-time)
 - [No numerals](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/no-numerals)
-- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-Latin)
+- [Pig Latin](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/pig-latin)
 - [Secret message](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/secret-message)
 - [Symbols](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/symbols)
 - [That's odd](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/thats-odd)
 - [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life)
-- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youTube-link-finder)
+- [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youtube-link-finder)
 
 ## Hard
 
