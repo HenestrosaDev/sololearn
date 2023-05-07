@@ -2,16 +2,19 @@ using System;
 
 class GothamCity
 {
+    static string IsBackupNeeded(int criminals)
+    {
+        if (criminals < 5)
+            return "I got this!";
+        else if (criminals >= 5 && criminals <= 10)
+            return "Help me Batman";
+        else
+            return "Good Luck out there!";
+    }
+
     static void Main(string[] args)
     {
         int criminals = int.Parse(Console.ReadLine());
-
-        if (criminals < 5) {
-            Console.WriteLine("I got this!");
-        } else if (criminals >= 5 && criminals <= 10) {
-            Console.WriteLine("Help me Batman");
-        } else {
-            Console.WriteLine("Good Luck out there!");
-        }
+        Console.WriteLine(IsBackupNeeded(criminals));
     }
 }
