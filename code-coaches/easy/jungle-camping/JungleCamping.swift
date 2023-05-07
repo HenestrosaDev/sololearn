@@ -6,7 +6,7 @@ let noiseToAnimal = [
 ]
 
 if let noises = readLine() {
-	let noisesSplitted = noises.split(separator: " ")
-	let animals = noisesSplitted.map { noiseToAnimal[String($0)]! }
+	let noisesSplit = noises.split(separator: " ")
+	let animals = noisesSplit.map { noiseToAnimal[String($0)]! }
 	print(animals.joined(separator: " "))
 }

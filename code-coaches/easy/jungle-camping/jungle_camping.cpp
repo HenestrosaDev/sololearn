@@ -26,11 +26,11 @@ int main()
 	std::string noises;
 	getline(std::cin, noises);
 
-	std::vector<std::string> noisesSplitted;
-	split(noises, ' ', noisesSplitted);
+	std::vector<std::string> noisesSplit;
+	split(noises, ' ', noisesSplit);
 
 	std::string animals = "";
-	for (auto noise : noisesSplitted)
+	for (auto noise : noisesSplit)
 	{
 		animals += noiseToAnimal.at(noise) + " ";
 	}

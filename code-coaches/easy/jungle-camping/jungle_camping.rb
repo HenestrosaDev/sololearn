@@ -5,6 +5,6 @@ noiseToAnimal = {
 	"Grr" => "Lion",
 }
 
-noisesSplitted = gets.chomp.split(" ")
-animals = noisesSplitted.map { |noise| noiseToAnimal[noise] }.join(" ")
+noisesSplit = gets.chomp.split(" ")
+animals = noisesSplit.map { |noise| noiseToAnimal[noise] }.join(" ")
 puts animals
