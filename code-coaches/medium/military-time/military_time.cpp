@@ -1,72 +1,35 @@
 #include <iostream>
-#include <regex>
+#include <sstream>
+#include <iomanip>
 
-int main()
-{
-	std::string time;
-	getline(std::cin, time);
+std::string convert_from_12h_to_24h(std::string time_12h) {
+    int hour, minute;
+    char indicator;
 
-	std::string dayPeriod = "";
+    // parse input string using stringstream
+    std::istringstream ss(time_12h);
+    ss >> hour;
+    ss.ignore(); // ignore the colon separator
+    ss >> minute >> indicator;
 
-	std::regex exp("\\s[a-zA-Z]{2}");
-	std::smatch res;
-	std::string matchedDayPeriod = "";
+    // convert hour to 24-hour format
+    if (indicator == 'P' && hour != 12)
+        hour += 12;
+    else if (indicator == 'A' && hour == 12)
+        hour = 0;
 
-	std::string::const_iterator searchStart(time.cbegin());
-	while (regex_search(searchStart, time.cend(), res, exp))
-	{
-		matchedDayPeriod += (searchStart == time.cbegin() ? "" : " ");
-		matchedDayPeriod += res[0];
-		// searchStart = res.suffix().first;
+    // format output string
+    std::ostringstream oss;
+    oss << std::setfill('0') << std::setw(2) << hour << ":" << std::setw(2) << minute;
 
-		break;
-	}
+    return oss.str();
+}
 
-	if (!matchedDayPeriod.empty())
-	{
-		size_t startPositionToErase = time.find(matchedDayPeriod);
-		time.erase(startPositionToErase, matchedDayPeriod.length());
-		for (auto &c : matchedDayPeriod) 
-		{
-			if (isalpha(c)) // avoid whitespaces
-			{
-				dayPeriod += toupper(c);
-			}
-		}
-	}
+int main() {
+    std::string time_12h;
+	getline(std::cin, time_12h);
 
-	std::regex reg(":");
-	std::sregex_token_iterator iter(time.begin(), time.end(), reg, -1);
-	std::sregex_token_iterator end;
-	std::vector<std::string> timeSplitted(iter, end);
+    std::cout << convert_from_12h_to_24h(time_12h); // prints "13:15"
 
-	std::string hours = timeSplitted[0];
-	std::string minutes = timeSplitted[1];
-
-	if (hours.length() == 1)
-	{
-		hours = "0" + hours;
-	}
-	int hoursInt = stoi(hours);
-
-	if (dayPeriod == "PM")
-	{
-		hours = std::to_string(hoursInt + 12);
-	}
-	else if (dayPeriod != "AM")
-	{
-		if (hoursInt > 12)
-		{
-			hours = std::to_string(hoursInt - 12);
-			minutes += " PM";
-		}
-		else 
-		{
-			minutes += " AM";
-		}
-	}
-
-	std::cout << hours << ":" << minutes;
-
-	return 0;
+    return 0;
 }

@@ -1,4 +1,7 @@
-import Foundation
+func convertFrom12hTo24h(time12h: String) -> String {
+
+}
+
 
 func main() {
 	if var time = readLine() {

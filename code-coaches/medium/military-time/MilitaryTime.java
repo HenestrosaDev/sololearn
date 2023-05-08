@@ -1,51 +1,32 @@
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.List;
-import java.util.ArrayList;
 
 public class Program {
 
+    public static String convertFrom12hTo24h(String time12h) {
+        int hours, minutes;
+        String amPm;
+
+        // parse the input string
+        String[] parts = time12h.split(" ");
+        String[] timeParts = parts[0].split(":");
+        hours = Integer.parseInt(timeParts[0]);
+        minutes = Integer.parseInt(timeParts[1]);
+        amPm = parts[1];
+
+        if (amPm.equals("PM") && hours != 12) { // if it's PM and not 12 PM, add 12 hours
+            hours += 12;
+        } else if (amPm.equals("AM") && hours == 12) { // if it's 12 AM, set hours to 0
+            hours = 0;
+        }
+
+        return String.format("%02d:%02d", hours, minutes);
+    }
+
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
+		String time12h = input.nextLine();
 
-		String time = input.nextLine();
-		String dayPeriod = "";
-
-		List<String> matchedDayPeriod = new ArrayList<String>();
-		Matcher m = Pattern.compile("\\s[a-zA-Z]{2}").matcher(time);
-
-		while (m.find()) {
-			matchedDayPeriod.add(m.group());
-		}
-
-		if (!matchedDayPeriod.isEmpty()) {
-			// position 0 because we know that it will be the first occurrence
-			time = time.replace(matchedDayPeriod.get(0), "");
-			dayPeriod = matchedDayPeriod.get(0).trim().toUpperCase();
-		}
-
-		String[] timeSplitted = time.split(":");
-		String hours = timeSplitted[0];
-		String minutes = timeSplitted[1];
-
-		if (hours.length() == 1) {
-			hours = String.format("0%s", hours);
-		}
-		int hoursInt = Integer.parseInt(hours);
-		
-		if (dayPeriod.equals("PM")) {
-			hours = String.valueOf(hoursInt + 12);
-		} else if (!dayPeriod.equals("AM")) {
-			if (hoursInt > 12) {
-				hours = String.valueOf(hoursInt - 12);
-				minutes += " PM";
-			} else {
-				minutes += " AM";
-			}
-		}
-
-		System.out.println(String.format("%s:%s", hours, minutes));
+		System.out.println(convertFrom12hTo24h(time12h));
 
 		input.close();
 	}
