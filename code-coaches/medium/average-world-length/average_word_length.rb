@@ -1,15 +1,26 @@
-words = gets.chomp.split(" ")
-wordsNumber = 0
-totalLength = 0
+def get_average_word_length(words):
+    words_number = words.length()
+    total_length = 0
 
-words.each do |word|
-	wordsNumber += 1
-	word.each_char do |char|
-		if char.match(/^[[:alpha:]]$/)
-			totalLength += 1
-		end
-	end
+    words.each do |word|
+        word.each_char do |char|
+            if char.match(/^[[:alpha:]]$/)
+                total_length += 1
+            end
+        end
+    end
+
+    average_length = (total_length.to_f / words_number.to_f).ceil
+    return average_length
 end
 
-averageLength = (totalLength.to_f / wordsNumber.to_f).ceil
-puts averageLength
+
+def main
+    words = gets.chomp.split(" ")
+    puts get_average_word_length(words)
+end
+
+
+if __FILE__ == $0
+    main
+end

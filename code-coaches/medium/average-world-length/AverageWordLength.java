@@ -2,15 +2,11 @@ import java.util.Scanner;
 
 public class AverageWorldLength {
 
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		
-		String[] words = input.nextLine().split(" ");
-		int wordsNumber = 0;
+    public static int getAverageWordLength(String[] words) {
+        int wordsNumber = words.length;
 		int totalLength = 0;
 
 		for (String word : words) {
-			wordsNumber++;
 			for (char c : word.toCharArray()) {
 				if (Character.isLetter(c)) {
 					totalLength++;
@@ -19,7 +15,14 @@ public class AverageWorldLength {
 		}
 
 		int averageLength = (int) Math.ceil((double) totalLength / wordsNumber);
-		System.out.println(averageLength);
+		return averageLength;
+    }
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] words = input.nextLine().split(" ");
+
+        System.out.println(getAverageWordLength(words));
 
 		input.close();
 	}

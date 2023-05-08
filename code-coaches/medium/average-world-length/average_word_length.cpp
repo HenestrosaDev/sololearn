@@ -2,34 +2,38 @@
 #include <cmath>
 #include <regex>
 
-int main()
+int get_average_word_length(std::string words)
 {
-	std::string words;
-	getline(std::cin, words);
-
-	int wordsNumber = 0;
-	int totalLength = 0;
-
 	std::regex reg("\\s+");
 	std::sregex_token_iterator iter(words.begin(), words.end(), reg, -1);
 	std::sregex_token_iterator end;
 
 	std::vector<std::string> vec(iter, end);
+    int words_number = vec.size();
+	int total_length = 0;
+
 	for (auto word : vec)
 	{
-		wordsNumber++;
 		for (auto c : word)
 		{
 			if (isalpha(c))
 			{
-				totalLength++;
+				total_length++;
 			}
 		}
 	}
 
 	// Implicit casting to ceil the average
-	int averageLength = (int) ceil((1.0 * totalLength) / (1.0 * wordsNumber));
-	std::cout << averageLength;
+	int average_length = (int) ceil((1.0 * total_length) / (1.0 * words_number));
+	return average_length;
+}
+
+int main()
+{
+	std::string words;
+	getline(std::cin, words);
+
+	std::cout << get_average_word_length(words);
 
 	return 0;
 }

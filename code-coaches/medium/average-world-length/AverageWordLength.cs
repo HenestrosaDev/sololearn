@@ -3,17 +3,13 @@ using System.Linq;
 
 class AverageWorldLength
 {
-    static void Main(string[] args)
+    static int GetAverageWordLength(string words)
     {
-        string input = Console.ReadLine();
-        string[] words = input.Split(' ');
-
-        int wordsNumber = 0;
+        int wordsNumber = words.Length;
         int totalLength = 0;
 
         foreach (string word in words)
         {
-            wordsNumber++;
             foreach (char c in word.ToCharArray())
             {
                 if (Char.IsLetter(c))
@@ -23,7 +19,15 @@ class AverageWorldLength
             }
         }
 
-        int averageLength = (int)Math.Ceiling((double)totalLength / wordsNumber);
-        Console.WriteLine(averageLength);
+        int averageLength = (int) Math.Ceiling((double) totalLength / wordsNumber);
+        return averageLength;
+    }
+
+    static void Main(string[] args)
+    {
+        string input = Console.ReadLine();
+        string[] words = input.Split(' ');
+
+        Console.WriteLine(words);
     }
 }
