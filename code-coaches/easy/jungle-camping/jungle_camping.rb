@@ -1,4 +1,4 @@
-noiseToAnimal = {
+$noise_to_animal = {
 	"Rawr" => "Tiger",
 	"Chirp" => "Bird",
 	"Ssss" => "Snake",
@@ -7,8 +7,8 @@ noiseToAnimal = {
 
 
 def main
-    noisesSplit = gets.chomp.split(" ")
-    animals = noisesSplit.map { |noise| noiseToAnimal[noise] }.join(" ")
+    noises_split = gets.chomp.split(" ")
+    animals = $noises_split.map { |noise| noise_to_animal[noise] }.join(" ")
     puts animals
 end
 

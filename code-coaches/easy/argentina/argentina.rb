@@ -8,8 +8,9 @@ def lower_currency_after_conversion(ars, usd)
         return "Pesos"
     else
         return "Dollars"
-   end
+    end
 end
+
 
 def main
     ars = BigDecimal(gets.chomp) # Argentine peso
@@ -17,6 +18,7 @@ def main
 
     puts lower_currency_after_conversion(ars, usd)
 end
+
 
 if __FILE__ == $0
     main

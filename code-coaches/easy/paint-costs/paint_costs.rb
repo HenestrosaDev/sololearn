@@ -1,10 +1,10 @@
 def get_total_paint_costs(num_colors)
-    basePrice = 40.0
-    paintPrice = 5.0
-    taxPercent = 10
+    base_price = 40.0
+    paint_price = 5.0
+    tax_percent = 10
 
-    subtotal = basePrice + (paintPrice * num_colors)
-    total = ((subtotal / taxPercent) + subtotal).ceil
+    subtotal = base_price + (paint_price * num_colors)
+    total = ((subtotal / tax_percent) + subtotal).ceil
 
     return total
 end
