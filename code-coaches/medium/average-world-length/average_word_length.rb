@@ -1,4 +1,4 @@
-def get_average_word_length(words):
+def get_average_word_length(words)
     words_number = words.length()
     total_length = 0
 
