@@ -17,5 +17,13 @@ def checkDejaVu(chars)
     end
 end
 
-chars = gets.chomp.split("")
-checkDejaVu(chars)
+
+def main
+    chars = gets.chomp.split("")
+    checkDejaVu(chars)
+end
+
+
+if __FILE__ == $0
+    main
+end

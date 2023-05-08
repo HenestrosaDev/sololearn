@@ -14,5 +14,10 @@ def check_deja_vu(chars):
         print("Unique")
 
 
-input_str = input()
-check_deja_vu(input_str)
+def main():
+    input_str = input()
+    check_deja_vu(input_str)
+
+
+if __name__ == "__main__":
+    main()
