@@ -15,95 +15,96 @@ void split(char *str, const char delim, char *out[], int *count)
     }
 }
 
-char *usToEuDate(char *usDate)
+char *get_eu_date(char *us_date)
 {
-    char *euDate = malloc(sizeof(char) * 11);
-    if (euDate == NULL)
+    char *eu_date = malloc(sizeof(char) * 11);
+    if (eu_date == NULL)
     {
         fprintf(stderr, "Memory allocation error.\n");
         return NULL;
     }
 
-    char *usDateSplit[3];
+    char *us_date_split[3];
     int count;
     char *month;
     char *day;
 
-    if (strstr(usDate, "/") != NULL)
+    if (strstr(us_date, "/") != NULL)
     {  // Check if the date is in MM/DD/YYYY format
-        split(usDate, '/', usDateSplit, &count);
-        month = usDateSplit[0];
-        day = usDateSplit[1];
+        split(us_date, '/', us_date_split, &count);
+        month = us_date_split[0];
+        day = us_date_split[1];
     }
     else
     {  // Check if the date is in Month DD, YYYY format
-        split(usDate, ' ', usDateSplit, &count);
-        char *monthStr = usDateSplit[0];
-        if (strcmp(monthStr, "January") == 0)
+        split(us_date, ' ', us_date_split, &count);
+        char *month_str = us_date_split[0];
+        if (strcmp(month_str, "January") == 0)
         {
             month = "1";
         }
-        else if (strcmp(monthStr, "February") == 0)
+        else if (strcmp(month_str, "February") == 0)
         {
             month = "2";
         }
-        else if (strcmp(monthStr, "March") == 0)
+        else if (strcmp(month_str, "March") == 0)
         {
             month = "3";
         }
-        else if (strcmp(monthStr, "April") == 0)
+        else if (strcmp(month_str, "April") == 0)
         {
             month = "4";
         }
-        else if (strcmp(monthStr, "May") == 0)
+        else if (strcmp(month_str, "May") == 0)
         {
             month = "5";
         }
-        else if (strcmp(monthStr, "June") == 0)
+        else if (strcmp(month_str, "June") == 0)
         {
             month = "6";
         }
-        else if (strcmp(monthStr, "July") == 0)
+        else if (strcmp(month_str, "July") == 0)
         {
             month = "7";
         }
-        else if (strcmp(monthStr, "August") == 0)
+        else if (strcmp(month_str, "August") == 0)
         {
             month = "8";
         }
-        else if (strcmp(monthStr, "September") == 0)
+        else if (strcmp(month_str, "September") == 0)
         {
             month = "9";
         }
-        else if (strcmp(monthStr, "October") == 0)
+        else if (strcmp(month_str, "October") == 0)
         {
             month = "10";
         }
-        else if (strcmp(monthStr, "November") == 0)
+        else if (strcmp(month_str, "November") == 0)
         {
             month = "11";
         }
-        else if (strcmp(monthStr, "December") == 0)
+        else if (strcmp(month_str, "December") == 0)
         {
             month = "12";
         }
-        day = strtok(usDateSplit[1], ",");
+        day = strtok(us_date_split[1], ",");
     }
 
-    sprintf(euDate, "%s/%s/%s", day, month, usDateSplit[count - 1]);
-    return euDate;
+    sprintf(eu_date, "%s/%s/%s", day, month, us_date_split[count - 1]);
+    return eu_date;
 }
 
 int main() {
-    char usDate[20];
-    fgets(usDate, 20, stdin);
-    usDate[strcspn(usDate, "\n")] = '\0';  // Remove the newline character
+    char us_date[20];
+    fgets(us_date, 20, stdin);
+    us_date[strcspn(us_date, "\n")] = '\0';  // Remove the newline character
 
-    char *euDate = usToEuDate(usDate);
-    if (euDate != NULL)
+    char *eu_date = get_eu_date(us_date);
+    if (eu_date != NULL)
     {
-        printf("%s\n", euDate);
-        free(euDate);
+        printf("%s\n", eu_date);
+        free(eu_date);
     }
+    
     return 0;
 }

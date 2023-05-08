@@ -13,16 +13,24 @@ month_to_num = {
     "December": "12",
 }
 
-us_date = input()
-eu_date = ""
 
-if "/" in us_date:
-    us_date_split = us_date.split("/")
-    eu_date = f"{us_date_split[1]}/{us_date_split[0]}/{us_date_split[2]}"
-else:
-    us_date_split = us_date.split(" ")
-    month = month_to_num[us_date_split[0]]
-    day = us_date_split[1][:-1]
-    eu_date = f"{day}/{month}/{us_date_split[2]}"
+def get_eu_date(us_date: str) -> str:
+    if "/" in us_date:
+        us_date_split = us_date.split("/")
+        eu_date = f"{us_date_split[1]}/{us_date_split[0]}/{us_date_split[2]}"
+    else:
+        us_date_split = us_date.split(" ")
+        month = month_to_num[us_date_split[0]]
+        day = us_date_split[1][:-1]
+        eu_date = f"{day}/{month}/{us_date_split[2]}"
 
-print(eu_date)
+    return eu_date
+
+
+def main():
+    us_date = input()
+    print(get_eu_date(us_date))
+
+
+if __name__ == "__main__":
+    main()

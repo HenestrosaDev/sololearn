@@ -14,7 +14,7 @@ void split(std::string const &str, const char delim, std::vector<std::string> &o
 	}
 }
 
-std::map<std::string, std::string> monthToNum = {
+std::map<std::string, std::string> month_to_num = {
 	{"January", "1"},
 	{"February", "2"},
 	{"March", "3"},
@@ -29,33 +29,37 @@ std::map<std::string, std::string> monthToNum = {
 	{"December", "12"},
 };
 
-int main()
+std::string get_eu_date(std::string us_date)
 {
-	std::string usDate;
-	getline(std::cin, usDate);
+    std::string eu_date;
+    std::vector<std::string> us_date_split;
 
-	std::string euDate;
-
-	if (usDate.find("/") != std::string::npos)
+	if (us_date.find("/") != std::string::npos)
 	{
-		std::vector<std::string> usDateSplit;
-		split(usDate, '/', usDateSplit);
-		euDate = usDateSplit[1] + "/" + usDateSplit[0] + "/" + usDateSplit[2];
+		split(us_date, '/', us_date_split);
+		eu_date = us_date_split[1] + "/" + us_date_split[0] + "/" + us_date_split[2];
 	}
 	else
 	{
-		std::vector<std::string> usDateSplit;
-		split(usDate, ' ', usDateSplit);
+		split(us_date, ' ', us_date_split);
 
-		std::string month = monthToNum.at(usDateSplit[0]);
+		std::string month = month_to_num.at(us_date_split[0]);
 
-		usDateSplit[1].pop_back();
-		std::string day = usDateSplit[1]; 
-		
-		euDate = day + "/" + month + "/" + usDateSplit[2];
+		us_date_split[1].pop_back();
+		std::string day = us_date_split[1];
+
+		eu_date = day + "/" + month + "/" + us_date_split[2];
 	}
 
-	std::cout << euDate;
+	return eu_date;
+}
+
+int main()
+{
+	std::string us_date;
+	getline(std::cin, us_date);
+
+	std::cout << get_eu_date(us_date);
 
 	return 0;
 }

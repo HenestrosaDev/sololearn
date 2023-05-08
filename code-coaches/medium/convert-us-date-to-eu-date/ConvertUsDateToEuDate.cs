@@ -3,25 +3,24 @@ using System.Collections.Generic;
 
 public class ConvertUsDateToEuDate
 {
-    static void Main(string[] args)
+    static Dictionary<string, string> monthToNum = new Dictionary<string, string>()
     {
-        Dictionary<string, string> monthToNum = new Dictionary<string, string>()
-        {
-            {"January", "1"},
-            {"February", "2"},
-            {"March", "3"},
-            {"April", "4"},
-            {"May", "5"},
-            {"June", "6"},
-            {"July", "7"},
-            {"August", "8"},
-            {"September", "9"},
-            {"October", "10"},
-            {"November", "11"},
-            {"December", "12"},
-        };
+        {"January", "1"},
+        {"February", "2"},
+        {"March", "3"},
+        {"April", "4"},
+        {"May", "5"},
+        {"June", "6"},
+        {"July", "7"},
+        {"August", "8"},
+        {"September", "9"},
+        {"October", "10"},
+        {"November", "11"},
+        {"December", "12"},
+    };
 
-        string usDate = Console.ReadLine();
+    static string GetEuDate(string usDate)
+    {
         string euDate = "";
 
         if (usDate.Contains("/"))
@@ -37,6 +36,12 @@ public class ConvertUsDateToEuDate
             euDate = day + "/" + month + "/" + usDateSplit[2];
         }
 
-        Console.WriteLine(euDate);
+        return euDate;
+    }
+
+    static void Main(string[] args)
+    {
+        string usDate = Console.ReadLine();
+        Console.WriteLine(GetEuDate(usDate));
     }
 }

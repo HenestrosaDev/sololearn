@@ -1,4 +1,4 @@
-monthToNum = {
+$month_to_num = {
 	"January" => "1",
 	"February" => "2",
 	"March" => "3",
@@ -13,17 +13,28 @@ monthToNum = {
 	"December" => "12",
 }
 
-usDate = gets.chomp
-euDate = ""
 
-if usDate.include? "/"
-	usDateSplit = usDate.split("/")
-	euDate = "#{usDateSplit[1]}/#{usDateSplit[0]}/#{usDateSplit[2]}"
-else
-	usDateSplit = usDate.split(" ")
-	month = monthToNum[usDateSplit[0]]
-	day = usDateSplit[1].delete_suffix!(",")
-	euDate = "#{day}/#{month}/#{usDateSplit[2]}"
+def get_eu_date(us_date)
+    if us_date.include? "/"
+        us_date_split = us_date.split("/")
+        eu_date = "#{us_date_split[1]}/#{us_date_split[0]}/#{us_date_split[2]}"
+    else
+        us_date_split = us_date.split(" ")
+        month = $month_to_num[us_date_split[0]]
+        day = us_date_split[1].delete_suffix!(",")
+        eu_date = "#{day}/#{month}/#{us_date_split[2]}"
+    end
+
+    return eu_date
 end
 
-puts euDate
+
+def main
+    us_date = gets.chomp
+    puts get_eu_date(us_date)
+end
+
+
+if __FILE__ == $0
+    main
+end

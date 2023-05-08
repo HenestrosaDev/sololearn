@@ -13,26 +13,25 @@ let monthToNum = [
 	"December": "12",
 ]
 
+func getEuDate(usDate: String) -> String {
+    var euDate: String!
+
+    if usDate.contains("/") {
+        let usDateSplit = usDate.split(separator: "/")
+        euDate = "\(usDateSplit[1])/\(usDateSplit[0])/\(usDateSplit[2])"
+    } else {
+        let usDateSplit = usDate.split(separator: " ")
+        let month = monthToNum[String(usDateSplit[0])]!
+        let day = usDateSplit[1].dropLast()
+        euDate = "\(day)/\(month)/\(usDateSplit[2])"
+    }
+
+    return euDate
+}
+
 func main() {
 	if let usDate = readLine() {
-		var euDate: String!
-		
-		if usDate.contains("/") {
-			let usDateSplit = usDate.split(separator: "/")
-			euDate = "\(usDateSplit[1])/\(usDateSplit[0])/\(usDateSplit[2])"
-		} else {
-			let usDateSplit = usDate.split(separator: " ")
-			guard let month = monthToNum[String(usDateSplit[0])] else { return }
-			let day = usDateSplit[1].dropLast()
-			euDate = "\(day)/\(month)/\(usDateSplit[2])"
-		}
-		
-		guard let safeEuDate = euDate else { 
-			print("Invalid euDate")
-			return 
-		}
-
-		print(safeEuDate)
+		print(getEuDate(usDate: usDate))
 	}
 }
 
