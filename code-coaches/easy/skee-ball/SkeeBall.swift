@@ -1,4 +1,4 @@
-func canBuySquirtGun(score: Int, squirtGunPrice: Int) -> String {
+func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> String {
     let ratio = 12
 	let tickets = score / ratio
 
@@ -15,7 +15,7 @@ func main() {
 		let input2 = readLine(),
 		let squirtGunPrice = Int(input2)
     {
-        print(canBuySquirtGun(score, squirtGunPrice))
+        print(canBuySquirtGun(with: score, squirtGunPrice: squirtGunPrice))
     }
 }
 
