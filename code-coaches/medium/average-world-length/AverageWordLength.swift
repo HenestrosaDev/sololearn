@@ -1,4 +1,4 @@
-func getAverageWordLength(words: [String]): Int {
+func getAverageWordLength(of words: [String]): Int {
     var wordsNumber = words.count
 	var totalLength = 0.0
 
@@ -19,7 +19,7 @@ func getAverageWordLength(words: [String]): Int {
 func main() {
     if let words = readLine() {
 	    let wordsSplit = words.split(separator: " ")
-	    print(getAverageWordLength(wordsSplit))
+	    print(getAverageWordLength(of: wordsSplit))
     }
 }
 
