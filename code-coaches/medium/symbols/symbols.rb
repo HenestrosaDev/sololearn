@@ -1,10 +1,15 @@
-encodedChars = gets.chomp.split('')
-decoded = ""
-
-encodedChars.each do |char|
-	if char.match(/^[[:alnum:]]$/) || char.match(/^[[:space:]]$/)
-		decoded += char
-	end
+def remove_symbols(encoded)
+    # symbols: a char that is not alphanumeric or a space
+    encoded.gsub(/[^[:alnum:][:space:]]/, '')
 end
 
-puts decoded
+
+def main
+    encoded = gets.chomp
+    puts remove_symbols(encoded)
+end
+
+
+if __FILE__ == $0
+    main
+end
