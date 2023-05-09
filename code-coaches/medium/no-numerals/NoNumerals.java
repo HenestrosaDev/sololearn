@@ -6,35 +6,27 @@ import java.util.HashMap;
 
 public class NoNumerals {
 
+    public static String replaceNumbersWithWords(String phrase) {
+        String[] numberWords = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
+
+        String[] words = phrase.split(" ");
+        String[] updatedWords = new String[words.length];
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].matches("\\d+") && Integer.parseInt(words[i]) <= 10) {
+                updatedWords[i] = numberWords[Integer.parseInt(words[i])];
+            } else {
+                updatedWords[i] = words[i];
+            }
+        }
+
+        return String.join(" ", updatedWords);
+    }
+
 	public static void main(String[] args) {
-		Map<String, String> numsToWord = new HashMap<String, String>() {
-			{
-				put("0", "zero");
-				put("1", "one");
-				put("2", "two");
-				put("3", "three");
-				put("4", "four");
-				put("5", "five");
-				put("6", "six");
-				put("7", "seven");
-				put("8", "eight");
-				put("9", "nine");
-				put("10", "ten");
-			}
-		};
-
 		Scanner input = new Scanner(System.in);
-		String text = input.nextLine();
+		String sentence = input.nextLine();
 
-		Pattern p = Pattern.compile("\\b\\d+\\b");
-		Matcher m = p.matcher(text);
-		while (m.find()) {
-			if (numsToWord.containsKey(m.group(0))) {
-				text = text.replace(m.group(0), numsToWord.get(m.group(0)));
-			}
-		}
-
-		System.out.println(text);
+		System.out.println(replaceNumbersWithWords(sentence));
 
 		input.close();
 	}

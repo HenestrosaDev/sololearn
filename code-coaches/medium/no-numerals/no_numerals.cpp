@@ -1,106 +1,46 @@
-// NOT OPERATIVE YET
-
-/*
-	To check:
-	- https://www.delftstack.com/howto/cpp/cpp-map-check-if-key-exists/#:~:text=l%20Key%20Exists!-,Use%20the%20std%3A%3Amap%3A%3Acontains%20Function%20to%20Check,key%20exists%20in%20the%20object.
-	- https://stackoverflow.com/questions/42172674/performing-a-regex-search-and-replace-on-a-stdstring
-	- https://stackoverflow.com/questions/3418231/replace-part-of-a-string-with-another-string
-	- https://stackoverflow.com/questions/23620861/how-to-iterate-all-regex-matches-in-a-stdstring-with-their-starting-positions
-*/
-/*
 #include <iostream>
-#include <regex>
+#include <string>
 #include <map>
-using namespace std;
+
+std::string replace_numbers_with_words(std::string sentence)
+{
+    std::map<int, std::string> num_to_word = {
+        {0, "zero"}, {1, "one"}, {2, "two"}, {3, "three"}, {4, "four"},
+        {5, "five"}, {6, "six"}, {7, "seven"}, {8, "eight"}, {9, "nine"},
+        {10, "ten"}
+    };
+
+    for (int i = 0; i < sentence.length(); i++)
+    {
+        if (std::isdigit(sentence[i]))
+        {
+            int num = sentence[i] - '0';
+            i++;
+
+            // Check if there are additional digits that form a multi-digit number
+            while (i < sentence.length() && std::isdigit(sentence[i])) {
+                num = num * 10 + (sentence[i] - '0');
+                i++;
+            }
+
+            // Replace the number with its English word form if it's between 0 and 10
+            if (num >= 0 && num <= 10)
+            {
+                sentence.replace(i - std::to_string(num).length(), std::to_string(num).length(), num_to_word[num]);
+                i += num_to_word[num].length() - std::to_string(num).length();
+            }
+        }
+    }
+
+    return sentence;
+}
 
 int main()
 {
-	// non-const iterator (all the stdlib default instantiations use const)
-	using strmatch = std::match_results<std::string::iterator>;
+    std::string sentence;
+    std::getline(std::cin, sentence);
 
-	map<string, string> numsToWord = {
-		{"0", "zero"},
-		{"1", "one"},
-		{"2", "two"},
-		{"3", "three"},
-		{"4", "four"},
-		{"5", "five"},
-		{"6", "six"},
-		{"7", "seven"},
-		{"8", "eight"},
-		{"9", "nine"},
-		{"10", "ten"},
-	};
+    std::cout << replace_numbers_with_words(sentence);
 
-	string text;
-	getline(cin, text);
-
-	regex exp(R"(\b\d+\b)");
-	strmatch res;
-
-	auto begin = text.begin();
-	auto end = text.end();
-
-	while (regex_search(begin, end, res, exp))
-	{
-		//cout << "Number: " << res.str() << " | Position: " << res.position() << " | Length: " << res[0].length() << endl;
-		//cout << "numsToWord: " << numsToWord.at(res[0]) << endl;
-		//if (numsToWord.find(res[0]) != numsToWord.end())
-		//{
-			text.replace(res.position(), res[0].length(), numsToWord.at(res[0]));
-		//}
-		//cout << text << endl;
-		//cout << "--------------------" << endl;
-
-		begin += res.position() + res.length();
-		end += res.length();
-	}
-
-	cout << text;
-
-	return 0;
+    return 0;
 }
-*/
-
-/* //SECOND APPROACH
-#include <iostream>
-#include <regex>
-#include <map>
-using namespace std;
-
-int main()
-{
-  map<string, string> numsToWord = {
-    {"0", "zero"},
-    {"1", "one"},
-    {"2", "two"},
-    {"3", "three"},
-    {"4", "four"},
-    {"5", "five"},
-    {"6", "six"},
-    {"7", "seven"},
-    {"8", "eight"},
-    {"9", "nine"},
-    {"10", "ten"},
-  };
-
-  string text;
-  getline(cin, text);
-
-  std::regex exp(R"(\b\d+\b)");
-
-  for (
-    std::sregex_iterator i = std::sregex_iterator(text.begin(), text.end(), exp);
-    i != std::sregex_iterator();
-    ++i
-  ) {
-    std::smatch m = *i;
-    text.replace(m.position(), m.str().length(), numsToWord.at(m.str()));
-    //std::cout << m.str().length() << " at position " << ;
-  }
-
-  cout << text;
-
-  return 0;
-}
-*/

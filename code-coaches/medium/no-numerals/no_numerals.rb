@@ -1,22 +1,25 @@
-numsToWord = {
-	"0" => "zero",
-	"1" => "one",
-	"2" => "two",
-	"3" => "three",
-	"4" => "four",
-	"5" => "five",
-	"6" => "six",
-	"7" => "seven",
-	"8" => "eight",
-	"9" => "nine",
-	"10" => "ten",
-}
+def replace_numbers_with_words(sentence)
+    number_words = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]
 
-text = gets.chomp
-text.scan(/\b\d+\b/) do |match|
-	if (numsToWord.has_key?(match))
-		text = text.sub match, numsToWord[match]
-	end
+    words = sentence.split
+    updated_words = words.map do |word|
+        if word.to_i.to_s == word && word.to_i <= 10
+            number_words[word.to_i]
+        else
+            word
+        end
+    end
+
+    updated_words.join(" ")
 end
 
-puts text
+
+def main
+    sentence = gets.chomp
+    puts replace_numbers_with_words(sentence)
+end
+
+
+if __FILE__ == $0
+    main
+end
