@@ -1,11 +1,20 @@
-def backWard_char(char):
-  if char.isalpha():
-    ascii_low_a = 97
-    ascii_low_z = 122
-    return chr(ascii_low_z - ord(char.lower()) + ascii_low_a)
-  return char
+def reverse_char(char: str) -> str:
+    if char.isalpha():
+        ascii_lowercase_a = 97
+        ascii_lowercase_z = 122
+        return chr(ascii_lowercase_z - ord(char.lower()) + ascii_lowercase_a)
 
-text = input()
-text_inverted_ascii = ''.join(map(backWard_char, text))
+    return char
 
-print(text_inverted_ascii)
+
+def encode_message(message: str) -> str:
+    return "".join(map(reverse_char, message))
+
+
+def main():
+    message = input()
+    print(encode_message(message))
+
+
+if __name__ == "__main__":
+    main()

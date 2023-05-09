@@ -2,22 +2,27 @@ import java.util.Scanner;
 
 public class SecretMessage {
 
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		String text = input.nextLine();
-		String textInvertedAscii = "";
+    public static String encodeMessage(String message) {
+        String textInvertedAscii = "";
+        int asciiLowercaseA = 97;
+        int asciiLowercaseZ = 122;
 
-		for (char c : text.toCharArray()) {
-			if (Character.isLetter(c)) {
-				int asciiLowA = 97;
-				int asciiLowZ = 122;
-				textInvertedAscii += Character.toString(asciiLowZ - (int) Character.toLowerCase(c) + asciiLowA);
+		for (char character : message.toCharArray()) {
+			if (Character.isLetter(character)) {
+				textInvertedAscii += Character.toString(asciiLowercaseZ - (int) Character.toLowerCase(character) + asciiLowercaseA);
 			} else {
-				textInvertedAscii += c;
+				textInvertedAscii += character;
 			}
 		}
 
-		System.out.println(textInvertedAscii);
+		return textInvertedAscii;
+    }
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String message = input.nextLine();
+
+		System.out.println(encodeMessage(message));
 
 		input.close();
 	}

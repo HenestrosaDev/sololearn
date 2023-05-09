@@ -1,16 +1,25 @@
-def backWardChar(char)
-  if char.match(/^[[:alpha:]]$/)
-    asciiLowA = 97
-    asciiLowZ = 122
-    return (asciiLowZ - char.downcase.ord + asciiLowA).chr
+def reverse_char(char)
+  if char.match?(/[a-zA-Z]/)
+    ascii_lowercase_a = 97
+    ascii_lowercase_z = 122
+    return (ascii_lowercase_z - char.downcase.ord + ascii_lowercase_a).chr
   end
 
-  return char
+  char
 end
 
-# Can be improved
-text = gets.chomp
-textInvertedAscii = ""
-text.each_char { |c| textInvertedAscii += backWardChar(c) }
 
-puts textInvertedAscii
+def encode_message(message)
+  message.chars.map { |char| reverse_char(char) }.join
+end
+
+
+def main
+  message = gets.chomp
+  puts encode_message(message)
+end
+
+
+if __FILE__ == $0
+  main
+end
