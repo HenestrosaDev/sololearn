@@ -1,6 +1,6 @@
 #include <iostream>
 
-void reverseStr(std::string &str)
+void reverse_string(std::string &str)
 {
 	int n = str.length();
 
@@ -11,22 +11,27 @@ void reverseStr(std::string &str)
 	}
 }
 
-int main()
+std::string decode_message(std::string message)
 {
-	std::string encoded;
-	getline(std::cin, encoded);
-
-	std::string decoded;
-	for (auto &ch : encoded)
+    std::string decoded_message;
+	for (auto &ch : message)
 	{
 		if (isspace(ch) || isalpha(ch))
 		{
-			decoded += ch;
+			decoded_message += ch;
 		}
 	}
 
-	reverseStr(decoded);
-	std::cout << decoded;
+	reverse_string(decoded_message);
+	return decoded_message;
+}
+
+int main()
+{
+	std::string message;
+	getline(std::cin, message);
+
+	std::cout << decode_message(message);
 
 	return 0;
 }

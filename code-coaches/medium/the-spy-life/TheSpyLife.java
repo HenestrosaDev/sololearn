@@ -2,19 +2,24 @@ import java.util.Scanner;
 
 public class TheSpyLife {
 
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		String encoded = input.nextLine();
-		String decoded = "";
+    public static String decodeMessage(String message) {
+        StringBuilder decodedMessage = new StringBuilder();
 
-		for (char c : encoded.toCharArray()) {
+		for (char c : message.toCharArray()) {
 			if (Character.isLetter(c) || Character.isWhitespace(c)) {
-				decoded += c;
+				decodedMessage.append(c);
 			}
 		}
 
-		decoded = new StringBuilder(decoded).reverse().toString();
-		System.out.println(decoded);
+		String flippedDecodedMessage = new StringBuilder(decodedMessage).reverse().toString();
+		return flippedDecodedMessage;
+    }
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String encodedMessage = input.nextLine();
+
+		System.out.println(decodeMessage(encodedMessage));
 
 		input.close();
 	}
