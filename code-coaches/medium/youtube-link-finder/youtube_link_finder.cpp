@@ -1,29 +1,32 @@
 #include <iostream>
 #include <regex>
 
-int main()
+std::string extract_video_id(std::string url)
 {
-	std::string link;
-	std::cin >> link;
-
-	std::regex exp("[\\/=][\\w-]{11}");
+    std::regex exp("[\\/=][\\w-]{11}");
 	std::smatch res;
 	std::string id = "";
 
-	std::string::const_iterator searchStart(link.cbegin());
-	while (regex_search(searchStart, link.cend(), res, exp))
+	std::string::const_iterator search_start(url.cbegin());
+	while (regex_search(search_start, url.cend(), res, exp))
 	{
-		id += (searchStart == link.cbegin() ? "" : " ");
+		id += (search_start == url.cbegin() ? "" : " ");
 		id += res[0];
-		//searchStart = res.suffix().first;
 
 		// we break out in the first iteration because the id goes before any parameter
 		break;
 	}
 
-	// erase(0, 1) removes the first character of the string, which is / or =
-	id = id.erase(0, 1);
-	std::cout << id;
+	id = id.erase(0, 1); // erase(0, 1) removes the first character of the string, which is / or =
+	return id;
+}
+
+int main()
+{
+	std::string url;
+	std::cin >> url;
+
+	std::cout << extract_video_id(url);
 
 	return 0;
 }

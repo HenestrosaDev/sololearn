@@ -1,28 +1,33 @@
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.List;
-import java.util.ArrayList;
 
 public class YouTubeLinkFinder {
 
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		String link = input.nextLine();
+    public static String extractVideoId(String url) throws IllegalArgumentException {
+        if (url.contains("youtube.com/watch")) {
+            String[] parts = url.split("v=");
+            if (parts.length == 2) {
+                return parts[1];
+            }
+        } else if (url.contains("youtu.be/")) {
+            String[] parts = url.split("/");
+            if (parts.length > 0) {
+                return parts[parts.length - 1];
+            }
+        }
+        throw new IllegalArgumentException("Invalid YouTube video URL");
+    }
 
-		List<String> allMatches = new ArrayList<String>();
-		Matcher m = Pattern.compile("[\\/=][\\w-]{11}").matcher(link);
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String url = scanner.nextLine();
 
-		while (m.find()) {
-			allMatches.add(m.group());
-		}
+        try {
+            String videoId = extractVideoId(url);
+            System.out.println(videoId);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error: " + e.getMessage());
+        }
 
-		// we take the first match because the id goes before any parameter.
-		// substring(1) removes the first character of the string, which is / or =
-		String id = allMatches.get(0).substring(1);
-		System.out.println(id);
-
-		input.close();
-	}
-
+        scanner.close();
+    }
 }

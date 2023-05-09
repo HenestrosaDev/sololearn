@@ -1,6 +1,22 @@
-link = gets.chomp
-# we take the first match because the id goes before any parameter
-unfilteredId = link.scan(/[\/=][\w-]{11}/)[0]
-# [1..-1] removes the first character of the string, which is / or =
-filteredId = unfilteredId[1..-1]
-puts filteredId
+def extract_video_id(url)
+    if url.include?("youtube.com/watch")
+        video_id = url.split("v=").last
+    elsif url.include?("youtu.be/")
+        video_id = url.split("/").last
+    else
+        raise ArgumentError, "Invalid YouTube video URL"
+    end
+
+    video_id
+end
+
+
+def main
+    url = gets.chomp
+    puts extract_video_id(url)
+end
+
+
+if __FILE__ == $0
+    main
+end
