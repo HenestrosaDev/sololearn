@@ -1,24 +1,28 @@
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 public class ThatsOdd {
 
+    public static int sumEvenNumbers(int[] numbers) {
+        int sum = 0;
+        for (int i = 0; i < numbers.length; i++) {
+            if (numbers[i] % 2 == 0) {
+                sum += numbers[i];
+            }
+        }
+        return sum;
+    }
+
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		int length = input.nextInt();
-		int[] numbers = new int[length];
+		Scanner scanner = new Scanner(System.in);
+        int numbersNum = scanner.nextInt();
+        int[] numbers = new int[numbersNum];
 
-		for (int i = 0; i < length; i++) {
-			int number = input.nextInt();
-			if (number % 2 == 0) {
-				numbers[i] = number;
-			}
-		}
+        for (int i = 0; i < numbersNum; i++) {
+            numbers[i] = scanner.nextInt();
+        }
+        scanner.close();
 
-		int sum = IntStream.of(numbers).sum();
-		System.out.println(sum);
-
-		input.close();
+        System.out.println(sumEvenNumbers(numbers));
 	}
 
 }

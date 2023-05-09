@@ -1,9 +1,15 @@
-length = int(input())
-numbers = []
+def sum_even_numbers(numbers: list[int]) -> int:
+    return sum(num for num in numbers if num % 2 == 0)
 
-for i in range(length):
-	number = int(input())
-	if number % 2 == 0:
-		numbers.append(number)
 
-print(sum(numbers))
+def main():
+    numbers_num = int(input())
+    numbers = []
+    for i in range(numbers_num):
+        numbers.append(int(input()))
+
+    print(sum_even_numbers(numbers))
+
+
+if __name__ == "__main__":
+    main()

@@ -1,11 +1,16 @@
-length = gets.chomp.to_i
-numbers = []
-
-(0...length).each do |i|
-	number = gets.chomp.to_i
-	if (number % 2 == 0)
-		numbers.append(number)
-	end
+def sum_even_numbers(numbers)
+    numbers.select { |num| num.even? }.sum
 end
 
-puts numbers.sum
+def main()
+    numbers_num = gets.to_i
+    numbers = []
+    numbers_num.times { numbers << gets.to_i }
+
+    puts sum_even_numbers(numbers)
+end
+
+
+if __FILE__ == $0
+    main
+end
