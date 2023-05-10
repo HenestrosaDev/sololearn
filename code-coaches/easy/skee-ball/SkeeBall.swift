@@ -1,4 +1,4 @@
-func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> Boolean {
+func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> Bool {
     let ratio = 12
 	let tickets = score / ratio
 	return tickets >= squirtGunPrice
