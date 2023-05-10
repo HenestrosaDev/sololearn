@@ -1,4 +1,50 @@
 #include <iostream>
+#include <string>
+#include <vector>
+
+bool is_money_safe(const std::string& layout)
+{
+    // Find the indices of the money, thief, and guards on the casino floor
+    auto money_index = layout.find('$');
+    auto thief_index = layout.find('T');
+
+    std::vector<int> guard_indices;
+    for (int i = 0; i < layout.size(); ++i)
+    {
+        if (layout[i] == 'G')
+            guard_indices.push_back(i);
+    }
+
+    // Check if there is a guard between the money and the thief
+    for (auto guard_index : guard_indices)
+    {
+        if (std::min(money_index, thief_index) < guard_index && guard_index < std::max(money_index, thief_index))
+        {
+            // Found a guard between the money and the thief
+            return true;
+        }
+    }
+
+    // No guard found between the money and the thief
+    return false;
+}
+
+int main() {
+    std::string layout;
+    std::cin >> layout;
+
+    if (is_money_safe(layout))
+        std::cout << "quiet";
+    else
+        std::cout << "ALARM";
+
+    return 0;
+}
+
+
+// ALTERNATIVE VERSION:
+/*
+#include <iostream>
 #include <regex>
 
 template <typename C, typename T>
@@ -73,3 +119,4 @@ int main()
 
 	return 0;
 }
+*/

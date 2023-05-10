@@ -1,5 +1,43 @@
 import java.util.Scanner;
 
+public class CasinoSecurity {
+
+    public static boolean isMoneySafe(String layout) {
+        int moneyIndex = layout.indexOf('$');
+        int thiefIndex = layout.indexOf('T');
+
+        for (int i = 0; i < layout.length(); i++) {
+            if (layout.charAt(i) == 'G' && (i < moneyIndex && i > thiefIndex || i > moneyIndex && i < thiefIndex)) {
+                // Found a guard between the money and the thief
+                return true;
+            }
+        }
+
+        // No guard found between the money and the thief
+        return false;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String layout = scanner.nextLine();
+
+        if (isMoneySafe(layout)) {
+            System.out.println("quiet");
+        } else {
+            System.out.println("ALARM");
+        }
+
+        scanner.close();
+    }
+
+}
+
+
+
+// ALTERNATIVE VERSION
+/*
+import java.util.Scanner;
+
 public class Security {
 
 	public static void main(String[] args) {
@@ -46,3 +84,4 @@ public class Security {
 	}
 
 }
+*/
