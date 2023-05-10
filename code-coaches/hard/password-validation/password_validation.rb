@@ -8,11 +8,8 @@ end
 
 
 def main
-    # Get password input from user
-    print "Enter your password: "
     password = gets.chomp
 
-    # Check if the password is strong or weak and print the result
     if is_password_strong(password)
         puts "Strong"
     else
