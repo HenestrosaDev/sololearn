@@ -1,21 +1,18 @@
-func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> String {
+func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> Boolean {
     let ratio = 12
 	let tickets = score / ratio
-
-	if tickets >= squirtGunPrice {
-		return "Buy it!"
-	} else {
-		return "Try again"
-	}
+	return tickets >= squirtGunPrice
 }
 
 func main() {
-    if let input1 = readLine(),
-		let score = Int(input1),
-		let input2 = readLine(),
-		let squirtGunPrice = Int(input2)
+    if let input1 = readLine(), let score = Int(input1),
+		let input2 = readLine(), let squirtGunPrice = Int(input2)
     {
-        print(canBuySquirtGun(with: score, squirtGunPrice: squirtGunPrice))
+        if canBuySquirtGun(with: score, squirtGunPrice: squirtGunPrice) {
+            print("Buy it!")
+        } else {
+            print("Try again")
+        }
     }
 }
 

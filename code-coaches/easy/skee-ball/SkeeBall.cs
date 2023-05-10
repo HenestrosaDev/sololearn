@@ -2,15 +2,11 @@ using System;
 
 public class SkeeBall
 {
-    public static string CanBuySquirtGun(int score, int squirtGunPrice)
+    public static bool CanBuySquirtGun(int score, int squirtGunPrice)
     {
         int ratio = 12; // 12 points = 1 ticket
 		int tickets = score / ratio;
-
-		if (tickets >= squirtGunPrice)
-			return "Buy it!";
-		else
-			return "Try again";
+		return tickets >= squirtGunPrice;
     }
 
 	public static void Main()
@@ -18,6 +14,9 @@ public class SkeeBall
 		int score = Convert.ToInt32(Console.ReadLine());
 		int squirtGunPrice = Convert.ToInt32(Console.ReadLine());
 
-		Console.WriteLine(CanBuySquirtGun(score, squirtGunPrice));
+        if (CanBuySquirtGun(score, squirtGunPrice))
+            Console.WriteLine("Buy it!");
+		else
+			Console.WriteLine("Try again");
 	}
 }

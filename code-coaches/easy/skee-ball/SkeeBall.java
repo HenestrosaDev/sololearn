@@ -2,14 +2,10 @@ import java.util.Scanner;
 
 public class SkeeBall {
 
-    public static String canBuySquirtGun(int score, int squirtGunPrice) {
+    public static boolean canBuySquirtGun(int score, int squirtGunPrice) {
         int ratio = 12; // 12 points = 1 ticket
 		int tickets = score / ratio;
-
-		if (tickets >= squirtGunPrice)
-			return "Buy it!";
-		else
-			return "Try again";
+		return tickets >= squirtGunPrice;
     }
 
 	public static void main(String[] args) {
@@ -17,7 +13,11 @@ public class SkeeBall {
 		int score = input.nextInt();
 		int squirtGunPrice = input.nextInt();
 
-        System.out.print(canBuySquirtGun(score, squirtGunPrice));
+        if (canBuySquirtGun(score, squirtGunPrice)) {
+            System.out.print("Buy it!");
+        } else {
+            System.out.print("Try again");
+        }
 
 		input.close();
 	}
