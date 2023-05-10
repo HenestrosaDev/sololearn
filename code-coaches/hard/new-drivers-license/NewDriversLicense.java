@@ -1,36 +1,25 @@
-import java.util.Scanner;
-import java.util.Arrays;
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.*;
 
-public class NewDriversLicense {
-	
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+class NewDriversLicense {
 
-		int timeForLicense = 20;
-		String myName = input.nextLine();
-		int agents = input.nextInt();
+    public static int getWaitingTime(String myName, int numAgents, List<String> customers) {
+        int timeForLicense = 20;
+        int positionInQueue = customers.indexOf(myName) + 1;
+        int waitingTime = (int) Math.ceil((double) positionInQueue / numAgents) * timeForLicense;
+        return waitingTime;
+    }
 
-		input.nextLine();
-		String[] people = input.nextLine().split(" ");
-		ArrayList<String> peopleList = new ArrayList<>(Arrays.asList(people));
-		peopleList.add(myName);
-		Collections.sort(peopleList);
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-		int idx = 0;
-		for (String person : peopleList) {
-			if (person.equals(myName)) {
-				int positionInQueue = (int) Math.ceil((double) (idx + 1) / agents);
-				int waitingTime = positionInQueue * timeForLicense;
-				System.out.println(waitingTime);
-				break;
-			} 
-			
-			idx++;
-		}
+        String myName = scanner.nextLine();
+        int numAgents = Integer.parseInt(scanner.nextLine());
+        List<String> customers = new ArrayList<>(Arrays.asList(scanner.nextLine().split(" ")));
 
-		input.close();
-	}
+        customers.add(myName);
+        Collections.sort(customers);
+        System.out.println(getWaitingTime(myName, numAgents, customers));
 
+        scanner.close();
+    }
 }
