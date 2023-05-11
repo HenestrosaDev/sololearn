@@ -32,7 +32,7 @@ class Security
         return false;
     }
 
-    static void Main()
+    static void Main(string[] args)
     {
         string layout = Console.ReadLine();
 

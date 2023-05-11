@@ -1,6 +1,7 @@
 using System;
 
-public class DejaVu {
+public class DejaVu
+{
     static void CheckDejaVu(string chars)
     {
         char previousChar = ' ';
@@ -28,7 +29,8 @@ public class DejaVu {
         }
     }
 
-    public static void Main(string[] args) {
+    static void Main(string[] args)
+    {
         string chars = Console.ReadLine();
         CheckDejaVu(chars);
     }

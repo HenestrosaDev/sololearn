@@ -2,7 +2,7 @@ using System;
 
 class Symbols
 {
-	public static string RemoveSymbols(string encoded)
+	static string RemoveSymbols(string encoded)
 	{
 	    // symbols: a char that is not alphanumeric or a space
 	    string decoded = "";
@@ -16,7 +16,7 @@ class Symbols
 		return decoded;
 	}
 
-	public static void Main()
+	static void Main(string[] args)
 	{
 		string encoded = Console.ReadLine();
 		Console.WriteLine(RemoveSymbols(encoded));

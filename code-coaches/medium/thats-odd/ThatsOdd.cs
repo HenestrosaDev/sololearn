@@ -2,7 +2,8 @@ using System;
 
 class ThatsOdd
 {
-    public static int SumEvenNumbers(int[] numbers) {
+     static int SumEvenNumbers(int[] numbers)
+     {
         int sum = 0;
 
         foreach (int num in numbers)
@@ -14,7 +15,7 @@ class ThatsOdd
         return sum;
     }
 
-    public static void Main (string[] args)
+    static void Main (string[] args)
     {
         int numbersNum = int.Parse(Console.ReadLine());
         int[] numbers = new int[numbersNum];

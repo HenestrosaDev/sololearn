@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-class AverageWorldLength
+class NoNumerals
 {
     static string ReplaceNumbersWithWords(string sentence)
     {

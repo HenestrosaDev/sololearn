@@ -1,7 +1,7 @@
 using System;
 
-public class Program {
-
+public class MilitaryTime
+{
     public static string ConvertFrom12hTo24h(string time12h) {
         int hours, minutes;
         string amPm;
@@ -21,9 +21,9 @@ public class Program {
         return string.Format("{0:D2}:{1:D2}", hours, minutes);
     }
 
-	public static void Main() {
+	static void Main(string[] args)
+	{
         string time12h = Console.ReadLine();
 		Console.WriteLine(ConvertFrom12hTo24h(time12h));
 	}
-
 }

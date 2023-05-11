@@ -23,7 +23,7 @@ class YouTubeLinkFinder
         throw new ArgumentException("Invalid YouTube video URL");
     }
 
-    static void Main()
+    static void Main(string[] args)
     {
         string url = Console.ReadLine();
         string videoId = ExtractVideoId(url);

@@ -2,7 +2,7 @@ using System;
 
 public class SecretMessage
 {
-    public static string EncodeMessage(string message)
+    static string EncodeMessage(string message)
     {
         string textInvertedAscii = "";
         int asciiLowercaseA = 97;
@@ -19,7 +19,7 @@ public class SecretMessage
 		return textInvertedAscii;
     }
 
-	public static void Main()
+	static void Main(string[] args)
 	{
 		string message = Console.ReadLine();
 		Console.WriteLine(EncodeMessage(message));

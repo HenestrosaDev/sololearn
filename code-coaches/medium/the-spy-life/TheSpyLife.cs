@@ -18,7 +18,7 @@ class TheSpyLife
 		return flippedDecodedMessage;
     }
 
-	static void Main()
+	static void Main(string[] args)
 	{
 		string encodedMessage = Console.ReadLine();
 		Console.WriteLine(DecodeMessage(encodedMessage));

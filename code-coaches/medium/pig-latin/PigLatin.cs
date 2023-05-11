@@ -1,28 +1,25 @@
 using System;
 
-namespace PigLatin
+public class PigLatin
 {
-    class Program
+    static string ToPigLatin(string sentence)
     {
-        static string ToPigLatin(string sentence)
+        string[] words = sentence.Split(' ');
+        string result = "";
+
+        foreach (string word in words)
         {
-            string[] words = sentence.Split(' ');
-            string result = "";
-
-            foreach (string word in words)
-            {
-                string firstLetter = word.Substring(0, 1);
-                string restOfWord = word.Substring(1);
-                result += restOfWord + firstLetter + "ay ";
-            }
-
-            return result.Trim();
+            string firstLetter = word.Substring(0, 1);
+            string restOfWord = word.Substring(1);
+            result += restOfWord + firstLetter + "ay ";
         }
 
-        static void Main()
-        {
-            string sentence = Console.ReadLine();
-            Console.WriteLine(ToPigLatin(sentence));
-        }
+        return result.Trim();
+    }
+
+    static void Main(string[] args)
+    {
+        string sentence = Console.ReadLine();
+        Console.WriteLine(ToPigLatin(sentence));
     }
 }
