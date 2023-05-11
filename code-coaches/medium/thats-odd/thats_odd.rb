@@ -2,7 +2,7 @@ def sum_even_numbers(numbers)
   numbers.select { |num| num.even? }.sum
 end
 
-def main()
+def main
   numbers_num = gets.to_i
   numbers = []
   numbers_num.times { numbers << gets.to_i }
