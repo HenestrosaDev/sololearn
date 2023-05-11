@@ -8,17 +8,14 @@ def reverse_char(char)
   char
 end
 
-
 def encode_message(message)
   message.chars.map { |char| reverse_char(char) }.join
 end
-
 
 def main
   message = gets.chomp
   puts encode_message(message)
 end
-
 
 if __FILE__ == $0
   main

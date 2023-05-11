@@ -1,27 +1,25 @@
 def is_money_safe(layout)
-    # Find the indices of the money, thief, and guards on the casino floor
-    money_index = layout.index("$")
-    thief_index = layout.index("T")
-    guard_indices = layout.chars.each_index.select { |i| layout[i] == "G" }
+  # Find the indices of the money, thief, and guards on the casino floor
+  money_index = layout.index("$")
+  thief_index = layout.index("T")
+  guard_indices = layout.chars.each_index.select { |i| layout[i] == "G" }
 
-    # Check if there is a guard between the money and the thief
-    return guard_indices.any? { |i| i > [money_index, thief_index].min && i < [money_index, thief_index].max }
+  # Check if there is a guard between the money and the thief
+  guard_indices.any? { |i| i > [money_index, thief_index].min && i < [money_index, thief_index].max }
 end
-
 
 def main
-    layout = gets.chomp
+  layout = gets.chomp
 
-    if is_money_safe(layout)
-        puts "quiet"
-    else
-        puts "ALARM"
-    end
+  if is_money_safe(layout)
+    puts "quiet"
+  else
+    puts "ALARM"
+  end
 end
 
-
 if __FILE__ == $0
-    main
+  main
 end
 
 
