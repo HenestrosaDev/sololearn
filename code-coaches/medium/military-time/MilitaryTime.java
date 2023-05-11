@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program {
+public class MilitaryTime {
 
     public static String convertFrom12hTo24h(String time12h) {
         int hours, minutes;
