@@ -1,8 +1,9 @@
 using System;
 
-class Candles
+public class Candles
 {
-	public static void Main(string[] args) {
+	static void Main(string[] args)
+	{
 		int numFriends = int.Parse(Console.ReadLine());
 		int candlesPerPerson = 9;
 		// + candlesPerPerson because we order 9 candles, independently of the number of friends

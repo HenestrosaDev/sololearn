@@ -1,6 +1,6 @@
 using System;
 
-class Symbols
+public class Symbols
 {
 	static string RemoveSymbols(string encoded)
 	{

@@ -1,6 +1,6 @@
 using System;
 
-class YouTubeLinkFinder
+public class YouTubeLinkFinder
 {
     static string ExtractVideoId(string url)
     {

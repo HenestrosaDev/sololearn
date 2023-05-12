@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-class CheerCreator
+public class CheerCreator
 {
     static string GetCheer(string[] args)
     {
@@ -28,7 +28,6 @@ class CheerCreator
     static void Main(string[] args)
     {
         int yards = int.Parse(Console.ReadLine());
-
         Console.WriteLine(GetCheer(yards));
     }
 }

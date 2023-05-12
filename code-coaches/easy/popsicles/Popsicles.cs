@@ -2,7 +2,7 @@ using System;
 
 public class Popsicles
 {
-    public static string DistributePopsicles(int popsicles, int siblings)
+    static string DistributePopsicles(int popsicles, int siblings)
     {
         if (popsicles % siblings == 0)
 			Console.WriteLine("give away");
@@ -10,7 +10,7 @@ public class Popsicles
 			"eat them yourself");
     }
 
-	public static void Main()
+	static void Main(string[] args)
 	{
 		int siblings;
 

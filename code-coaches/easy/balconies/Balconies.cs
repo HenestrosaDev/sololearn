@@ -1,6 +1,6 @@
 using System;
 
-class Program
+public class Balconies
 {
     static int CalculateArea(string balcony)
     {

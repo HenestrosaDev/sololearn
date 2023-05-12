@@ -7,6 +7,7 @@ public class GuardFlamingos
         int yardLength = int.Parse(Console.ReadLine());
         int yardWidth = int.Parse(Console.ReadLine());
         int flamingosToPurchase = yardLength + yardWidth;
+
         Console.WriteLine(flamingosToPurchase);
     }
 }

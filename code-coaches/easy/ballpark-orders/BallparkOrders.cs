@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class BallparkOrders {
-    static double GetTotalCost(List<string> order) {
+public class BallparkOrders
+{
+    static double GetTotalCost(List<string> order)
+    {
         Dictionary<string, double> menu = new Dictionary<string, double>() {
             {"Pizza", 6.0},
             {"Nachos", 6.0},
@@ -17,7 +19,8 @@ class BallparkOrders {
         return Math.Round(total, 2);
     }
 
-    static void Main(string[] args) {
+    static void Main(string[] args)
+    {
         List<string> order = Console.ReadLine().Split(' ').ToList();
         Console.WriteLine(GetTotalCost(order));
     }

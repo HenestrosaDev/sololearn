@@ -1,6 +1,6 @@
 using System;
 
-class ThatsOdd
+public class ThatsOdd
 {
      static int SumEvenNumbers(int[] numbers)
      {

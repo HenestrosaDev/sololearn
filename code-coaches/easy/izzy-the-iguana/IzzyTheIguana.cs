@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class IzzyTheIguana
+public class IzzyTheIguana
 {
     static int GetSnackPoints(List<string> snacks)
     {

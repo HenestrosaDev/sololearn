@@ -1,6 +1,6 @@
 using System;
 
-class LandHo
+public class LandHo
 {
     static int GetWaitingTime(int numPeopleAhead)
     {

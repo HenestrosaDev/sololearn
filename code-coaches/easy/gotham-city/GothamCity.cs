@@ -1,6 +1,6 @@
 using System;
 
-class GothamCity
+public class GothamCity
 {
     static string IsBackupNeeded(int criminals)
     {

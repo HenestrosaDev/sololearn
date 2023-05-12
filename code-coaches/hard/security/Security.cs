@@ -1,6 +1,6 @@
 using System;
 
-class Security
+public class Security
 {
     static bool IsMoneySafe(string layout)
     {

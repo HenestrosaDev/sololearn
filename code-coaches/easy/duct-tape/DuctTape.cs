@@ -1,6 +1,6 @@
 using System;
 
-class DuctTape
+public class DuctTape
 {
     static int GetArea(int height, int width)
     {

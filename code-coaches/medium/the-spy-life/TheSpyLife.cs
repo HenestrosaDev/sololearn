@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Text;
 
-class TheSpyLife
+public class TheSpyLife
 {
     static string DecodeMessage(string message)
     {

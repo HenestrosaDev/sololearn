@@ -2,7 +2,7 @@ using System;
 
 public class HalloweenCandy
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
         int houses;
 

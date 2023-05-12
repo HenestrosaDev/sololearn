@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-class NoNumerals
+public class NoNumerals
 {
     static string ReplaceNumbersWithWords(string sentence)
     {

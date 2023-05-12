@@ -2,7 +2,7 @@ using System;
 
 public class Hovercraft
 {
-    public static string hovercraftProfitStatus(int unitsSold)
+    static string hHvercraftProfitStatus(int unitsSold)
     {
 	    int sellPrice = 3000000;
 		int costPrice = 2000000;
@@ -20,9 +20,9 @@ public class Hovercraft
 			return "Broke Even";
 	}
 
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
         int unitsSold = int.Parse(Console.ReadLine());
-        Console.WriteLine(hovercraftProfitStatus(unitsSold));
+        Console.WriteLine(hHvercraftProfitStatus(unitsSold));
     }
 }

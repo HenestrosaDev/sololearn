@@ -2,7 +2,7 @@ using System;
 
 public class PaintCosts
 {
-    public static int GetTotalPaintCosts(int numColors)
+    static int GetTotalPaintCosts(int numColors)
     {
         double basePrice = 40.0;
         double paintPrice = 5.0;
@@ -14,7 +14,7 @@ public class PaintCosts
         return total;
     }
 
-    public static void Main()
+    static void Main(string[] args)
     {
         int numColors = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(GetTotalPaintCosts(numColors));

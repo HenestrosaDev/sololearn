@@ -1,6 +1,6 @@
 using System;
 
-class Multiples
+public class Multiples
 {
     static int SumMultiples(int num, params int[] multiples)
     {

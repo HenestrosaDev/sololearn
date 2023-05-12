@@ -1,6 +1,6 @@
 using System;
 
-class ExtraTerrestrials
+public class ExtraTerrestrials
 {
     static string ReverseText(string text)
     {

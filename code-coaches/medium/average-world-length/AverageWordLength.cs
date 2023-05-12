@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-class AverageWorldLength
+public class AverageWorldLength
 {
     static int GetAverageWordLength(string words)
     {

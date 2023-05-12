@@ -1,6 +1,6 @@
 using System;
 
-class PasswordValidation
+public class PasswordValidation
 {
     static bool IsPasswordStrong(string password)
     {

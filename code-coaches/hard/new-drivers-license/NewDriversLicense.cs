@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class NewDriversLicense
+public class NewDriversLicense
 {
     static int GetWaitingTime(string myName, int numAgents, List<string> customers)
     {

@@ -1,6 +1,6 @@
 using System;
 
-class FruitBowl
+public class FruitBowl
 {
     static int GetApplePies(int fruitCount)
     {

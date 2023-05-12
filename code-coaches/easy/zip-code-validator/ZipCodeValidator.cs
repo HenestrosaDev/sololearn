@@ -1,6 +1,6 @@
 using System;
 
-class ZipCodeValidator
+public class ZipCodeValidator
 {
     static bool IsZipCodeValid(string zipCode)
     {
