@@ -1,7 +1,6 @@
 def main
-    puts gets.chomp.reverse
+  puts gets.chomp.reverse
 end
-
 
 if __FILE__ == $0
   main

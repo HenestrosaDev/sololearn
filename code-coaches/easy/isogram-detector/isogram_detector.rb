@@ -4,13 +4,13 @@ def is_isogram(word)
   word.downcase.chars.uniq.length == word.length
 end
 
-def main()
+def main
   word = gets.chomp
   puts is_isogram(word)
 end
 
 if __FILE__ == $0
-  main()
+  main
 end
 
 

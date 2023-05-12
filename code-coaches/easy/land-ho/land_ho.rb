@@ -12,11 +12,11 @@ def get_waiting_time(num_people_ahead)
   total_waiting_time = waiting_time + trip_duration
 end
 
-def main()
+def main
   num_people_ahead = gets.chomp.to_i
   puts get_waiting_time(num_people_ahead)
 end
 
 if __FILE__ == $0
-  main()
+  main
 end

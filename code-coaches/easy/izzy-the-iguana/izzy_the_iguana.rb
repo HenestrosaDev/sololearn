@@ -6,10 +6,9 @@ def get_snack_points(snacks)
     "Cheeseburger" => 0,
   }
   points = snacks.sum { |item| snacks_dict[item] || 0 }
-  return points
 end
 
-def main()
+def main
   snacks = gets.chomp.split()
 
   if get_snack_points(snacks) >= 10
@@ -20,5 +19,5 @@ def main()
 end
 
 if __FILE__ == $0
-    main()
+    main
 end
