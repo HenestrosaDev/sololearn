@@ -1,6 +1,8 @@
 # Code coach
 
-## Easy
+**NOTE**: Every code coach is done in Python, Ruby, Swift, C, C++, C# and Java.
+
+## [Easy](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy)
 
 - [Argentina](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/argentina)
 - [Balconies](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/balconies)
@@ -29,7 +31,7 @@
 - [Vowel counter](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/vowel-counter)
 - [Zip code validator](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/easy/zip-code-validator)
 
-## Medium
+## [Medium](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium)
 
 - [Average world length](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/average-world-length)
 - [Building blocks](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/building-blocks)
@@ -65,7 +67,7 @@
 - [The spy life](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/the-spy-life)
 - [YouTube link finder](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/medium/youtube-link-finder)
 
-## Hard
+## [Hard](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard)
 
 - [2D Map](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/2d-map)
 - [Digits of Pi](https://github.com/HenestrosaConH/sololearn/tree/main/code-coaches/hard/digits-of-pi)
