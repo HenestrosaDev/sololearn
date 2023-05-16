@@ -1,5 +1,9 @@
 # Hofstadter's Q-Sequence
 
+**Note**: Only SoloLearn tests 1 and 2 pass, but the provided code here is correct. 
+
+---
+
 Hofstadter's Q-Sequence is a sequence of numbers where every integer above zero has a corresponding q-sequence value.   
 You can determine the q-sequence value from a formula that tells you how far back in the sequence to go and add two values together.   
 The first two values of the sequence are Q(1) = 1 and Q(2) = 1, and every number above 2 can be expressed according to the following formula (where `n` is your input value): `Q(n) = Q(n - Q(n - 1)) + Q(n - Q(n -2))` 
