@@ -1,4 +1,4 @@
-# Vowel counter
+# Vowel Counter
 
 You are in an English class, your teacher tells the class that vowels are the glue that hold words and sentences together.  
 They want to make sure you understand the importance of vowels in a sentence.   

@@ -1,4 +1,4 @@
-# Carrot cake
+# Carrot Cake
 
 You are packing boxes of carrots for a farm co-op, and you are supposed to evenly distribute all of the carrots that you have into the boxes. 
 The total number of carrots in each box doesn't matter as long as you distribute them evenly, and there are not enough leftover to put another carrot in each box. Anything that you have left over, you get to keep.  

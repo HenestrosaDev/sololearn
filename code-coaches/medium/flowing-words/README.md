@@ -1,4 +1,4 @@
-# Flowing words
+# Flowing Words
 
 If a sentence flows, the first letter of each word will be the same to the last letter of the previous word.  
  

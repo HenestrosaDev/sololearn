@@ -1,4 +1,4 @@
-# Convert US to EU date
+# Convert US Date to EU Date
 
 You and your friends are going to Europe! You have made plans to travel around Europe with your friends, but one thing you need to take into account so that everything goes according to play, is that the format of their date is different than from what is used in the United States. Your job is to convert all your dates from MM/DD/YYYY to DD/MM/YYYY. 
  

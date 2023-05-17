@@ -1,4 +1,4 @@
-# Day of the week
+# Day of the Week
 
 You receive a date and need to know what day of the week it is.
 

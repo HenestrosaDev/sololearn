@@ -1,4 +1,4 @@
-# Number of ones
+# Number of Ones
 
 **Task**: Count the number of ones in the binary representation of a given integer. 
  

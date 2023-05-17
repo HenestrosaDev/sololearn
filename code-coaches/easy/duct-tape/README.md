@@ -1,4 +1,4 @@
-# Duct tape
+# Duct Tape
 
 You want to completely cover a flat door on both sides with duct tape. You need to know how many rolls of duct tape to buy when you go to the store. 
  

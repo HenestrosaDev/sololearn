@@ -1,4 +1,4 @@
-# Zip code validator
+# Zip Code Validator
 
 As headmaster of the post office, sometimes people write zip codes that don't exist or zip codes that are not valid.   
 You are tasked with making a system to check if the inputted zip code is a valid zip code.  

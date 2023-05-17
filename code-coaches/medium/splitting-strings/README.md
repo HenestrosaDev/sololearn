@@ -1,4 +1,4 @@
-# Splitting strings
+# Splitting Strings
 
 You are given a word and want to split it into even parts based on a number that is provided, each half being the size of the number. 
  

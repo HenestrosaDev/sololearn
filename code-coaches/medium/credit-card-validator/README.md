@@ -1,4 +1,4 @@
-# Credit card validator
+# Credit Card Validator
 
 You need to verify if the given credit card number is valid. For that you need to use the Luhn test. 
  

@@ -1,4 +1,4 @@
-# Guard flamingos
+# Guard Flamingos
 
 You decide to add a pink flamingo lawn ornament every 2 feet around the perimeter of your yard. How many flamingos do you need to purchase? 
  

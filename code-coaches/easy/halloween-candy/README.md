@@ -1,4 +1,4 @@
-# Halloween candy
+# Halloween Candy
 
 You go trick or treating with a friend and all but three of the houses that you visit are giving out candy. One house that you visit is giving out toothbrushes and two houses are giving out dollar bills.  
 

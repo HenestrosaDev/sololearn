@@ -1,4 +1,4 @@
-# Text decompressor
+# Text Decompressor
 
 You need to decompress text. The compressed version has a number next to each symbol/letter, representing the amount of time that symbol should appear. For example, **a2b3** is the compressed version of **aabbb** 
  

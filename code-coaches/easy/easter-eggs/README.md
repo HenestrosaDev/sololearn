@@ -1,4 +1,4 @@
-# Easter eggs
+# Easter Eggs
 
 You go hunting for Easter eggs with a friend. You think that you have found all the eggs, but you want to make sure that you don't leave any behind! Compare Easter baskets with your friend to decide if you should keep hunting. 
  

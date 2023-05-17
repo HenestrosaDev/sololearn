@@ -1,4 +1,4 @@
-# Longest common substring
+# Longest Common Substring
 
 **Task**: 
 Given multiple words, you need to find the longest string that is a substring of all words.  

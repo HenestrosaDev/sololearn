@@ -1,4 +1,4 @@
-# Izzy the iguana
+# Izzy the Iguana
 
 Your pet Iguana has run away, and you found it up in a tree! It will come down right away if you brought the right snacks, but if you don't have enough, you will have to wait. You need 10 total snack points to bring it down. Lettuce is worth 5, Carrot is worth 4, Mango is worth 9, and Cheeseburger is worth 0. 
  

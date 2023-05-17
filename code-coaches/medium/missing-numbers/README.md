@@ -1,4 +1,4 @@
-# Missing numbers
+# Missing Numbers
 
 You are given a list of whole numbers in ascending order. You need to find which numbers are missing in the sequence. 
 

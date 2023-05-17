@@ -1,4 +1,4 @@
-# Isogram detector
+# Isogram Detector
 
 An isogram is a word that has no repeating letters, whether they are consecutive or non-consecutive.   
 Your job is to find a way to detect if a word is an isogram. 
