@@ -1,4 +1,4 @@
-# Data science 
+# Data Science 
 
 [Link to course in SoloLearn](https://www.sololearn.com/learning/1093)
 

@@ -445,7 +445,7 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
-	<summary>Data science</summary>
+	<summary>Data Science</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -479,7 +479,7 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
-	<summary>Game development with JS</summary>
+	<summary>Game Development with JS</summary>
 	<table>
         <tr>
             <th>MODULE</th>
