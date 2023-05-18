@@ -1,5 +1,7 @@
 # Kotlin
 
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1160)
+
 ## Contents
 
 <table>
@@ -9,85 +11,83 @@
 		<th>CODE PROJECTS</th>
 	</tr>
 	<tr>
-		<td rowspan="5">1. Basic concepts</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/feeling-welcomed">Feeling welcomed</a></td>
-		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-project">Water consumption</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts">1. Basic Concepts</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/feeling-welcomed">Feeling Welcomed</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-project">Water Consumption</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/lets-get-started">Let's get started</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/lets-get-started">Let's Get Started</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/make-it-run">Make it run</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/make-it-run">Make It Run</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/surprise">Surprise</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/to-comment-or-not-to-comment">To comment or not to comment</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts/code-practice/to-comment-or-not-to-comment">To Comment or Not to Comment</a></td>
 	</tr>
 	<tr>
-		<td rowspan="7">2. Control flow</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/data-please">Data, please</a></td>
-		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-project">Parking fee</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow">2. Control Flow</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/data-please">Data, Please</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-project">Parking Fee</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/lets-convert">Let's convert</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/lets-convert">Let's Convert</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/multiple-inputs">Multiple inputs</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/multiple-inputs">Multiple Inputs</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/sorting-out">Sorting out</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/sorting-out">Sorting Out</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/unlocking-doors">Unlocking doors</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/unlocking-doors">Unlocking Doors</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-number">What's the number</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-number">What's the Number?</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-sum">What's the sum</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/2-control-flow/code-practice/whats-the-sum">What's the Sum?</a></td>
 	</tr>
 	<tr>
-		<td rowspan="5">3. Functions</td>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/calculating-taxes">Calculating taxes</a></td>
-		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-project">Shipping calculator</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions">3. Functions</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/calculating-taxes">Calculating Taxes</a></td>
+		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-project">Shipping Calculator</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/call-the-function">Call the function</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/call-the-function">Call the Function</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/counting-letters">Counting letters</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/counting-letters">Counting Letters</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/initials">Initials</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/selected-names">Selected names</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/3-functions/code-practice/selected-names">Selected Names</a></td>
 	</tr>
 	<tr>
-		<td rowspan="7">4. Object-oriented programming</td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming">4. Object-Oriented Programming</a></td>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/abstraction">Abstraction</a></td>
-		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project">Music player</a></td>
+		<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-project">Music Player</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-class">Button class</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-class">Button Class</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-inheritance">Button inheritance</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-inheritance">Button Inheritance</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-properties">Button properties</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-properties">Button Properties</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-tap">Button tap</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/button-tap">Button Tap</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/default-buttons">Default buttons</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/default-buttons">Default Buttons</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/private-property">Private property</a></td>
+		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/4-object-oriented-programming/code-practice/private-property">Private Property</a></td>
 	</tr>
 </table>
-
-	
