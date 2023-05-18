@@ -1,6 +1,6 @@
-# Coding for marketers
+# Coding for Marketers
 
-[Link to course in SoloLearn](https://www.sololearn.com/learning/1165)
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1165)
 
 ## Contents
 
