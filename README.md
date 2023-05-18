@@ -486,128 +486,128 @@ There are no code projects nor code practices available for this course.
             <th>CODE REPOS</th>
         </tr>
         <tr>
-            <td rowspan="4">1. Getting started</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/02-2-code-repo">HTML basics (02.2 Code repo)</a></td>
+            <td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started">1. Getting Started</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/02-2-code-repo">HTML basics (02.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/03-2-code-repo">Attributes and images (03.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/03-2-code-repo">Attributes and Images (03.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/04-2-code-repo">CSS basics (04.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/04-2-code-repo">CSS Basics (04.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/08-2-code-repo">Handling events (08.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started/08-2-code-repo">Handling Events (08.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td rowspan="3">2. Working with Canvas</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/10-2-code-repo">HTML5 basics (10.2 Code repo)</a></td>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics">2. Working with Canvas</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/10-2-code-repo">HTML5 Basics (10.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/12-2-code-repo">Rectangles and circles (12.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/12-2-code-repo">Rectangles and Circles (12.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/16-2-code-repo">Animations (16.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/2-html-basics/16-2-code-repo">Animations (16.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td rowspan="3">3. Making a game</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/21-2-code-repo">Collision detection (21.2 Code repo)</a></td>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game">3. Making a Game</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/21-2-code-repo">Collision Detection (21.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/22-2-code-repo">User input (22.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/22-2-code-repo">User Input (22.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/23-2-code-repo">Making a game (23.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/3-making-a-game/23-2-code-repo">Making a Game (23.2 Code Repo)</a></td>
         </tr>
     </table>
 </details>
 
 <details>
 	<summary>Go</summary>
-	<table>
-		<tr>
-			<th>MODULE</th>
-			<th>CODE PRACTICES</th>
-			<th>CODE PROJECTS</th>
-		</tr>
-		<tr>
-			<td rowspan="3">1. Getting started</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output">Fix the output</a></td>
-			<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-project">Debug and fix</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/lets-get-started">Let's get started</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/to-comment-or-not-to-comment">To comment or not to comment</a></td>
-		</tr>
-		<tr>
-			<td rowspan="6">2. Basic concepts</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/all-packed-up">All packed up</a></td>
-			<td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-project">Say the numbers</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/contact-data">Contact data</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/feet-to-inches">Feet to inches</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/how-many-rabbits">How many rabbits</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/lets-get-loud">Let's get loud</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/measure-yourself">Measure yourself</a></td>
-		</tr>
-		<tr>
-			<td rowspan="3">3. Methods</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/on-repeat">On repeat</a></td>
-			<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-project">Age on Mars</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/text-output">Text output</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/the-return-of-the-square">The return of the square</a></td>
-		</tr>
-		<tr>
-			<td rowspan="4">4. Classes and objects</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/reset-the-timer">Reset the timer</a></td>
-			<td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-project">Ticking timer</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/scaling-numbers">Scaling numbers</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/staff-management">Staff management</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/withdrawing-cash">Withdrawing cash</a></td>
-		</tr>
-		<tr>
-			<td rowspan="5">5. Arrays and strings</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/add-to-cart">Add to cart</a></td>
-			<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-project">Match results</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/continuous-inputs">Continuous inputs</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/gps">GPS</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/how-tall">How tall</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/whats-on-the-menu">What's on the menu</a></td>
-		</tr>
-		<tr>
-			<td rowspan="1">6. Concurrency</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-practice/concurrent-counter">Concurrent counter</a></td>
-			<td rowspan="1"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-project">Downloader</a></td>
-		</tr>
-	</table>
+    <table>
+        <tr>
+            <th>MODULE</th>
+            <th>CODE PRACTICES</th>
+            <th>CODE PROJECTS</th>
+        </tr>
+        <tr>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output">1. Getting Started</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output">Fix the Output</a></td>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-project">Debug and Fix</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/lets-get-started">Let’s Get Started</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/to-comment-or-not-to-comment">To Comment or Not to Comment</a></td>
+        </tr>
+        <tr>
+            <td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts">2. Basic Concepts</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/all-packed-up">All Packed Up</a></td>
+            <td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-project">Say the Numbers</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/contact-data">Contact Data</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/feet-to-inches">Feet to Inches</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/how-many-rabbits">How Many Rabbits?</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/lets-get-loud">Let’s Get Loud</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/2-basic-concepts/code-practice/measure-yourself">Measure Yourself</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions">3. Functions</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/on-repeat">On Repeat</a></td>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-project">Age on Mars</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/text-output">Text Output</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/3-functions/code-practice/the-return-of-the-square">The Return of the Square</a></td>
+        </tr>
+        <tr>
+            <td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs">4. Pointers and Structs</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/reset-the-timer">Reset the Timer</a></td>
+            <td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-project">Ticking Timer</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/scaling-numbers">Scaling Numbers</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/staff-management">Staff Management</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/4-pointers-and-structs/code-practice/withdrawing-cash">Withdrawing Cash</a></td>
+        </tr>
+        <tr>
+            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map">5. Array, Range, Map</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/add-to-cart">Add to Cart</a></td>
+            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-project">Match Results</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/continuous-inputs">Continuous Inputs</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/gps">GPS</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/how-tall">How Tall?</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/5-array-range-map/code-practice/whats-on-the-menu">What’s on the Menu?</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency">6. Concurrency</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-practice/concurrent-counter">Concurrent Counter</a></td>
+            <td rowspan="1"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/6-concurrency/code-project">Downloader</a></td>
+        </tr>
+    </table>
 </details>
 
 <details>
