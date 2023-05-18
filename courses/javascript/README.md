@@ -1,6 +1,6 @@
 # JavaScript
 
-[Link to course in SoloLearn](https://www.sololearn.com/learning/1024)
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1024)
 
 ## Contents
 
