@@ -1,6 +1,6 @@
 # Game Development with JS
 
-[Link to course in SoloLearn](https://www.sololearn.com/learning/1140)
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1140)
 
 ## Contents
 

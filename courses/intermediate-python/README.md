@@ -1,6 +1,6 @@
 # Intermediate Python
 
-[Link to course in SoloLearn](https://www.sololearn.com/learning/1158)
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1158)
 
 ## Contents
 

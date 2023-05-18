@@ -1,6 +1,6 @@
 # Go
 
-[Link to course in SoloLearn](https://www.sololearn.com/learning/1164)
+[Link to course on SoloLearn](https://www.sololearn.com/learning/1164)
 
 ## Contents
 
