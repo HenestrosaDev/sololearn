@@ -1704,72 +1704,72 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>SQL</summary>
 	<table>
-		<tr>
-			<th>MODULE</th>
-			<th>CODE PRACTICES</th>
-			<th>CODE PROJECTS</th>
-		</tr>
-		<tr>
-			<td rowspan="3">1. Basic concepts</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/best-before">Best before</a></td>
-			<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-project">Cakes</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/customer-copies">Customer copies</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/leaderboarding">Leaderboarding</a></td>
-		</tr>
-		<tr>
-			<td rowspan="7">2. Filtering, functions, subqueries</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/annual-bonuses">Annual bonuses</a></td>
-			<td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-project">Apartments</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/average-grades">Average grades</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/chocolate">Chocolate</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/get-the-ball-rolling">Get the ball rolling</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/lets-get-fit">Let's get fit</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/salary-range">Salary range</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/superheroes">Superheroes</a></td>
-		</tr>
-		<tr>
-			<td rowspan="8">3. JOIN, table, operations</td>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/chess-tournament">Chess tournament</a></td>
-			<td rowspan="8"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-project">Zoo</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/match-the-requirements">Match the requirements</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/mentor-and-apprentice">Mentor and apprentice</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/more-cars">More cars</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/social-media-app-views">Social media app views</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/sorting-the-inventory">Sorting the inventory</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/the-most-beautiful-locations">The most beautiful locations</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/video-game-scores">Video game scores</a></td>
-		</tr>
-	</table>
+        <tr>
+            <th>MODULE</th>
+            <th>CODE PRACTICES</th>
+            <th>CODE PROJECTS</th>
+        </tr>
+        <tr>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts">1. Basic Concepts</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/best-before">Best Before</a></td>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-project">Cakes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/customer-copies">Customer Copies</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts/code-practice/leaderboarding">Leaderboarding</a></td>
+        </tr>
+        <tr>
+            <td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries">2. Filtering, Functions, Subqueries</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/annual-bonuses">Annual Bonuses</a></td>
+            <td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-project">Apartments</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/average-grades">Average Grades</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/chocolate">Chocolate</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/get-the-ball-rolling">Get the Ball Rolling</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/lets-get-fit">Let's Get Fit</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/salary-range">Salary Range</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/2-filtering-functions-subqueries/code-practice/superheroes">Superheroes</a></td>
+        </tr>
+        <tr>
+            <td rowspan="8"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations">3. JOIN, Table, Operations</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/chess-tournament">Chess Tournament</a></td>
+            <td rowspan="8"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-project">Zoo</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/match-the-requirements">Match the Requirements</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/mentor-and-apprentice">Mentor and Apprentice</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/more-cars">More Cars</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/social-media-app-views">Social Media App Views</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/sorting-the-inventory">Sorting the Inventory</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/the-most-beautiful-locations">The Most Beautiful Locations</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/3-join-table-operations/code-practice/video-game-scores">Video Game Scores</a></td>
+        </tr>
+    </table>
 </details>
 
 <details>
@@ -1779,93 +1779,93 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
-	<summary>Web development fundamentals</summary>
+	<summary>Web Development Fundamentals</summary>
     <table>
         <tr>
             <th>MODULE</th>
             <th>CODE REPOS</th>
         </tr>
         <tr>
-            <td rowspan="5">1. Overview</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/01-2-code-repo">Your first HTML (01.2 Code repo)</a></td>
+            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started">1. Overview</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/01-2-code-repo">Your First HTML (01.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/02-2-code-repo">Text formatting (02.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/02-2-code-repo">Text Formatting (02.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/03-2-code-repo">HTML page structure (03.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/03-2-code-repo">HTML Page Structure (03.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/04-2-code-repo">HTML attributes (04.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/04-2-code-repo">HTML Attributes (04.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/05-2-code-repo">More on elements (05.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started/05-2-code-repo">More on Elements (05.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td rowspan="6">2. More HTML elements</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/07-2-code-repo">Lists (07.2 Code repo)</a></td>
+            <td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/07-2-code-repo">2. More HTML Elements</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/07-2-code-repo">Lists (07.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/08-2-code-repo">Tables (08.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/08-2-code-repo">Tables (08.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/09-2-code-repo">Page sections (09.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/09-2-code-repo">Page Sections (09.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/10-2-code-repo">Forms (10.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/10-2-code-repo">Forms (10.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/11-2-code-repo">More form controls (11.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/11-2-code-repo">More Form Controls (11.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/12-2-code-repo">Special characters (12.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/2-more-html-elements/12-2-code-repo">Special Characters (12.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td rowspan="10">3. Styling with CSS</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/16-2-code-repo">CSS selectors (16.2 Code repo)</a></td>
+            <td rowspan="10"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css">3. Styling With CSS</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/16-2-code-repo">CSS Selectors (16.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/17-2-code-repo">Styling text (17.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/17-2-code-repo">Styling Text (17.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/18-2-code-repo">Font styles (18.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/18-2-code-repo">Font Styles (18.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/19-2-code-repo">The box model (19.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/19-2-code-repo">The Box Model (19.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/20-2-code-repo">Borders and backgrounds (20.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/20-2-code-repo">Borders and Backgrounds (20.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/21-2-code-repo">Styling lists and links (21.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/21-2-code-repo">Styling lists and Links (21.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/22-2-code-repo">Styling tables (22.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/22-2-code-repo">Styling Tables (22.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/23-2-code-repo">Styling forms (23.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/23-2-code-repo">Styling Forms (23.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/24-2-code-repo">CSS layout (24.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/24-2-code-repo">CSS Layout (24.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/25-2-code-repo">Positioning (25.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/3-styling-with-css/25-2-code-repo">Positioning (25.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td rowspan="5">4. JavaScript</td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/29-2-code-repo">Basic math (29.2 Code repo)</a></td>
+            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript">4. JavaScript</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/29-2-code-repo">Basic Math (29.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/30-2-code-repo">Decision making (30.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/30-2-code-repo">Decision Making (30.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/31-2-code-repo">Loops (31.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/31-2-code-repo">Loops (31.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/33-2-code-repo">Functions (33.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/33-2-code-repo">Functions (33.2 Code Repo)</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/34-2-code-repo">Event handling (34.2 Code repo)</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/4-javascript/34-2-code-repo">Event Handling (34.2 Code Repo)</a></td>
         </tr>
     </table>
 </details>
