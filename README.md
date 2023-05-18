@@ -1690,7 +1690,7 @@ There are no code projects nor code practices available for this course.
 </details>
 
 <details>
-	<summary>Responsive web design</summary>
+	<summary>Responsive Web Design</summary>
 
 There are no code projects nor code practices available for this course.
 </details>
