@@ -15,7 +15,7 @@ public class PasswordValidation {
             }
         }
 
-        boolean isStrong = numDigits >= 2 && numSpecialChars >= 2 && password.length() >= 7
+        boolean isStrong = numDigits >= 2 && numSpecialChars >= 2 && password.length() >= 7;
         return isStrong;
     }
 
