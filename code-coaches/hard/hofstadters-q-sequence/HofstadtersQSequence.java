@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QSequence {
+public class HofstadtersQSequence {
 
     public static int qSequence(int n) {
         if (n <= 2) {
