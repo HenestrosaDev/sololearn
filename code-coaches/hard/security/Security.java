@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CasinoSecurity {
+public class Security {
 
     public static boolean isMoneySafe(String layout) {
         int moneyIndex = layout.indexOf('$');
