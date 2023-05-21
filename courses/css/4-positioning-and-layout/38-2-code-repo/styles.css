@@ -1,0 +1,84 @@
+/* 3.2 */
+.heading {
+    font-size: 35px;
+    font-weight: bolder; /* 10.2 */
+    text-transform: uppercase; /* 18.2 */
+}
+/* ------------ */
+
+/* 5.2 */
+.intro {
+    background-color: #2F5A78;
+    color: white; /* 12.2 */
+    padding-left: 16px; /* 24.2 */
+    padding-bottom: 8px; /* 25.2 */
+    margin-bottom: 4px; /* 25.2 */
+}
+/* ------------ */
+
+/* 7.2 */
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
+}
+/* ------------ */
+
+/* 8.2 */
+.prof {
+    font-size: 20px;
+    font-weight: lighter; /* 10.2 */
+}
+
+.contactinfo {
+    font-size: 15px;
+    padding-left: 16px; /* 24.2 */
+    padding-top: 6px; /* 25.2 */
+    padding-bottom: 6px; /* 25.2 */
+    background-color: #eeeeee; /* 27.2 */
+}
+
+.subheading {
+    font-size: 20px;
+    font-weight: bolder; /* 10.2 */
+    color: #2F5A78; /* 12.2 */
+    text-transform: uppercase; /* 18.2 */
+}
+/* ------------ */
+
+/* 12.2 */
+.icon {
+    color: #2F5A78;
+}
+/* ------------ */
+
+/* 13.2 */
+.date {
+    font-size: 16px;
+    color: #2F5A78;
+    font-weight: bold;
+}
+/* ------------ */
+
+/* 36.2 */
+.skills ul li {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -15px;
+}
+/* ------------ */
+
+/* 38.2 */
+.skills ul li .skill_prog {
+    width: 60%;
+    height: 5px;
+    position: relative;
+}
+
+.skills ul li .skill_prog span {
+    position: absolute;
+    height: 100%;
+    background: #2F5A78;
+    padding-right: 50px;
+}
+/* ------------ */

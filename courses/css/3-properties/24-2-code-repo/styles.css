@@ -1,0 +1,54 @@
+/* 3.2 */
+.heading {
+    font-size: 35px;
+    font-weight: bolder; /* 10.2 */
+    text-transform: uppercase; /* 18.2 */
+}
+/* ------------ */
+
+/* 5.2 */
+.intro {
+    background-color: #2F5A78;
+    color: white; /* 12.2 */
+    padding-left: 16px; /* 24.2 */
+}
+/* ------------ */
+
+/* 7.2 */
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
+}
+/* ------------ */
+
+/* 8.2 */
+.prof {
+    font-size: 20px;
+    font-weight: lighter; /* 10.2 */
+}
+
+.contactinfo {
+    font-size: 15px;
+    padding-left: 16px; /* 24.2 */
+}
+
+.subheading {
+    font-size: 20px;
+    font-weight: bolder; /* 10.2 */
+    color: #2F5A78; /* 12.2 */
+    text-transform: uppercase; /* 18.2 */
+}
+/* ------------ */
+
+/* 12.2 */
+.icon {
+    color: #2F5A78;
+}
+/* ------------ */
+
+/* 13.2 */
+.date {
+    font-size: 16px;
+    color: #2F5A78;
+    font-weight: bold;
+}
+/* ------------ */
