@@ -5,9 +5,7 @@ func isIsogram(word: String) -> Bool {
 }
 
 func main() {
-    if let word = readLine() {
-        print(isIsogram(word: word))
-    }
+	print(isIsogram(word: readLine()))
 }
 
 main()

@@ -11,10 +11,7 @@ func decompressText(compressedText: String) -> String {
 }
 
 func main() {
-    if let compressedText = readLine() {
-        let result = decompressText(compressedText: compressedText)
-        print(result)
-    }
+	print(decompressText(compressedText: readLine()!))
 }
 
 main()

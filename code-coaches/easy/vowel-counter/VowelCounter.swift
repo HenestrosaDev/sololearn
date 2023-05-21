@@ -4,9 +4,7 @@ func getVowelsCount(sentence: String) -> Int {
 }
 
 func main() {
-    if let sentence = readLine() {
-        print(getVowelsCount(sentence: sentence))
-    }
+	print(getVowelsCount(sentence: readLine()!))
 }
 
 main()

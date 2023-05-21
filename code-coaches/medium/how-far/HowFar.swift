@@ -10,9 +10,8 @@ func getBlocksBetweenHouseAndPond(on layout: String) -> Int {
 }
 
 func main() {
-    if let layout = readLine() {
-        print(getBlocksBetweenHouseAndPond(on: layout))
-    }
+    let layout = readLine()!
+	print(getBlocksBetweenHouseAndPond(on: layout))
 }
 
 main()

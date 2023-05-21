@@ -14,11 +14,10 @@ func splitString(word: String, numParts: Int, separator: String = "-") -> String
 }
 
 func main() {
-    if let word = readLine(),
-        let input = readLine(), let numParts = Int(input)
-    {
-        print(splitString(word: word, numParts: numParts))
-    }
+    let word = readLine()!
+	let numParts = Int(readLine()!)!
+	
+	print(splitString(word: word, numParts: numParts))
 }
 
 main()

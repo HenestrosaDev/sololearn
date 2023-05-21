@@ -6,17 +6,17 @@ func getTotal(prices: [Int]) -> Float {
     for price in prices {
         total += (price < 20) ? Float(price) * tax : Float(price)
     }
+	
     let totalRounded = round(total * 100) / 100.0
     return totalRounded
 }
 
 func main() {
-    if let input = readLine() {
-        let priceStrings = input.components(separatedBy: ",")
-        let prices = priceStrings.compactMap { Int($0) }
-        let result = getTotal(prices: prices)
-        print(String(format: "%.2f", result))
-    }
+	let priceStrings = readLine()!.components(separatedBy: ",")
+	let prices = priceStrings.compactMap { Int($0) }
+	
+	let result = getTotal(prices: prices)
+	print(String(format: "%.2f", result))
 }
 
 main()

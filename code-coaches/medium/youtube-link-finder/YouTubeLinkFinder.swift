@@ -16,14 +16,14 @@ func extractVideoId(from url: String) throws -> String {
 }
 
 func main() {
-    if let url = readLine() {
-        do {
-            let videoId = try extractVideoId(from: url)
-            print(videoId)
-        } catch let error as NSError {
-            print("Error: \(error.localizedDescription)")
-        }
-    }
+    let url = readLine()!
+        
+	do {
+		let videoId = try extractVideoId(from: url)
+		print(videoId)
+	} catch let error as NSError {
+		print("Error: \(error.localizedDescription)")
+	}
 }
 
 main()

@@ -14,9 +14,7 @@ func containsPalindrome(words: [String]) -> Bool {
 func main() {
     var words: [String] = []
     for _ in 1...4 {
-        if let input = readLine() {
-            words.append(input)
-        }
+		words.append(readLine()!)
     }
 
     if containsPalindrome(words: words) {

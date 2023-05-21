@@ -13,8 +13,7 @@ func isOnBudget(itemsPriceEur: [Double]) -> Bool {
 }
 
 func main() {
-    guard let input = readLine() else { return }
-    let itemsPriceEur = input.split(separator: " ").map { Double($0)! }
+    let itemsPriceEur = readLine()!.split(separator: " ").map { Double($0)! }
 
     if isOnBudget(itemsPriceEur: itemsPriceEur) {
         print("On to the terminal")

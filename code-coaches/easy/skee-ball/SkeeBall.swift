@@ -5,15 +5,14 @@ func canBuySquirtGun(with score: Int, squirtGunPrice: Int) -> Bool {
 }
 
 func main() {
-    if let input1 = readLine(), let score = Int(input1),
-		let input2 = readLine(), let squirtGunPrice = Int(input2)
-    {
-        if canBuySquirtGun(with: score, squirtGunPrice: squirtGunPrice) {
-            print("Buy it!")
-        } else {
-            print("Try again")
-        }
-    }
+    let score = Int(readLine()!)!
+	let squirtGunPrice = Int(readLine()!)!
+
+	if canBuySquirtGun(with: score, squirtGunPrice: squirtGunPrice) {
+		print("Buy it!")
+	} else {
+		print("Try again")
+	}
 }
 
 main()

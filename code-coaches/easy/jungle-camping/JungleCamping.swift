@@ -6,11 +6,11 @@ let noiseToAnimal = [
 ]
 
 func main() {
-    if let noises = readLine() {
-        let noisesSplit = noises.split(separator: " ")
-        let animals = noisesSplit.map { noiseToAnimal[String($0)]! }
-        print(animals.joined(separator: " "))
-    }
+    let noises = readLine()!
+	let noisesSplit = noises.split(separator: " ")
+	let animals = noisesSplit.map { noiseToAnimal[String($0)]! }
+	
+	print(animals.joined(separator: " "))
 }
 
 main()

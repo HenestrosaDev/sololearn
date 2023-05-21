@@ -12,9 +12,9 @@ func getSnackPoints(_ snacks: [String]) -> Int {
 }
 
 func main() {
-    guard let line = readLine() else { return }
-
+    let line = readLine()!
     let snacks = line.components(separatedBy: .whitespacesAndNewlines)
+	
     if getSnackPoints(snacks) >= 10 {
         print("Come on Down!")
     } else {

@@ -46,13 +46,14 @@ func applyOperator(_ leftOperand: Int, _ rightOperand: Int, _ operatorChar: Char
 }
 
 func main() {
-    if let answer = Int(readLine() ?? ""), let expressions = readLine() {
-        if let index = findMatchingExpression(answer, expressions) {
-            print("index \(index)")
-        } else {
-            print("none")
-        }
-    }
+    let answer = Int(readLine()!)! 
+	let expressions = readLine()!
+
+	if let index = findMatchingExpression(answer, expressions) {
+		print("index \(index)")
+	} else {
+		print("none")
+	}
 }
 
 main()

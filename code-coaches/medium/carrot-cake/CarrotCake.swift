@@ -11,8 +11,8 @@ func makeCarrotCake(numCarrots: Int, numBoxes: Int) -> String {
 }
 
 func main() {
-    guard let numCarrots = Int(readLine()!) else { return }
-    guard let numBoxes = Int(readLine()!) else { return }
+    let numCarrots = Int(readLine()!)!
+    let numBoxes = Int(readLine()!)!
     print(makeCarrotCake(numCarrots: numCarrots, numBoxes: numBoxes))
 }
 

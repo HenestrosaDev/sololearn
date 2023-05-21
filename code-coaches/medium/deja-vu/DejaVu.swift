@@ -18,9 +18,8 @@ func checkDejaVu(chars: String) {
 }
 
 func main() {
-    if let chars = readLine() {
-        checkDejaVu(chars: chars)
-    }
+    let chars = readLine()!
+	checkDejaVu(chars: chars)
 }
 
 main()

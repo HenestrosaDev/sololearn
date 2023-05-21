@@ -4,15 +4,16 @@ func getInitials(name: String) -> String {
 }
 
 func main() {
-    if let input = readLine(), let numNames = Int(input) {
-        var names = [String]()
-        for _ in 0..<numNames {
-            guard let name = readLine() else { return }
-            let initials = getInitials(name: name)
-            names.append(initials)
-        }
-        print(names.joined(separator: " "))
-    }
+    let numNames = Int(readLine()!)!
+
+	var names = [String]()
+	for _ in 0..<numNames {
+		let name = readLine()!
+		let initials = getInitials(name: name)
+		names.append(initials)
+	}
+
+	print(names.joined(separator: " "))
 }
 
 main()

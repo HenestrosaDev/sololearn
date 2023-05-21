@@ -1,4 +1,4 @@
-func isPasswordStrong(password: String) -> Bool {
+func isPasswordStrong(_ password: String) -> Bool {
     // Check if the password has at least 2 numbers, 2 special characters,
     // and a length of at least 7 characters
     let numDigits = password.filter { $0 >= "0" && $0 <= "9" }.count
@@ -9,13 +9,13 @@ func isPasswordStrong(password: String) -> Bool {
 }
 
 func main() {
-    if let password = readLine() {
-        // Check if the password is strong or weak and print the result
-        if isPasswordStrong(password: password) {
-            print("Strong")
-        } else {
-            print("Weak")
-        }
+    let password = readLine()!
+
+	// Check if the password is strong or weak and print the result
+	if isPasswordStrong(password) {
+		print("Strong")
+	} else {
+		print("Weak")
     }
 }
 

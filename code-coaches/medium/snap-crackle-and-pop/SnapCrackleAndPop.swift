@@ -11,9 +11,8 @@ func getSound(numRiceKrispies: Int) -> String {
 func main() {
     var numRiceKrispiesList: [Int] = []
     for _ in 0..<6 {
-        if let num = readLine(), let numInt = Int(num) {
-            numRiceKrispiesList.append(numInt)
-        }
+        let num = Int(readLine()!)!
+		numRiceKrispiesList.append(num)
     }
 
     var sounds: [String] = []

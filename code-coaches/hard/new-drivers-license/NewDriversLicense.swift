@@ -8,17 +8,15 @@ func getWaitingTime(myName: String, numAgents: Int, customers: [String]) -> Int 
 }
 
 func main() {
-    if let myName = readLine(),
-        let numAgentsString = readLine(), let numAgents = Int(numAgentsString),
-        let customersString = readLine()
-    {
-        let customers = customersString.split(separator: " ").map({ String($0) })
-        var sortedCustomers = customers
-        sortedCustomers.append(myName)
-        sortedCustomers.sort()
+    let myName = readLine()!
+    let numAgents = Int(readLine()!)!
+	let customers = readLine()!.split(separator: " ").map({ String($0) })
+	
+	var sortedCustomers = customers
+	sortedCustomers.append(myName)
+	sortedCustomers.sort()
 
-        print(getWaitingTime(myName: myName, numAgents: numAgents, customers: sortedCustomers))
-    }
+	print(getWaitingTime(myName: myName, numAgents: numAgents, customers: sortedCustomers))
 }
 
 main()

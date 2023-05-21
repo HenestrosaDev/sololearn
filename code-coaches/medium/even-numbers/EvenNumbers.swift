@@ -14,7 +14,7 @@ func getEvensStr(_ numsStr: String) -> String {
 }
 
 func main() {
-    guard let numsStr = readLine() else { return }
+    let numsStr = readLine()!
     print(getEvensStr(numsStr))
 }
 

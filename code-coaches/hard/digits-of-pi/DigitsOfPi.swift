@@ -5,10 +5,10 @@ func getPiDecimalAt(index: Int) -> Character {
 }
 
 func main() {
-    if let index = readLine().flatMap({ Int($0) }) {
-        // - 1 to convert the index to 0-based index
-        print(getPiDecimalAt(index: index - 1))
-    }
+    guard let index = readLine()!.flatMap({ Int($0) }) else { return }
+	
+	// - 1 to convert the index to 0-based index
+	print(getPiDecimalAt(index: index - 1))
 }
 
 main()

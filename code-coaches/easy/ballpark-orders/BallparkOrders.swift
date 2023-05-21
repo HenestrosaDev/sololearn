@@ -16,10 +16,8 @@ func getTotalCost(order: [String]) -> Double {
 }
 
 func main() {
-    if let input = readLine() {
-        let order = input.split(separator: " ").map { String($0) }
-        print(getTotalCost(order: order))
-    }
+	let order = readLine()!.split(separator: " ").map { String($0) }
+	print(getTotalCost(order: order))
 }
 
 main()

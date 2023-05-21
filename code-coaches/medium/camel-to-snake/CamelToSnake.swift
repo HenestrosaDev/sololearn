@@ -21,9 +21,8 @@ func toSnakeCase(camelCaseString: String) -> String {
 }
 
 func main() {
-    if let camelCaseString = readLine() {
-        print(toSnakeCase(camelCaseString: camelCaseString))
-    }
+    let camelCaseString = readLine()!
+	print(toSnakeCase(camelCaseString: camelCaseString))
 }
 
 main()

@@ -12,13 +12,9 @@ func lowerCurrencyAfterConversion(ars: Decimal, usd: Decimal) -> String {
 }
 
 func main() {
-    if  let input1 = readLine(),
-        let ars = Decimal(string: input1), // Argentine peso
-        let input2 = readLine(),
-        let usd = Decimal(string: input2) // US dollar
-    {
-        lowerCurrencyAfterConversion(ars: ars, usd: usd)
-    }
+	let ars = Decimal(string: readLine()!)! // Argentine peso
+	let usd = Decimal(string: readLine()!)! // US dollar
+	print(lowerCurrencyAfterConversion(ars: ars, usd: usd))
 }
 
 main()

@@ -7,9 +7,7 @@ func isZipCodeValid(_ zipCode: String) -> Bool {
 }
 
 func main() {
-    if let zipCode = readLine() {
-        print(isZipCodeValid(zipCode))
-    }
+	print(isZipCodeValid(readLine()!))
 }
 
 main()

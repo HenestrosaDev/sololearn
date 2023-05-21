@@ -21,14 +21,13 @@ func getDuctTapesNeeded(height: Int, width: Int) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let doorHeightFeet = Int(input),
-        let input2 = readLine(), let doorWidthFeet = Int(input2)
-    {
-        let doorHeightInches = toInches(feet: doorHeightFeet)
-        let doorWidthInches = toInches(feet: doorWidthFeet)
+    let doorHeightFeet = Int(readLine()!)!
+    let doorWidthFeet = Int(readLine()!)!
+        
+	let doorHeightInches = toInches(feet: doorHeightFeet)
+	let doorWidthInches = toInches(feet: doorWidthFeet)
 
-        print(getDuctTapesNeeded(height: doorHeightInches, width: doorWidthInches))
-    }
+	print(getDuctTapesNeeded(height: doorHeightInches, width: doorWidthInches))
 }
 
 main()

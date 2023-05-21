@@ -27,9 +27,8 @@ func calculateMoves(mapStr: String) -> Int {
 }
 
 func main() {
-    if let mapStr = readLine() {
-        print(calculateMoves(mapStr: mapStr))
-    }
+    let mapStr = readLine()!
+	print(calculateMoves(mapStr: mapStr))
 }
 
 main()

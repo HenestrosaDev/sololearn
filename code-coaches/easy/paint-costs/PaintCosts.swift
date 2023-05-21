@@ -10,9 +10,8 @@ func getTotalPaintCosts(numColors: Int) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let numColors = Double(input) {
-        print(getTotalPaintCosts(numColors: numColors))
-    }
+    let numColors = Double(readLine()!)!
+	print(getTotalPaintCosts(numColors: numColors))
 }
 
 main()

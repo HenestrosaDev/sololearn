@@ -4,9 +4,8 @@ func sumMultiples(num: Int, multiples: Int...) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let num = Int(input) {
-        print(sumMultiples(num: num, multiples: 3, 5))
-    }
+    let num = Int(readLine()!)!
+	print(sumMultiples(num: num, multiples: 3, 5))
 }
 
 main()

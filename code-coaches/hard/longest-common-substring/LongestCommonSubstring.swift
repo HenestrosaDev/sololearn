@@ -24,8 +24,7 @@ func getLongestCommonSubstring(_ words: [String]) -> String {
 }
 
 func main() {
-    guard let input = readLine() else { return }
-    let words = input.split(separator: " ").map { String($0) }
+    let words = readLine()!.split(separator: " ").map { String($0) }
     print(getLongestCommonSubstring(words))
 }
 

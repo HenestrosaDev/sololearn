@@ -7,12 +7,11 @@ func rgbToHex(r: Int, g: Int, b: Int) -> String {
 }
 
 func main() {
-    if let input = readLine(), let rRgb = Int(input),
-        let input = readLine(), let gRgb = Int(input),
-        let input = readLine(), let bRgb = Int(input)
-    {
-        print(rgbToHex(r: rRgb, g: gRgb, b: bRgb))
-    }
+    let rRgb = Int(readLine()!)!
+    let gRgb = Int(readLine()!)!
+    let bRgb = Int(readLine()!)!
+	
+	print(rgbToHex(r: rRgb, g: gRgb, b: bRgb))
 }
 
 main()

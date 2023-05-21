@@ -15,9 +15,8 @@ func getTotal(_ numKaleidoscopes: Int) -> Double {
 }
 
 func main() {
-    if let input = readLine(), let numKaleidoscopes = Int(input) {
-        print(getTotal(numKaleidoscopes))
-    }
+    let numKaleidoscopes = Int(readLine()!)!
+	print(getTotal(numKaleidoscopes))
 }
 
 main()

@@ -47,7 +47,7 @@ func calculateWordRank(_ str: inout [Character]) -> Int {
 }
 
 func main() {
-    let word = readLine() ?? ""
+    let word = readLine()!
     var wordArray = Array(word)
     print(calculateWordRank(&wordArray))
 }

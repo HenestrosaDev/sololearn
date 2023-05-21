@@ -16,9 +16,8 @@ func getWaitingTime(_ numPeopleAhead: Int) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let numPeopleAhead = Int(input) {
-        print(getWaitingTime(numPeopleAhead))
-    }
+    let numPeopleAhead = Int(readLine()!)!
+	print(getWaitingTime(numPeopleAhead))
 }
 
 main()

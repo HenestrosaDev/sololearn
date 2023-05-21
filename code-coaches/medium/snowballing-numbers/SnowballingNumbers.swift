@@ -10,17 +10,16 @@ func isEachNumberGreaterThanSum(_ numbers: [Int]) -> Bool {
 }
 
 func main() {
-    if let input = readLine(), let numsLength = Int(input) {
-        var numbers = [Int]()
+    let numsLength = Int(readLine()!)!
+	var numbers = [Int]()
 
-        for _ in 0..<numsLength {
-            if let number = readLine().flatMap({ Int($0) }) {
-                numbers.append(number)
-            }
-        }
+	for _ in 0..<numsLength {
+		if let number = readLine().flatMap({ Int($0) }) {
+			numbers.append(number)
+		}
+	}
 
-        print(isEachNumberGreaterThanSum(numbers))
-    }
+	print(isEachNumberGreaterThanSum(numbers))
 }
 
 main()

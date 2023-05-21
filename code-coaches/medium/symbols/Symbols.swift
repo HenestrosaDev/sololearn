@@ -9,9 +9,8 @@ func removeSymbols(from encoded: String) -> String {
 }
 
 func main() {
-    if let encoded = readLine() {
-        print(removeSymbols(from: encoded))
-    }
+    let encoded = readLine()!
+	print(removeSymbols(from: encoded))
 }
 
 main()

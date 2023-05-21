@@ -9,7 +9,7 @@ func decodeMessage(_ message: String) -> String {
 }
 
 func main() {
-    guard let encodedMessage = readLine() else { return }
+    let encodedMessage = readLine()!
     print(decodeMessage(encodedMessage))
 }
 

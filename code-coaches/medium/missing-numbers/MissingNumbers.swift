@@ -13,19 +13,17 @@ func getMissingNumbersInSequence(nums: [Int]) -> [Int] {
 }
 
 func main() {
-    if let input = readLine(), let listLength = Int(input) {
-        var nums = [Int]()
+    let listLength = Int(readLine()!)!
+	var nums = [Int]()
 
-        for _ in 0..<listLength {
-            if let num = Int(readLine() ?? "") {
-                nums.append(num)
-            }
-        }
+	for _ in 0..<listLength {
+		let num = Int(readLine()!)!
+		nums.append(num)
+	}
 
-        let missingNumbers = getMissingNumbersInSequence(nums: nums)
-        let missingNumbersStr = missingNumbers.map(String.init).joined(separator: " ")
-        print(missingNumbersStr)
-    }
+	let missingNumbers = getMissingNumbersInSequence(nums: nums)
+	let missingNumbersStr = missingNumbers.map(String.init).joined(separator: " ")
+	print(missingNumbersStr)
 }
 
 main()

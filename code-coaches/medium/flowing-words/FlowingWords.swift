@@ -9,9 +9,8 @@ func doesSentenceFlow(_ sentence: String) -> Bool {
 }
 
 func main() {
-    if let sentence = readLine() {
-        print(doesSentenceFlow(sentence))
-    }
+    let sentence = readLine()!
+	print(doesSentenceFlow(sentence))
 }
 
 main()

@@ -13,9 +13,8 @@ func replaceNumbersWithWords(in sentence: String) -> String {
 }
 
 func main() {
-    if let sentence = readLine() {
-        print(replaceNumbersWithWords(in: sentence)) // "i need two pumpkins and three apples"
-    }
+    let sentence = readLine()!
+	print(replaceNumbersWithWords(in: sentence))
 }
 
 main()

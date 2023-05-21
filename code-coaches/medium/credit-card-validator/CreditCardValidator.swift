@@ -29,13 +29,11 @@ func validateCreditCardNumber(ccNum: String) -> Bool {
 }
 
 func main() {
-    if let ccNum = readLine() {
-        if validateCreditCardNumber(ccNum: ccNum) {
-            print("valid")
-        } else {
-            print("not valid")
-        }
-    }
+	if validateCreditCardNumber(ccNum: readLine()!) {
+		print("valid")
+	} else {
+		print("not valid")
+	}
 }
 
 main()

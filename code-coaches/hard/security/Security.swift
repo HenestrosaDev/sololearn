@@ -19,13 +19,13 @@ func isMoneySafe(_ layout: String) -> Bool {
 }
 
 func main() {
-    if let layout = readLine() {
-        if isMoneySafe(layout) {
-            print("quiet")
-        } else {
-            print("ALARM")
-        }
-    }
+    let layout = readLine()!
+
+	if isMoneySafe(layout) {
+		print("quiet")
+	} else {
+		print("ALARM")
+	}
 }
 
 main()

@@ -17,12 +17,10 @@ func getSavings(prices: [Float]) -> Int {
 }
 
 func main() {
-    if let input = readLine() {
-        let priceStrings = input.split(separator: ",")
-        let prices = priceStrings.compactMap { Float($0) }
-        let result = getSavings(prices: prices)
-        print(result)
-    }
+	let priceStrings = readLine()!.split(separator: ",")
+	let prices = priceStrings.compactMap { Float($0) }
+	let result = getSavings(prices: prices)
+	print(result)
 }
 
 main()

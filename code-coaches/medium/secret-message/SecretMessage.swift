@@ -18,9 +18,8 @@ func encodeMessage(_ message: String) -> String {
 }
 
 func main() {
-    if let message = readLine() {
-        print(encodeMessage(message))
-    }
+    let message = readLine()!
+	print(encodeMessage(message))
 }
 
 main()

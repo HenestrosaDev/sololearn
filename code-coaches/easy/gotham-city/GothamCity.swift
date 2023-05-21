@@ -9,9 +9,8 @@ func isBackupNeeded(criminals: Int) -> String {
 }
 
 func main() {
-    if let input = readLine(), let criminals = Int(input) {
-        print(isBackupNeeded(criminals: criminals))
-    }
+    let criminals = Int(readLine()!)! 
+	print(isBackupNeeded(criminals: criminals))
 }
 
 main()

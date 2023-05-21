@@ -7,10 +7,8 @@ func qSequence(_ n: Int) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let n = Int(input) {
-        let result = qSequence(n)
-        print(result)
-    }
+    let n = Int(readLine()!)!
+	print(qSequence(n))
 }
 
 main()

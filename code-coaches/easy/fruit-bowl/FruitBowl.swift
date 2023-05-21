@@ -4,9 +4,8 @@ func getApplePies(fruitCount: Int) -> Int {
 }
 
 func main() {
-    if let input = readLine(), let fruitCount = Int(input) {
-	    print(getApplePies(fruitCount: fruitCount))
-    }
+    let fruitCount = Int(readLine()!)!
+	print(getApplePies(fruitCount: fruitCount))
 }
 
 main()

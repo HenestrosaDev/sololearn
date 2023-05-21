@@ -6,16 +6,17 @@ func calculateArea(balcony: String) -> Int {
 }
 
 func main() {
-    if let balconyA = readLine(), let balconyB = readLine() {
-        let areaA = calculateArea(balcony: balconyA)
-        let areaB = calculateArea(balcony: balconyB)
+    let balconyA = readLine()!
+	let balconyB = readLine()!
+	
+	let areaA = calculateArea(balcony: balconyA)
+	let areaB = calculateArea(balcony: balconyB)
 
-        if areaA > areaB {
-            print("Apartment A")
-        } else {
-            print("Apartment B")
-        }
-    }
+	if areaA > areaB {
+		print("Apartment A")
+	} else {
+		print("Apartment B")
+	}
 }
 
 main()

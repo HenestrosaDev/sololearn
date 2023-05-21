@@ -13,13 +13,11 @@ func containsNameBuddy(names: String, myName: String) -> Bool {
 }
 
 func main() {
-    if let names = readLine(), let myName = readLine() {
-        if containsNameBuddy(names: names, myName: myName) {
-            print("Compare notes")
-        } else {
-            print("No such luck")
-        }
-    }
+	if containsNameBuddy(names: readLine()!, myName: readLine()!) {
+		print("Compare notes")
+	} else {
+		print("No such luck")
+	}
 }
 
 main()

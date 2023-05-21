@@ -9,9 +9,8 @@ func getCheer(yards: Int) -> String {
 }
 
 func main() {
-    if let input = readLine(), let yards = Int(input) {
-	    print(getCheer(yards: yards))
-    }
+    let yards = Int(readLine()!)!
+	print(getCheer(yards: yards))
 }
 
 main()

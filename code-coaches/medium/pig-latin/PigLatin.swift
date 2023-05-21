@@ -14,9 +14,8 @@ func toPigLatin(_ sentence: String) -> String {
 }
 
 func main() {
-    if let sentence = readLine() {
-        print(toPigLatin(sentence))
-    }
+    let sentence = readLine()!
+	print(toPigLatin(sentence))
 }
 
 main()

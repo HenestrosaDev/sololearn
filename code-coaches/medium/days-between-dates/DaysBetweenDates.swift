@@ -18,7 +18,8 @@ func getNumDaysBetween(from fromString: String, to toString: String) -> Int {
 }
 
 func main() {
-    guard let fromString = readLine(), let toString = readLine() else { return }
+    let fromString = readLine()!
+	let toString = readLine()!
     print(getNumDaysBetween(from: fromString, to: toString))
 }
 

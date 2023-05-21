@@ -12,10 +12,11 @@ func calculateTimeToGetItem(items: [String], itemToFind: String) -> Int {
 }
 
 func main() {
-    if let itemsString = readLine(), let itemToFind = readLine() {
-        let items = itemsString.split(separator: ",").map { String($0) }
-        print(calculateTimeToGetItem(items: items, itemToFind: itemToFind))
-    }
+    let itemsString = readLine()! 
+	let itemToFind = readLine()!
+	
+	let items = itemsString.split(separator: ",").map { String($0) }
+	print(calculateTimeToGetItem(items: items, itemToFind: itemToFind))
 }
 
 main()

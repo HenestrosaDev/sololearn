@@ -30,9 +30,7 @@ func getEuDate(usDate: String) -> String {
 }
 
 func main() {
-	if let usDate = readLine() {
-		print(getEuDate(usDate: usDate))
-	}
+	print(getEuDate(usDate: readLine()!))
 }
 
 main()

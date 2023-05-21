@@ -17,9 +17,8 @@ func hovercraftProfitStatus(unitsSold: Int) -> String {
 }
 
 func main() {
-    if let input = readLine(), let unitsSold = Int(input) {
-        hovercraftProfitStatus(unitsSold: unitsSold)
-    }
+    let unitsSold = Int(readLine()!)!
+	print(hovercraftProfitStatus(unitsSold: unitsSold))
 }
 
 main()

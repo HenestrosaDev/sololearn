@@ -21,9 +21,9 @@ func getDayOfWeek(_ dateString: String) -> String? {
 
 
 func main() {
-    if let date = readLine(), let dayOfWeek = getDayOfWeek(date) {
-        print(dayOfWeek)
-    }
+    let date = readLine()!
+	let dayOfWeek = getDayOfWeek(date)
+	print(dayOfWeek!)
 }
 
 main()
