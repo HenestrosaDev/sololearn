@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <div align="center">
     <img src="docs/icon.png" alt="Logo" width="128" height="128">
     <h1 align="center">SoloLearn</h1>
@@ -32,6 +34,7 @@
   - [Medium](#medium)
   - [Hard](#hard)
 - [Acknowledgements](#acknowledgements)
+- [Support](#support)
 
 ## Courses
 
@@ -2047,3 +2050,11 @@ There are no code projects nor code practices available for this course.
 # Acknowledgements
 
 Thanks to [SoloLearn](https://www.sololearn.com/) for their amazing app and all the free courses that they have provided to the community! You can access it via web or mobile through its [Android](https://play.google.com/store/apps/details?id=com.sololearn) and [iOS](https://apps.apple.com/us/app/sololearn-learn-to-code-apps/id1210079064) app.
+
+## Support
+
+Would you like to support the project? That's very kind of you! However, I would suggest you to consider supporting SoloLearn first by subscribing to their PRO plan. If you still want to support this particular project, you can go to my Ko-Fi profile by clicking on the button down below!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5J6COZ)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
