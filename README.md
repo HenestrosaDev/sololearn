@@ -24,6 +24,15 @@
     </p>
 </div>
 
+## Table of Contents
+
+- [Courses](#courses)
+- [Code Coaches](#code-coaches)
+  - [Easy](#easy)
+  - [Medium](#medium)
+  - [Hard](#hard)
+- [Acknowledgements](#acknowledgements)
+
 ## Courses
 
 <details>
