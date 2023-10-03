@@ -89,6 +89,6 @@
 	</tr>
 	<tr>
 		<td>5. Visualization</td>
-		<td colspan="2"><em>There are no code projects nor code practices available for this module</em></td>
+		<td colspan="2"><em>There are no code projects or code practices available for this module</em></td>
 	</tr>
 </table>

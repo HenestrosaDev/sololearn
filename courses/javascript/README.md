@@ -96,7 +96,7 @@
 	</tr>
 	<tr>
 		<td>7. DOM and Events</td>
-		<td colspan="2"><em>No code projects nor code practices available for this module</em></td>
+		<td colspan="2"><em>No code projects or code practices available for this module</em></td>
 	</tr>
 	<tr>
 		<td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmascript-6">8. ECMAScript 6</a></td>

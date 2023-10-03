@@ -41,13 +41,13 @@
 <details>
 	<summary>Angular + NestJS</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
 	<summary>C</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
@@ -1081,7 +1081,7 @@ There are no code projects nor code practices available for this course.
         </tr>
         <tr>
             <td>7. DOM and Events</td>
-            <td colspan="2"><em>No code projects nor code practices available for this module</em></td>
+            <td colspan="2"><em>No code projects or code practices available for this module</em></td>
         </tr>
         <tr>
             <td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/8-ecmascript-6">8. ECMAScript 6</a></td>
@@ -1109,7 +1109,7 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>jQuery</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
@@ -1240,7 +1240,7 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>PHP</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
@@ -1766,7 +1766,7 @@ There are no code projects nor code practices available for this course.
         </tr>
         <tr>
             <td>5. Visualization</td>
-            <td colspan="2"><em>There are no code projects nor code practices available for this module</em></td>
+            <td colspan="2"><em>There are no code projects or code practices available for this module</em></td>
         </tr>
     </table>
 </details>
@@ -1774,19 +1774,19 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>React + Redux</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
 	<summary>Responsive Web Design</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
 	<summary>Ruby</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
@@ -1863,7 +1863,7 @@ There are no code projects nor code practices available for this course.
 <details>
 	<summary>Swift 4</summary>
 
-There are no code projects nor code practices available for this course.
+There are no code projects or code practices available for this course.
 </details>
 
 <details>
