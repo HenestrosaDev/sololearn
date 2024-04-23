@@ -39,66 +39,19 @@
 ## Courses
 
 <details>
-	<summary>Angular + NestJS</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/angular.svg" width="18"> Angular + NestJS</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>C</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/c.svg" width="18"> C</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Coding for Marketers</summary>
-	<table>
-        <tr>
-            <th>MODULE</th>
-            <th>CODE REPO</th>
-        </tr>
-        <tr>
-            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web">1. Content on the Web</a></td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/02-2-code-repo">What is HTML (02.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/03-2-code-repo">What is CSS (03.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/04-2-code-repo">Inspect a Web Page's HTML (04.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content">2. Formatting Content</a></td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/08-2-code-repo">List Tags (08.2 Code Repo)</a></td>	
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/09-2-code-repo">Text Formatting Tags (09.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/10-2-code-repo">Images (10.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/11-2-code-repo">Links (11.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/12-2-code-repo">Table Tags (12.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td rowspan="2"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page">3. Tweaking a web page</a></td>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page/16-2-code-repo">Changing Colors (16.2 Code Repo)</a></td>	
-        </tr>
-        <tr>
-            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page/17-2-code-repo">Removing Elements (17.2 Code Repo)</a></td>
-        </tr>
-        <tr>
-            <td rowspan="1">4. Improving SEO</td>
-            <td><em>There are no code repos for this module (this is the most important part of the course)</em></td>	
-        </tr>
-    </table>
-</details>
-
-<details>
-	<summary>C++</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/cpp.svg" width="18"> C++</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -284,7 +237,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>C#</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/csharp.svg" width="18"> C#</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -457,7 +410,54 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>CSS</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/web.svg" width="18"> Coding for Marketers</summary>
+	<table>
+        <tr>
+            <th>MODULE</th>
+            <th>CODE REPO</th>
+        </tr>
+        <tr>
+            <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web">1. Content on the Web</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/02-2-code-repo">What is HTML (02.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/03-2-code-repo">What is CSS (03.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/1-content-on-the-web/04-2-code-repo">Inspect a Web Page's HTML (04.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content">2. Formatting Content</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/08-2-code-repo">List Tags (08.2 Code Repo)</a></td>	
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/09-2-code-repo">Text Formatting Tags (09.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/10-2-code-repo">Images (10.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/11-2-code-repo">Links (11.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/2-formatting-content/12-2-code-repo">Table Tags (12.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page">3. Tweaking a web page</a></td>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page/16-2-code-repo">Changing Colors (16.2 Code Repo)</a></td>	
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/coding-for-marketers/3-tweaking-a-web-page/17-2-code-repo">Removing Elements (17.2 Code Repo)</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1">4. Improving SEO</td>
+            <td><em>There are no code repos for this module (this is the most important part of the course)</em></td>	
+        </tr>
+    </table>
+</details>
+
+<details>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/css.svg" width="18"> CSS</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -533,7 +533,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Data Science</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Data Science</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -567,7 +567,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Game Development with JS</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/javascript.svg" width="18"> Game Development with JS</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -610,7 +610,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Go</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/go.svg" width="18"> Go</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -699,7 +699,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>HTML</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/html.svg" width="18"> HTML</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -749,7 +749,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Intermediate Python</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Intermediate Python</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -842,7 +842,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Java</summary>
+	<summary><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="18"> Java</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -988,7 +988,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>JavaScript</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/javascript.svg" width="18"> JavaScript</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1107,13 +1107,13 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>jQuery</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/jquery.svg" width="18"> jQuery</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Kotlin</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/kotlin.svg" width="18"> Kotlin</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1204,7 +1204,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Machine Learning</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Machine Learning</summary>
     <table>
         <tr>
             <th>MODULE</th>
@@ -1238,13 +1238,13 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>PHP</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/php.svg" width="18"> PHP</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Python Core</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Python Core</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1437,7 +1437,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Python Data Structures</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Python Data Structures</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1495,7 +1495,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Python for Beginners</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Python for Beginners</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1590,7 +1590,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Python for Data Science</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Python for Data Science</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1640,7 +1640,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Python for Finance</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/python.svg" width="18"> Python for Finance</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1680,7 +1680,7 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>R</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/r.svg" width="18"> R</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1772,25 +1772,25 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>React + Redux</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/react.svg" width="18"> React + Redux</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Responsive Web Design</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/web.svg" width="18"> Responsive Web Design</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Ruby</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/ruby.svg" width="18"> Ruby</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>SQL</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/sql.svg" width="18"> SQL</summary>
 	<table>
         <tr>
             <th>MODULE</th>
@@ -1861,13 +1861,13 @@ There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Swift 4</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/swift.svg" width="18"> Swift 4</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary>Web Development Fundamentals</summary>
+	<summary><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/web.svg" width="18"> Web Development Fundamentals</summary>
     <table>
         <tr>
             <th>MODULE</th>
