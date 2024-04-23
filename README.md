@@ -30,9 +30,9 @@
 
 - [Courses](#courses)
 - [Code Coaches](#code-coaches)
-  - 🟩 [Easy](#easy)
-  - 🟧 [Medium](#medium)
-  - 🟥 [Hard](#hard)
+  - 🟩 [Easy](#-easy)
+  - 🟧 [Medium](#-medium)
+  - 🟥 [Hard](#-hard)
 - [Acknowledgements](#acknowledgements)
 - [Support](#support)
 
