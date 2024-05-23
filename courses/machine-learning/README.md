@@ -1,6 +1,6 @@
 # Machine Learning
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1094)
+[Link to legacy course on SoloLearn](https://www.sololearn.com/en/learn/courses/le-machine-learning)
 
 ## Contents
 

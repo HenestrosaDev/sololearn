@@ -1,6 +1,7 @@
 # C++
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1051)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/en/learn/courses/c-plus-plus-introduction)
+- [Link to intermediate course on SoloLearn](https://www.sololearn.com/en/learn/courses/c-plus-plus-intermediate)
 
 ## Contents
 

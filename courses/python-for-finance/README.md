@@ -1,6 +1,6 @@
 # Python for Finance
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1139)
+[Link to legacy course on SoloLearn](https://www.sololearn.com/en/learn/courses/le-python-for-finance)
 
 ## Contents
 

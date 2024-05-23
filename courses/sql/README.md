@@ -1,6 +1,8 @@
 # SQL
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1060)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/en/learn/courses/le-sql)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/en/learn/courses/sql-introduction)
+- [Link to intermediate course on SoloLearn](https://www.sololearn.com/en/learn/courses/sql-intermediate)
 
 ## Contents
 

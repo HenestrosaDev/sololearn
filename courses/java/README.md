@@ -1,6 +1,8 @@
 # Java
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1068)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-java)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/es/learn/courses/java-introduction)
+- [Link to intermediate course on SoloLearn](https://www.sololearn.com/es/learn/courses/java-intermediate)
 
 ## Contents
 

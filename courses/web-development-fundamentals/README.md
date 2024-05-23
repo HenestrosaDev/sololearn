@@ -1,6 +1,6 @@
 # Web Development Fundamentals
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1141)
+[Link to course on SoloLearn](https://www.sololearn.com/en/learn/courses/web-development)
 
 ## Contents
 

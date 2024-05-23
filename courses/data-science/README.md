@@ -1,6 +1,6 @@
 # Data Science 
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1093)
+[Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-data-science)
 
 ## Contents
 

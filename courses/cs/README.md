@@ -1,6 +1,8 @@
 # C#
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1080)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/en/learn/courses/le-c-sharp)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/es/learn/courses/c-sharp-introduction)
+- [Link to intermediate course on SoloLearn](https://www.sololearn.com/es/learn/courses/c-sharp-intermediate)
 
 ## Contents
 

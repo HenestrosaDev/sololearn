@@ -1,6 +1,6 @@
 # Go
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1164)
+[Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-go)
 
 ## Contents
 

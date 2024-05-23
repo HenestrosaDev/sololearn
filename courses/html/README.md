@@ -1,6 +1,7 @@
 # HTML
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1014)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-html)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/es/learn/courses/html-introduction)
 
 ## Contents
 

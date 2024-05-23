@@ -1,6 +1,6 @@
 # Python data structures
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1159)
+[Link to legacy course on SoloLearn](https://www.sololearn.com/en/learn/courses/le-python-data-structures)
 
 ## Contents
 

@@ -1,6 +1,7 @@
 # CSS
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1023)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-css)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/en/learn/courses/css-introduction)
 
 ## Contents
 

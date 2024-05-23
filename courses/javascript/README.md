@@ -1,6 +1,8 @@
 # JavaScript
 
-[Link to course on SoloLearn](https://www.sololearn.com/learning/1024)
+- [Link to legacy course on SoloLearn](https://www.sololearn.com/es/learn/courses/le-javascript)
+- [Link to introduction course on SoloLearn](https://www.sololearn.com/es/learn/courses/javascript-introduction)
+- [Link to intermediate course on SoloLearn](https://www.sololearn.com/es/learn/courses/javascript-intermediate)
 
 ## Contents
 
