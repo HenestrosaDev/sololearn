@@ -39,19 +39,19 @@
 ## Courses
 
 <details>
-	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/angular.svg" width="18"></a>&nbsp;&nbsp; Angular + NestJS</summary>
+	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/angular.svg" width="18"></a>&nbsp; Angular + NestJS</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/c.svg" width="18"></a>&nbsp;&nbsp; C</summary>
+	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/c.svg" width="18"></a>&nbsp; C</summary>
 
 There are no code projects or code practices available for this course.
 </details>
 
 <details>
-	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/cpp.svg" width="18"></a>&nbsp;&nbsp; C++</summary>
+	<summary><a href="#"><img src="https://github.com/HenestrosaDev/sololearn/blob/main/docs/icons/cpp.svg" width="18"></a>&nbsp; C++</summary>
     <table>
         <tr>
             <th>MODULE</th>
