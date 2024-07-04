@@ -12,6 +12,6 @@ So, let's define it by adding a **link** that will navigate the reader to the pa
 <a href="www.sololearn.com" >Get started</a> <br>
 ``` 
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4647]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4647)
 
 >Add a `<br>` tag after the closing `</a>` tag for line break.

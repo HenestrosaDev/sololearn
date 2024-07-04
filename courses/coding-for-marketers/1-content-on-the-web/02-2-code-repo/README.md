@@ -17,6 +17,6 @@ First, let's define a **title** for our Email.
 </body>
 ```
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4646]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4646)
 
 >We also have provided predefined **CSS code** - you can ignore it for now, and we will do some magic with it later.

@@ -16,6 +16,6 @@ Let's add some.
 <a href="https://www.instagram.com/sololearn/">Instagram</a> 
 ```
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4654]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4654)
 
 >You can add a target attribute with a `_blank` value to have the link open in a new window or new tab.

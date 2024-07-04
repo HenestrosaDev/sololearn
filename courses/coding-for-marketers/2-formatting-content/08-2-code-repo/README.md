@@ -20,6 +20,6 @@ Sometimes a single paragraph may not be enough to get your message across. In su
 
 **Content example**:
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4651]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4651)
 
 >Don't forget about closing `</ul>` and `</li>` tags.

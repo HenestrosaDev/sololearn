@@ -11,7 +11,7 @@ You decide to invest $1000 in Bitcoin in 2018, at the price in the declared arra
 
 Expected chart
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4700]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4700)
 
 >Don't forget to import the `matplotlib.pyplot` package under the name `plt` to draw the chart using `plt.plot()` function.  
 >Add the `plt.savefig()` function (using the name of the chart as an argument) at the end of the code to draw the chart in the CodePlayground.

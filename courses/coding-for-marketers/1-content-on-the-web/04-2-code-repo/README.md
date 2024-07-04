@@ -12,6 +12,6 @@ It's time to write your main body content so that your audience understands what
 <p>You have joined our growing group of learners who is looking to master a new programming language, become a developer, or just become more confident in their technical skills.</p> 
 ```
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4658]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4658)
 
 >The `<p>` element automatically adds a **line break**.

@@ -18,6 +18,6 @@ Let's make the titles of list items **bold**.
 
 Content example:
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4652]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4652)
 
 >You can also make the titles italic using `<i>` tag.

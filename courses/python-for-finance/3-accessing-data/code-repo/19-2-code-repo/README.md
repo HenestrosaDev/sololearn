@@ -17,6 +17,6 @@ x = data.history('1y')['Close']
 Use this code to replace the part where the bitcoin array was initially created.
 
 **Result example**:
-![contentImage][https://api.sololearn.com/DownloadFile?id=4708]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4708)
 
 >You can use the same logic as before: calculate the number of coins you would get for $1000 on the first day, then multiply that value by the price of Bitcoin each day using `np.multiply()`.

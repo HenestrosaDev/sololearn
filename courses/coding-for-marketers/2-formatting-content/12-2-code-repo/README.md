@@ -13,6 +13,6 @@ It's time to design things! First, let's center all your headings.
 <h3 style="text-align: center">Follow us</h3>
 ```
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4659]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4659)
 
 >The style attribute is one of ways to add CSS to HTML.

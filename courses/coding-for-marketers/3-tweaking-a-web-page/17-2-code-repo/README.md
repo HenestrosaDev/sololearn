@@ -22,6 +22,6 @@ Here are links to some social network logos: [Facebook](https://cdn2.iconfinder.
 
 **Example**:
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4657]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4657)
 
 >You can add to the links the `target` attribute with a `_blank` value to have the link open in a new window or new tab.

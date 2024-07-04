@@ -20,7 +20,7 @@ Look at the code example below to get a better understanding of what we are goin
 </div>
 ```
 
-![contentImage][https://api.sololearn.com/DownloadFile?id=4656]
+![contentImage](https://api.sololearn.com/DownloadFile?id=4656)
 
 Use the same trick for the picture - enclose the `<img>` element into the `<div class="image">` section.
 
