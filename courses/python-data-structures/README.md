@@ -7,8 +7,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PRACTICES</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PRACTICE</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings">1. Working With Strings</a></td>

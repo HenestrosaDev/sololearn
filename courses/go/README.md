@@ -7,8 +7,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PRACTICES</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PRACTICE</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output">1. Getting Started</a></td>

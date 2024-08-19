@@ -55,8 +55,8 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="7"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cpp/1-basic-concepts">1. Basic Concepts</a></td>
@@ -241,8 +241,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/cs/1-basic-concepts">1. Basic Concepts</a></td>
@@ -461,7 +461,7 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE REPOS</th>
+            <th>CODE REPO</th>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/css/1-the-basics">1. The Basics</a></td>
@@ -537,7 +537,7 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/1-data-manipulation">1. Data Manipulation</a></td>
@@ -571,7 +571,7 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE REPOS</th>
+            <th>CODE REPO</th>
         </tr>
         <tr>
             <td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started">1. Getting Started</a></td>
@@ -614,8 +614,8 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/go/1-getting-started/code-practice/fix-the-output">1. Getting Started</a></td>
@@ -703,7 +703,7 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE REPOS</th>
+            <th>CODE REPO</th>
         </tr>
         <tr>
             <td rowspan="1"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/html/1-overview">1. Overview</a></td>
@@ -753,8 +753,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types">1. Collection Types</a></td>
@@ -846,8 +846,8 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/java/1-basic-concepts">1. Basic Concepts</a></td>
@@ -992,8 +992,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/1-overview">1. Overview</a></td>
@@ -1117,8 +1117,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/kotlin/1-basic-concepts">1. Basic Concepts</a></td>
@@ -1208,7 +1208,7 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/1-the-basics">1. The Basics</a></td>
@@ -1248,8 +1248,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-core/01-basic-concepts">1. Basic Concepts</a></td>
@@ -1441,8 +1441,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-data-structures/1-working-with-strings">1. Working With Strings</a></td>
@@ -1499,8 +1499,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-beginners/1-basic-concepts">1. Basic Concepts</a></td>
@@ -1594,8 +1594,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-data-science/1-introduction">1. Basic Concepts</a></td>
@@ -1644,8 +1644,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE REPOS</th>
-            <th>CODE PRACTICES</th>
+            <th>CODE REPO</th>
+            <th>CODE PRACTICE</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/1-python-in-finance">1. Python in Finance</a></td>
@@ -1684,8 +1684,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction">1. Introduction</a></td>
@@ -1794,8 +1794,8 @@ There are no code projects or code practices available for this course.
 	<table>
         <tr>
             <th>MODULE</th>
-            <th>CODE PRACTICES</th>
-            <th>CODE PROJECTS</th>
+            <th>CODE PRACTICE</th>
+            <th>CODE PROJECT</th>
         </tr>
         <tr>
             <td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/sql/1-basic-concepts">1. Basic Concepts</a></td>
@@ -1871,7 +1871,7 @@ There are no code projects or code practices available for this course.
     <table>
         <tr>
             <th>MODULE</th>
-            <th>CODE REPOS</th>
+            <th>CODE REPO</th>
         </tr>
         <tr>
             <td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started">1. Overview</a></td>

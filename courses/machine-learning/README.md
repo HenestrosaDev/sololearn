@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/machine-learning/1-the-basics">1. The Basics</a></td>

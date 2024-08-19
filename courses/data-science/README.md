@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/data-science/1-data-manipulation">1. Data Manipulation</a></td>

@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE REPOS</th>
+		<th>CODE REPO</th>
 	</tr>
 	<tr>
 		<td rowspan="4"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/game-development-with-js/1-getting-started">1. Getting Started</a></td>

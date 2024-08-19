@@ -8,7 +8,7 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE REPOS</th>
+		<th>CODE REPO</th>
 	</tr>
 	<tr>
 		<td rowspan="2"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/css/1-the-basics">1. The Basics</a></td>

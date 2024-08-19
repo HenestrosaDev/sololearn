@@ -7,8 +7,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE REPOS</th>
-		<th>CODE PRACTICES</th>
+		<th>CODE REPO</th>
+		<th>CODE PRACTICE</th>
 	</tr>
 	<tr>
 		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/python-for-finance/1-python-in-finance">1. Python in Finance</a></td>

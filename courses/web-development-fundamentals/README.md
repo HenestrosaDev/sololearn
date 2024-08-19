@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE REPOS</th>
+		<th>CODE REPO</th>
 	</tr>
 	<tr>
 		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/web-development-fundamentals/1-getting-started">1. Overview</a></td>

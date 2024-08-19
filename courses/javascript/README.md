@@ -9,8 +9,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PRACTICES</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PRACTICE</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td rowspan="3"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/javascript/1-overview">1. Overview</a></td>

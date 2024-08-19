@@ -7,8 +7,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PRACTICES</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PRACTICE</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td rowspan="6"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/intermediate-python/1-collection-types">1. Collection Types</a></td>

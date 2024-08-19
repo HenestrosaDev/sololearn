@@ -7,8 +7,8 @@
 <table>
 	<tr>
 		<th>MODULE</th>
-		<th>CODE PRACTICES</th>
-		<th>CODE PROJECTS</th>
+		<th>CODE PRACTICE</th>
+		<th>CODE PROJECT</th>
 	</tr>
 	<tr>
 		<td rowspan="5"><a href="https://github.com/HenestrosaConH/sololearn/tree/main/courses/r/1-introduction">1. Introduction</a></td>
