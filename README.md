@@ -2049,7 +2049,7 @@ There are no code projects or code practices available for this course.
 
 ## Acknowledgements
 
-Thanks to [SoloLearn](https://www.sololearn.com/) for their amazing app and all the free courses that they have provided to the community! You can access it via web or mobile through its [Android](https://play.google.com/store/apps/details?id=com.sololearn) and [iOS](https://apps.apple.com/us/app/sololearn-learn-to-code-apps/id1210079064) app.
+Thanks to [SoloLearn](https://www.sololearn.com/) for their amazing app and all the free courses they have made available to the community! You can access it via the [web](https://www.sololearn.com/) or mobile through their [Android](https://play.google.com/store/apps/details?id=com.sololearn) and/or [iOS](https://apps.apple.com/us/app/sololearn-learn-to-code-apps/id1210079064) apps.
 
 ## Support
 
